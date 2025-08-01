@@ -1,0 +1,252 @@
+[
+  {
+    "question": "The number of different 5-digit numbers greater than 50000 using digits 0-7, with first and last digit sum \u2264 8, is:",
+    "options": [
+      "4608",
+      "5720",
+      "5719",
+      "4607"
+    ],
+    "answer": "4607"
+  },
+  {
+    "question": "In trapezium ABCD inscribed in parabola y\u00b2 = 4x, diagonal AC of length 5\u221a2 passes through (1,0). What is the area?",
+    "options": [
+      "75/4",
+      "25/2",
+      "125/8",
+      "75/8"
+    ],
+    "answer": "75/4"
+  },
+  {
+    "question": "Two natural numbers k\u2081 and k\u2082 are selected. The probability that k\u2081i + k\u2082i \u2260 0 (where i = \u221a-1) is",
+    "options": [
+      "1/2",
+      "1/4",
+      "3/4",
+      "2/3"
+    ],
+    "answer": "3/4"
+  },
+  {
+    "question": "If f(x) = x\u00b2 / (x\u00b2 + 2), then \u03a3\u2096\u208c\u2081\u2078\u00b9 f(k/82) is:",
+    "options": [
+      "41",
+      "81/2",
+      "82",
+      "81\u00d72"
+    ],
+    "answer": "81/2"
+  },
+  {
+    "question": "If f(x) = (2 + 3a)x\u00b2 + (a + 2)/(a \u2013 1)x + b, and f(x + y) = f(x) + f(y) + 1 \u2013 (2/7)xy, then \u03a3 |f(i)| from i = 1 to 5 is",
+    "options": [
+      "715",
+      "735",
+      "545",
+      "675"
+    ],
+    "answer": "675"
+  },
+  {
+    "question": "Point A is equidistant from (0,3,2), (2,0,3), (0,0,1) and lies in xy-plane. B = (1,4,\u20131), C = (2,0,\u20132). Then:",
+    "options": [
+      "Both ABC is right-angled isosceles triangle and Area = 9\u221a2/2",
+      "Only triangle is right-angled isosceles",
+      "Only Area = 9\u221a2/2",
+      "Both are false"
+    ],
+    "answer": "Only triangle is right-angled isosceles"
+  },
+  {
+    "question": "Relation R = {(x, y): x+y is even} is:",
+    "options": [
+      "Reflexive and transitive but not symmetric",
+      "Reflexive and symmetric but not transitive",
+      "An equivalence relation",
+      "Symmetric and transitive but not reflexive"
+    ],
+    "answer": "An equivalence relation"
+  },
+  {
+    "question": "For a circle touching x-axis at (a,0) and cutting y-intercept b, lying below x-axis, find (2a, b\u00b2) in terms of coefficients \u03b1, \u03b2, \u03b3 of general form.",
+    "options": [
+      "(\u03b1, \u03b2\u00b2 + 4\u03b3)",
+      "(\u03b3, \u03b2\u00b2 \u2013 4\u03b1)",
+      "(\u03b3, \u03b2\u00b2 + 4\u03b1)",
+      "(\u03b1, \u03b2\u00b2 \u2013 4\u03b3)"
+    ],
+    "answer": "(\u03b1, \u03b2\u00b2 \u2013 4\u03b3)"
+  },
+  {
+    "question": "Given a\u2080 = 0, a\u2081 = 1/2, and recurrence 2a\u2099\u208a\u2082 = 5a\u2099\u208a\u2081 \u2013 3a\u2099, find \u03a3 a\u2096 from k = 1 to 100.",
+    "options": [
+      "3a\u2089\u2089 \u2013 100",
+      "3a\u2081\u2080\u2080 \u2013 100",
+      "3a\u2081\u2080\u2080 + 100",
+      "3a\u2089\u2089 + 100"
+    ],
+    "answer": "3a\u2081\u2080\u2080 \u2013 100"
+  },
+  {
+    "question": "Evaluate: cos\u207b\u00b9(1/5) + sin\u207b\u00b9(1/13) + sin\u207b\u00b9(5/65)",
+    "options": [
+      "1",
+      "0",
+      "33/65",
+      "32/65"
+    ],
+    "answer": "0"
+  },
+  {
+    "question": "If T\u2098 = 1/25, T\u2082\u2085 = 1/20 and \u03a3\u1d63\u208c\u2081\u00b2\u2075 T\u1d63 = 13, then \u03a3\u1d63\u208c\u2098\u00b2\u2098 5m T\u1d63 is:",
+    "options": [
+      "112",
+      "126",
+      "98",
+      "142"
+    ],
+    "answer": "126"
+  },
+  {
+    "question": "The image of point (4,4,3) in the line (x\u20131)/2 = (y\u20132)/1 = (z\u20131)/3 is (\u03b1, \u03b2, \u03b3). What is \u03b1 + \u03b2 + \u03b3?",
+    "options": [
+      "9",
+      "12",
+      "8",
+      "7"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "If \u222b\u2080^\u03c0 96x\u00b2 cos x / (1 + e\u00b2) dx = \u03c0(\u03b1\u03c0\u00b2 + \u03b2), find (\u03b1 + \u03b2)\u00b2",
+    "options": [
+      "144",
+      "196",
+      "100",
+      "64"
+    ],
+    "answer": "100"
+  },
+  {
+    "question": "Sum of all local minimum values of the piecewise function f(x) with segments defined around \u20131, 0, 2 is",
+    "options": [
+      "171/72",
+      "131/72",
+      "157/72",
+      "167/72"
+    ],
+    "answer": "157/72"
+  },
+  {
+    "question": "Sum of squares of all real roots of x\u00b2 + |2x \u2013 3| \u2013 4 = 0 is",
+    "options": [
+      "3(\u221a3 \u2013 2)",
+      "6(\u221a3 \u2013 2)",
+      "6(\u221a2 \u2013 2)",
+      "3(\u221a2 \u2013 2)"
+    ],
+    "answer": "6(\u221a2 \u2013 2)"
+  },
+  {
+    "question": "If \u222b\u2080\u02e3 t f(t) dt = x\u00b2 f(x), x > 0 and f(2) = 3, then f(6) =",
+    "options": [
+      "1",
+      "2",
+      "6",
+      "3"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "If C(r\u20131, n) = 28, C(r, n) = 56, C(r+1, n) = 70, and centroid of triangle ABC with given coordinates lies on (3x\u20131)\u00b2 + (3y)\u00b2 = \u03b1, find \u03b1:",
+    "options": [
+      "20",
+      "8",
+      "6",
+      "18"
+    ],
+    "answer": "20"
+  },
+  {
+    "question": "If z\u2081 = 3 + 2\u221a2i, and z\u2082 = 3z\u2081 with arg(z\u2082) = arg(z\u2081) + \u03c0/6, then triangle ABO with vertices O, A(z\u2081), B(z\u2082) is",
+    "options": [
+      "Area of triangle = 11/3",
+      "Scalene triangle",
+      "Area = 11/4",
+      "Obtuse-angled isosceles triangle"
+    ],
+    "answer": "Obtuse-angled isosceles triangle"
+  },
+  {
+    "question": "From 7 good and 3 defective oranges, 2 are drawn. Let x be defective count. What is Var(x)?",
+    "options": [
+      "28/75",
+      "14/25",
+      "26/75",
+      "18/25"
+    ],
+    "answer": "28/75"
+  },
+  {
+    "question": "Find area of region {(x,y): 0 \u2264 y \u2264 2|x| + 1, 0 \u2264 y \u2264 x\u00b2 + 1, |x| \u2264 3}",
+    "options": [
+      "80/3",
+      "64/3",
+      "17/3",
+      "32/3"
+    ],
+    "answer": "64/3"
+  },
+  {
+    "question": "Let E\u2081: x\u00b2/9 + y\u00b2/4 = 1 be an ellipse. Ellipses E\u1d62 are constructed such that their centers and eccentricities are the same as E\u2081 and the minor axis of E\u1d62 is the major axis of E\u1d62\u208a\u2081. If A\u1d62 is the area of E\u1d62, then \u03a3 A\u1d62/\u03c0 from i=1 to \u221e is:",
+    "options": [
+      "54",
+      "60",
+      "72",
+      "45"
+    ],
+    "answer": "54"
+  },
+  {
+    "question": "Let f(x) be defined piecewise as: f(x) = 3x if x < 0; f(x) = min{1+x+[x], x+2[x]} for 0 \u2264 x \u2264 2; f(x) = 5 if x > 2. Let \u03b1 = #discontinuities, \u03b2 = #non-differentiable points. Find \u03b1 + \u03b2.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Let a = \u00ee + \u0135 + k\u0302, b = 2\u00ee + 2\u0135 + k\u0302, and d = a \u00d7 b. If c satisfies a\u00b7c = c\u00b2, |2a \u2013 c|\u00b2 = 8, and angle between d and c is \u03c0/4, then 10 \u2013 3b\u00b7c + |d \u00d7 c|\u00b2 = ?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "Let S = {\u20133, \u20132, \u20131, 1, 2} and M be all 3\u00d73 real matrices. Let S\u2081 = {A \u2208 M | A = A\u1d57 and entries from S}, S\u2082 = {A \u2208 M | A = \u2013A\u1d57 and entries from S}, S\u2083 = {A \u2208 M | a\u2081\u2081 + a\u2082\u2082 + a\u2083\u2083 = 0}. If |S\u2081 \u222a S\u2082 \u222a S\u2083| = 125^\u03b1, find \u03b1.",
+    "options": [
+      "1600",
+      "1613",
+      "1620",
+      "1500"
+    ],
+    "answer": "1613"
+  },
+  {
+    "question": "Let \u03b1 = 1 + \u03a3_{r=1 to 6} (\u20131)^{r\u20131}\u00b7C(12, 2r\u20131)\u00b73^r. Then, the distance from point (12, 3) to line \u03b1x \u2013 3y + 1 = 0 is",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "answer": "5"
+  }
+]

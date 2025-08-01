@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Let the line x + y = 1 meet the circle x\u00b2 + y\u00b2 = 4 at points A and B. A line perpendicular to AB and passing through the midpoint of AB intersects the circle again at C and D. What is the area of quadrilateral ADBC?",
+    "options": [
+      "3\u221a7",
+      "2\u221a14",
+      "5\u221a7",
+      "14"
+    ],
+    "answer": "2\u221a14"
+  },
+  {
+    "question": "If f(x) = (1 + sin\u00b2x + cos\u00b2x + 4sin4x) / (sin\u00b2x + cos\u00b2x + 1 + 4sin4x), what is M\u2074 \u2013 m\u2074 where M and m are the maximum and minimum values of f(x)?",
+    "options": [
+      "1280",
+      "1295",
+      "1040",
+      "1215"
+    ],
+    "answer": "1280"
+  },
+  {
+    "question": "Two parabolas share the same focus (4,3) and have directrices as x-axis and y-axis respectively. If they intersect at A and B, what is AB\u00b2?",
+    "options": [
+      "192",
+      "384",
+      "96",
+      "392"
+    ],
+    "answer": "192"
+  },
+  {
+    "question": "Triangle ABC is formed by lines 7x\u20136y+3=0, x+2y\u201331=0 and 9x\u20132y\u201319=0. If (h,k) is the image of the centroid of triangle ABC in the line 3x + 6y \u2013 53 = 0, what is h\u00b2 + k\u00b2 + hk?",
+    "options": [
+      "37",
+      "47",
+      "40",
+      "36"
+    ],
+    "answer": "37"
+  },
+  {
+    "question": "Let a = 2i\u0302 \u2013 j\u0302 + 3k\u0302 and b = 3i\u0302 \u2013 5j\u0302 + k\u0302. If a \u00d7 c = c \u00d7 b and (a + c)\u00b7(b + c) = 168, what is the maximum value of |c|\u00b2?",
+    "options": [
+      "77",
+      "462",
+      "308",
+      "154"
+    ],
+    "answer": "308"
+  },
+  {
+    "question": "How many 7-digit numbers can be formed using digits 1, 2, 3 such that the sum of the digits is 11?",
+    "options": [
+      "158",
+      "173",
+      "164",
+      "161"
+    ],
+    "answer": "161"
+  },
+  {
+    "question": "Let A be the area of the region {(x,y): 2y \u2264 x+3, y \u2264 x+3, y \u2265 x\u20131}. What is 6A?",
+    "options": [
+      "16",
+      "12",
+      "18",
+      "14"
+    ],
+    "answer": "14"
+  },
+  {
+    "question": "Find the least value of n such that the number of integral terms in (127)^(1/3) + (11)^(1/12)^n is 183.",
+    "options": [
+      "2184",
+      "2148",
+      "2172",
+      "2196"
+    ],
+    "answer": "2184"
+  },
+  {
+    "question": "How many solutions does the equation [(9x\u00b2 \u2013 9x + 2)(2x\u00b2 \u2013 7x + 3)] = 0 have?",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "If y(x) solves cos(x)\u00b7log(cos x)\u00b2 dy + (sin x \u2013 3y sin x log(cos x)) dx = 0, and y(\u03c0/4) = 1 / log(4), then y(\u03c0/6) is:",
+    "options": [
+      "(log 3 \u2013 log 4)/e\u00b2",
+      "(\u2013log 4 + log 3)/e",
+      "\u2013log 4 / e",
+      "(log 3 \u2013 log 4)/e"
+    ],
+    "answer": "(log 3 \u2013 log 4)/e"
+  },
+  {
+    "question": "Define relation R on [0, \u03c0/2] such that x R y iff sec\u00b2x \u2013 tan\u00b2y = 1. What type of relation is R?",
+    "options": [
+      "An equivalence relation",
+      "Reflexive and transitive but not symmetric",
+      "Reflexive and symmetric but not transitive",
+      "Reflexive but neither symmetric nor transitive"
+    ],
+    "answer": "An equivalence relation"
+  },
+  {
+    "question": "Two ellipses E\u2081 and E\u2082 have same eccentricity 1/\u221a3. The product of their latus rectum lengths is 32/3 and distance between foci of E\u2081 is 4. If E\u2081 and E\u2082 intersect in a rectangle, what is its area?",
+    "options": [
+      "6\u221a6",
+      "18\u221a6 / 5",
+      "12\u221a6 / 5",
+      "24\u221a6 / 5"
+    ],
+    "answer": "24\u221a6 / 5"
+  },
+  {
+    "question": "An A.P. has first three terms summing to 54, and sum of first 20 terms between 1600 and 1800. What is the 11th term?",
+    "options": [
+      "84",
+      "122",
+      "90",
+      "108"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "Lines L\u2081 and L\u2082 intersect and L\u2083 passes through their point of intersection and is parallel to a + b. What point does L\u2083 pass through?",
+    "options": [
+      "(8, 26, 12)",
+      "(2, 8, 5)",
+      "(\u20131, \u20131, 1)",
+      "(5, 17, 4)"
+    ],
+    "answer": "(8, 26, 12)"
+  },
+  {
+    "question": "Evaluate: lim\u2099\u2192\u221e \u03a3\u2096\u208c\u2081\u207f (k\u00b3 + 6k\u00b2 + 11k + 5)/((k+3)!)",
+    "options": [
+      "4/3",
+      "2",
+      "7/3",
+      "5/3"
+    ],
+    "answer": "5/3"
+  },
+  {
+    "question": "Evaluate: \u222b\u2080^\u03c0 sin\u03b8 + cos\u03b8 / (9 + 16 sin 2\u03b8) d\u03b8",
+    "options": [
+      "3 log\u20914",
+      "6 log\u20914",
+      "4 log\u20913",
+      "2 log\u20913"
+    ],
+    "answer": "4 log\u20913"
+  },
+  {
+    "question": "L\u2081: (x\u20131)/1 = (y\u20132)/1 = (z\u20131)/2 and L\u2082: (x+1)/1 = (y\u20132)/2 = (z\u20130)/1. If L\u2083 passes through their point of intersection and is perpendicular to both, and intersects L\u2081, then |5\u03b1 \u2013 11\u03b2 \u2013 8\u03b3| = ?",
+    "options": [
+      "18",
+      "16",
+      "25",
+      "20"
+    ],
+    "answer": "25"
+  },
+  {
+    "question": "Given \u03a3 (x\u1d62 \u2013 2) = 30, \u03a3 (x\u1d62 \u2013 \u03b2)\u00b2 = 98 for i = 1 to 10, and variance = 4/5. If new data is 2(x\u1d62\u20131)+4\u03b2, what is \u03b2\u03bc/\u03c3\u00b2?",
+    "options": [
+      "100",
+      "110",
+      "120",
+      "90"
+    ],
+    "answer": "100"
+  },
+  {
+    "question": "If z\u2081 lies in |z \u2013 (8 + 2i)| \u2264 1 and z\u2082 in |z \u2013 (2 \u2013 6i)| \u2264 2, what is the minimum value of |z\u2081 \u2013 z\u2082|?",
+    "options": [
+      "3",
+      "7",
+      "13",
+      "10"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "Matrix A = [[log128/log8, log5/log25], [log128/log8, log5/log25]]. If C is the cofactor matrix and 8|C| = x, find x.",
+    "options": [
+      "262",
+      "288",
+      "242",
+      "222"
+    ],
+    "answer": "242"
+  },
+  {
+    "question": "If \u222b\u2080\u00b9 f(\u03bbx) d\u03bb = af(x), f(1) = 1 and f(16) = 1/8, then 16 \u2013 f'(1/16) equals:",
+    "options": [
+      "96",
+      "112",
+      "128",
+      "104"
+    ],
+    "answer": "112"
+  },
+  {
+    "question": "Let A = [[2, 1], [1, 0]]. Define S = {m \u2208 \u2124 : A\u00b2\u1d50 + A\u1d50 = 3I \u2013 A}. What is the cardinality of S?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Find the least natural number p such that lim\u2093\u21920\u207a (\u230a1/x\u230b + \u230a2/x\u230b + ... + \u230ap/x\u230b \u2013 \u230ax\u230b \u2013 \u230ax\u00b2\u230b \u2013 ... \u2013 \u230ax\u2079\u230b) \u2265 1.",
+    "options": [
+      "21",
+      "22",
+      "24",
+      "26"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "How many 6-letter words can be made using 'MATHS' such that any used letter appears at least twice?",
+    "options": [
+      "1405",
+      "1420",
+      "1320",
+      "1505"
+    ],
+    "answer": "1405"
+  },
+  {
+    "question": "Let S = {x: cos\u207b\u00b9x + sin\u207b\u00b9x + sin\u207b\u00b9(2x + 1) = \u03c0}. Then \u03a3_{x\u2208S} (2x \u2013 1)\u00b2 = ?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": "5"
+  }
+]

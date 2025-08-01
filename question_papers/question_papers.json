@@ -1,0 +1,229 @@
+{
+  "22nd Jan Shift 1": [
+    {
+      "question": "The number of non-empty equivalence relations on the set {1,2,3} is:",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "4"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "Let \u0192 : R\u2192R be a twice differentiable function such that \u0192(x + y) = \u0192(x) \u0192(y) for all x, y \u2208 R. If \u0192'(0) = 4a and \u0192 satisfies \u0192''(x) \u2013 3a \u0192'(x) \u2013 \u0192(x) = 0, a > 0, then the area of the region R = {(x,y) | 0 \u2264 y \u2264 \u0192(ax), 0 \u2264 x \u2264 2} is:",
+      "options": [
+        "e\u00b2 \u2013 1",
+        "e\u2074 + 1",
+        "e\u2074 \u2013 1",
+        "e\u00b2 + 1"
+      ],
+      "answer": "e\u00b2 \u2013 1"
+    },
+    {
+      "question": "Let the triangle PQR be the image of the triangle with vertices (1,3), (3,1) and (2,4) in the line x + 2y = 2. If the centroid of \u0394PQR is the point (\u03b1, \u03b2), then 15(\u03b1 \u2013 \u03b2) is equal to:",
+      "options": [
+        "24",
+        "19",
+        "21",
+        "22"
+      ],
+      "answer": "22"
+    },
+    {
+      "question": "Let z\u2081, z\u2082 and z\u2083 be three complex numbers on the circle |z| = 1 with arg(z\u2081) = \u2013\u03c0/4, arg(z\u2082) = 0 and arg(z\u2083) = \u03c0/4. If z\u2081z\u2082 + z\u2082z\u2083 + z\u2083z\u2081 = 2 + \u03b1 + \u03b2, \u03b1, \u03b2 \u2208 Z, then the value of \u03b1\u00b2 + \u03b2\u00b2 is:",
+      "options": [
+        "24",
+        "41",
+        "31",
+        "29"
+      ],
+      "answer": "29"
+    },
+    {
+      "question": "Using the principal values of the inverse trigonometric functions the sum of the maximum and the minimum values of 16((sec\u207b\u00b9x)\u00b2 + (cosec\u207b\u00b9x)\u00b2) is:",
+      "options": [
+        "24\u03c0\u00b2",
+        "18\u03c0\u00b2",
+        "31\u03c0\u00b2",
+        "22\u03c0\u00b2"
+      ],
+      "answer": "22\u03c0\u00b2"
+    },
+    {
+      "question": "A coin is tossed three times. Let X denote the number of times a tail follows a head. If \u03bc and \u03c3\u00b2 denote the mean and variance of X, then the value of 64(\u03bc + \u03c3\u00b2) is:",
+      "options": [
+        "51",
+        "48",
+        "32",
+        "64"
+      ],
+      "answer": "48"
+    },
+    {
+      "question": "Let a\u2081, a\u2082, a\u2083,... be a G.P. of increasing positive terms. If a\u2081a\u2085 = 28 and a\u2082 + a\u2084 = 29, the a\u2086 is equal to:",
+      "options": [
+        "628",
+        "526",
+        "784",
+        "812"
+      ],
+      "answer": "784"
+    },
+    {
+      "question": "Let L\u2081 and L\u2082 be two lines. Then which of the following points lies on the line of the shortest distance between L\u2081 and L\u2082?",
+      "options": [
+        "(\u20135/3, 7, 1)",
+        "(2, 3, 1/3)",
+        "(\u20138/3, 1, 1/3)",
+        "(\u201314/3, 22/3, 3)"
+      ],
+      "answer": "(\u201314/3, 22/3, 3)"
+    },
+    {
+      "question": "The product of all solutions of the equation e^(5 log x) + 3 = 8e^x, x > 0, is:",
+      "options": [
+        "e^(8/5)",
+        "e^(6/5)",
+        "e\u00b2",
+        "e"
+      ],
+      "answer": "e^(8/5)"
+    },
+    {
+      "question": "If T\u2099 = (2n \u2013 1)(2n + 1)(2n + 3)/64, then lim(n\u2192\u221e) (1/T\u2099) is equal to:",
+      "options": [
+        "1",
+        "0",
+        "2/3",
+        "1/3"
+      ],
+      "answer": "2/3"
+    },
+    {
+      "question": "From all the English alphabets, five letters are chosen and are arranged in alphabetical order. The total number of ways, in which the middle letter is \u2018M\u2019, is:",
+      "options": [
+        "14950",
+        "6084",
+        "4356",
+        "5148"
+      ],
+      "answer": "5148"
+    },
+    {
+      "question": "Let x = x(y) be the solution of the differential equation (y\u00b2 + 1) dx \u2013 x dy = 0. If x(1) = 1, then x(1/2) is:",
+      "options": [
+        "(1 + e)/2",
+        "(3 + e)/2",
+        "3 \u2013 e",
+        "3 + e"
+      ],
+      "answer": "3 \u2013 e"
+    },
+    {
+      "question": "Let the parabola y = x\u00b2 + px \u2013 3, meet the coordinate axes at the points P, Q and R. If the circle C with centre at (\u20131, \u20131) passes through the points P, Q and R, then the area of \u0394PQR is:",
+      "options": [
+        "4",
+        "6",
+        "7",
+        "5"
+      ],
+      "answer": "6"
+    },
+    {
+      "question": "A circle C of radius 2 lies in the second quadrant and touches both the coordinate axes. Let r be the radius of a circle that has centre at the point (2, 5) and intersects the circle C at exactly two points. If the set of all possible values of r is the interval (\u03b1, \u03b2), then 3\u03b2 \u2013 2\u03b1 is equal to:",
+      "options": [
+        "15",
+        "14",
+        "12",
+        "10"
+      ],
+      "answer": "15"
+    },
+    {
+      "question": "Let for \u0192(x) = 7tan\u2078x + 7tan\u2076x \u2013 3tan\u2074x \u2013 3tan\u00b2x, I\u2081 = \u222b\u2080^{\u03c0/4} \u0192(x)dx and I\u2082 = \u222b\u2080^{\u03c0/4} x\u0192(x)dx. Then 7I\u2081 + 12I\u2082 is equal to:",
+      "options": [
+        "2\u03c0",
+        "\u03c0",
+        "1",
+        "2"
+      ],
+      "answer": "1"
+    },
+    {
+      "question": "Let \u0192(x) be a real differentiable function such that \u0192(0) = 1 and \u0192(x + y) = \u0192(x)\u0192'(y) + \u0192'(x)\u0192(y) for all x, y \u2208 R. Then \u2211_{n=1}^{100} log \u0192(n) is equal to:",
+      "options": [
+        "2384",
+        "2525",
+        "5220",
+        "2406"
+      ],
+      "answer": "2525"
+    },
+    {
+      "question": "Let A = {1,2,3,.......,10} and B = {m/n : m, n \u2208 A, m < n and gcd(m, n) =1}. Then n(B) is equal to:",
+      "options": [
+        "31",
+        "36",
+        "37",
+        "29"
+      ],
+      "answer": "31"
+    },
+    {
+      "question": "The area of the region, inside the circle (2x \u2013 2)\u00b2 + (2y \u2013 3)\u00b2 = 12 and outside the parabola y\u00b2 = 2\u221a3x is:",
+      "options": [
+        "6\u03c0 \u2013 8",
+        "3\u03c0 \u2013 8",
+        "6\u03c0 \u2013 16",
+        "3\u03c0 + 8"
+      ],
+      "answer": "6\u03c0 \u2013 16"
+    },
+    {
+      "question": "Two balls are selected at random one by one without replacement from a bag containing 4 white and 6 black balls. If the probability that the first selected ball is black, given that the second selected ball is also black, is m/n, where gcd(m, n) = 1, then m + n is equal to:",
+      "options": [
+        "14",
+        "4",
+        "11",
+        "13"
+      ],
+      "answer": "14"
+    },
+    {
+      "question": "Let the foci of a hyperbola be (1, 14) and (1, \u201312). If it passes through the point (1, 6), then the length of its latus-rectum is:",
+      "options": [
+        "25/6",
+        "24/5",
+        "288/5",
+        "144/5"
+      ],
+      "answer": "288/5"
+    },
+    {
+      "question": "Let f(x) be a piecewise function defined as f(x) = \u20133ax\u00b2 \u2013 2 for x < 1 and f(x) = ax\u00b2 + bx for x \u2265 1. If f is differentiable for all x \u2208 R, and the area enclosed by f(x) and y = \u201320 is \u03b1 + \u03b2\u221a3, then \u03b1 + \u03b2 is equal to:",
+      "options": [],
+      "answer": "34"
+    },
+    {
+      "question": "If \u2211_{r=0}^{15} C_{2r}^{30} = m/2^n, gcd(m, n) = 1, then m \u2013 n is:",
+      "options": [],
+      "answer": "2035"
+    },
+    {
+      "question": "Let A be a square matrix of order 3 such that det(A) = \u20132 and det(3adj(\u20136adj(3A))) = 2^{m+n}.3^{mn}, m > n. Then 4m + 2n is equal to:",
+      "options": [],
+      "answer": "34"
+    },
+    {
+      "question": "Let L\u2081 and L\u2082 be two intersecting lines, and point A = (1, 1, \u20131). If P is the foot of perpendicular from A on L\u2082, and B is the point of intersection, then the value of 26\u03b1(PB)\u00b2 is:",
+      "options": [],
+      "answer": "216"
+    },
+    {
+      "question": "Let c be the projection vector of b = \u03bbi + 4k, \u03bb > 0, on the vector a = i + 2j + 2k. If |a + c| = 7, then the area of the parallelogram formed by the vectors b and c is:",
+      "options": [],
+      "answer": "16"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+[
+  {
+    "question": "The value of \u222b(log\u2091x + 1 - 6 log\u2091x)/(x(e^x + e^(-x))) dx is:",
+    "options": [
+      "log\u20912",
+      "2",
+      "1",
+      "e/2"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Let I(x) = \u222b from 11 to 15 of (dx)/(x - 11)^13 + (x - 15)^13. If I(37) - I(24) = (1/4)(1/13^b - 1/13^c), then 3(b + c) is equal to:",
+    "options": [
+      "40",
+      "39",
+      "22",
+      "26"
+    ],
+    "answer": "39"
+  },
+  {
+    "question": "If the function f(x) = [(sin(k\u2081x) + sin(k\u2082x))/(x)] for x < 0, f(0) = 4, f(x) = [log\u2091(1 + 2k\u2081x\u00b2)/(x(2 + k\u2082x))] for x > 0 is continuous at x = 0, then k\u2081\u00b2 + k\u2082\u00b2 is:",
+    "options": [
+      "8",
+      "20",
+      "5",
+      "10"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "If the line 3x - 2y + 12 = 0 intersects the parabola 4y = 3x\u00b2 at A and B, then the angle subtended by AB at the vertex of the parabola is:",
+    "options": [
+      "tan\u207b\u00b9(11/9)",
+      "\u03c0 - tan\u207b\u00b9(3/2)",
+      "tan\u207b\u00b9(4/5)",
+      "tan\u207b\u00b9(9/7)"
+    ],
+    "answer": "tan\u207b\u00b9(9/7)"
+  },
+  {
+    "question": "A curve y = f(x) passes through (0, 5) and (ln2, k). If the curve satisfies 2(3 + y)e^(2x) dx \u2013 (7 + e^(2x)) dy = 0, then k is:",
+    "options": [
+      "16",
+      "8",
+      "32",
+      "4"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Let f(x) = ln x and g(x) = (x\u2074 - 2x\u00b3 + 3x\u00b2 - 2x + 2)/(2x\u00b2 - 2x + 1). Then the domain of fog is:",
+    "options": [
+      "R",
+      "(0, \u221e)",
+      "[0, \u221e)",
+      "[1, \u221e)"
+    ],
+    "answer": "R"
+  },
+  {
+    "question": "An arc AC subtends right angle at the center O of a circle. A point B on arc AC divides it in 1:5 ratio (length AB:BC). If OC = \u03b1 + \u03b2 and (2\u221a3 \u2013 1)\u03b1 = \u03b2, then (2\u221a3 \u2013 1)\u03b1 \u2013 \u03b2 equals:",
+    "options": [
+      "2\u221a3 \u2013 1",
+      "2\u221a3",
+      "5\u221a3",
+      "2\u221a3 + 1"
+    ],
+    "answer": "2\u221a3 \u2013 1"
+  },
+  {
+    "question": "The sum of first four terms of an A.P. is one-fifth the sum of the next four terms. If first term is 3, then the sum of the first 20 terms is:",
+    "options": [
+      "\u20131200",
+      "\u20131080",
+      "\u20131020",
+      "\u2013120"
+    ],
+    "answer": "\u20131080"
+  },
+  {
+    "question": "The area of triangle PQR where P is foot of perpendicular from Q(10, \u20133, \u20131) on line (x\u20133)/7 = (y+2)/(\u20131) = (z+1)/2 and R = (3, \u20132, 1) is:",
+    "options": [
+      "9\u221a15",
+      "30",
+      "8\u221a15",
+      "3\u221a30"
+    ],
+    "answer": "3\u221a30"
+  },
+  {
+    "question": "Let (z \u2013 i)/(2z + i) = 1/3. If this is the equation of a circle, and its center is C, and triangle has vertices (0,0), C, (\u03b1,0) with area 11, then \u03b1\u00b2 = ?",
+    "options": [
+      "100",
+      "50",
+      "121/25",
+      "81/25"
+    ],
+    "answer": "100"
+  },
+  {
+    "question": "Let R = {(1,2), (2,3), (3,3)} on A = {1,2,3,4}. Minimum number of elements to be added to make R equivalence is:",
+    "options": [
+      "10",
+      "8",
+      "9",
+      "7"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "Number of words from 'DAUGHTER' with vowels not together:",
+    "options": [
+      "34000",
+      "37000",
+      "36000",
+      "35000"
+    ],
+    "answer": "36000"
+  },
+  {
+    "question": "Area of triangle PQR with P(5,4), Q(\u20132,4), R(a,b) is 35. If orthocenter is (2, 5/2), centroid is (c,d), find c + 2d:",
+    "options": [
+      "7/3",
+      "3",
+      "2",
+      "8/3"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "If x \u2208 [2\u03c0/3, \u03c0], then cosx(12/13) + sinx(5/13) =:",
+    "options": [
+      "x \u2013 tan\u207b\u00b9(4/3)",
+      "x \u2013 tan\u207b\u00b9(5/12)",
+      "x + tan\u207b\u00b9(4/5)",
+      "x + tan\u207b\u00b9(5/12)"
+    ],
+    "answer": "x \u2013 tan\u207b\u00b9(5/12)"
+  },
+  {
+    "question": "The value of (sin70\u00b0)(cot10\u00b0cot70\u00b0 \u2013 1) is:",
+    "options": [
+      "1",
+      "0",
+      "3/2",
+      "2/3"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Median of class 12 marks is 14 with median class 12\u201318, frequency 12. If <12 marks count is 18, total number of students is:",
+    "options": [
+      "48",
+      "44",
+      "40",
+      "52"
+    ],
+    "answer": "44"
+  },
+  {
+    "question": "If A = (i + 2j + k), B = (i + 3j \u2013 2k), C = (2i + j \u2013 k), then E on median from A where D lies on altitude from D to face ABC. AD = \u221a110/3, volume = 805/(6\u221a2), then position vector of E is:",
+    "options": [],
+    "answer": "(7i + 12j + k)/6"
+  },
+  {
+    "question": "If A, B and (adj(A\u207b\u00b9) + adj(B\u207b\u00b9)) are non-singular, then inverse of A(adj(A\u207b\u00b9)+adj(B\u207b\u00b9))\u207b\u00b9B is:",
+    "options": [
+      "AB\u207b\u00b9 + A\u207b\u00b9B",
+      "adj(B\u207b\u00b9) + adj(A\u207b\u00b9)",
+      "(adj(B)+adj(A))/AB",
+      "(A\u207b\u00b9B + B\u207b\u00b9A)/AB"
+    ],
+    "answer": "(adj(B)+adj(A))/AB"
+  },
+  {
+    "question": "System (\u03bb\u20131)x + (\u03bb\u20134)y + \u03bbz = 5; \u03bbx + (\u03bb\u20131)y + (\u03bb\u20134)z = 7; (\u03bb+1)x + (\u03bb+2)y \u2013 (\u03bb+2)z = 9 has infinite solutions if \u03bb\u00b2 + \u03bb = ?",
+    "options": [
+      "10",
+      "12",
+      "6",
+      "20"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "Two dice with face counts {1\u00d72, 2\u00d72, 3\u00d71, 4\u00d71} and {1\u00d71, 2\u00d72, 3\u00d72, 4\u00d71}. Probability that sum = 4 or 5?",
+    "options": [
+      "1/2",
+      "3/5",
+      "2/3",
+      "4/9"
+    ],
+    "answer": "1/2"
+  },
+  {
+    "question": "The area between circle x\u00b2 + y\u00b2 = 25 and y = |x \u2013 1|, bounded in larger portion, is (1/4)(b\u03c0 + c), find b + c:",
+    "options": [],
+    "answer": "77"
+  },
+  {
+    "question": "Sum of all rational terms in expansion of (1 + 2^(1/3) + 3^(1/2))\u2076 is:",
+    "options": [],
+    "answer": "612"
+  },
+  {
+    "question": "A circle C touches x\u2013y+1=0, center on x-axis, cuts chord length 4/\u221a13 on \u20133x + 2y = 1. Hyperbola H: x\u00b2/\u03b1\u00b2 \u2013 y\u00b2/\u03b2\u00b2 = 1 has one focus at center of C and transverse axis equal to diameter. Then 2\u03b1\u00b2 + 3\u03b2\u00b2 = ?",
+    "options": [],
+    "answer": "19"
+  },
+  {
+    "question": "If equation 5x\u00b3 \u2013 15x \u2013 a = 0 has 3 real roots, and a \u2208 (\u03b1, \u03b2), then \u03b2 \u2013 2\u03b1 = ?",
+    "options": [],
+    "answer": "30"
+  },
+  {
+    "question": "If equation a(b\u2013c)x\u00b2 + b(c\u2013a)x + c(a\u2013b) = 0 has equal roots, and a + c = 15, b = 36/5, then a\u00b2 + c\u00b2 = ?",
+    "options": [],
+    "answer": "117"
+  }
+]

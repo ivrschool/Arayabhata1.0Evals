@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Let a = i + 2j + 3k, b = 3i + j \u2013 k and c be coplanar with a and b. If c is perpendicular to b and a\u00b7c = 5, then c is equal to",
+    "options": [
+      "(1/6)(i + 4j + 7k)",
+      "18",
+      "16",
+      "11/6"
+    ],
+    "answer": "(1/6)(i + 4j + 7k)"
+  },
+  {
+    "question": "In I(m, n) = \u222b\u2080\u00b9 x^(m-1)(1-x)^(n-1) dx, m, n > 0, then I(9, 14) + I(10, 13) is",
+    "options": [
+      "I(9, 1)",
+      "I(19, 27)",
+      "I(1, 13)",
+      "I(9, 13)"
+    ],
+    "answer": "I(9, 13)"
+  },
+  {
+    "question": "If f: \u211d\\{0} \u2192 \u211d such that f(x) - 6f(1/x) = (35 - 5)/(3x^2), and lim\u2093\u21920 (f(x) + 1/x) = \u03b2/\u03b1, then \u03b1 + 2\u03b2 is equal to",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Let S\u2099 = 1/2 + 1/6 + 1/12 + 1/20 + ... up to n terms. If the sum of first six terms of an A.P. with first term \u2013p and common difference p is (2025/2026)S, then the absolute difference between 20th and 15th terms of the A.P. is",
+    "options": [
+      "25",
+      "90",
+      "20",
+      "45"
+    ],
+    "answer": "25"
+  },
+  {
+    "question": "Let f(x) = (x^2 + 2x + 1 + x + 4)/(2x^2 + 16x + 32). Then the value of f(1/15) + f(2/15) + ... + f(59/15) is",
+    "options": [
+      "118",
+      "92",
+      "102",
+      "108"
+    ],
+    "answer": "118"
+  },
+  {
+    "question": "If \u03b1 and \u03b2 are roots of 2z^2 \u2013 3z \u2013 2i = 0, then the value of Re[(\u03b1^19 + \u03b2^19)/(\u03b1^11 + \u03b2^11)] is",
+    "options": [
+      "398",
+      "312",
+      "409",
+      "441"
+    ],
+    "answer": "441"
+  },
+  {
+    "question": "Evaluate: lim\u2093\u21920 (cosec x + 2cos\u00b2x \u2013 3cosx cos\u00b2x + sinx + 4)",
+    "options": [
+      "0",
+      "1/(2\u221a5)",
+      "1/15",
+      "1/(2\u221a5) \u2013 1"
+    ],
+    "answer": "1/(2\u221a5) \u2013 1"
+  },
+  {
+    "question": "If AC = 6, B(1, 2, 3) and A, C lie on the line (x-6)/3 = (y-7)/2 = (z-7)/-2, then the area of triangle ABC is",
+    "options": [
+      "42",
+      "21",
+      "56",
+      "17"
+    ],
+    "answer": "21"
+  },
+  {
+    "question": "Solve the differential equation: (2xy + 5x + 1 - x\u00b2)dx + (1 + x\u00b2)dy = 0, y(0) = 0. Then y(3) = ?",
+    "options": [
+      "(5\u221a3)/2",
+      "14/3",
+      "2\u221a2",
+      "15/2"
+    ],
+    "answer": "(5\u221a3)/2"
+  },
+  {
+    "question": "Let the product of the focal distances of point (1/3, 1/2) on the ellipse x\u00b2/a\u00b2 + y\u00b2/b\u00b2 = 1 be 7/4. Then the absolute difference of the eccentricities is",
+    "options": [
+      "(\u221a3 \u2013 \u221a2)/3\u221a2",
+      "(1 \u2013 \u221a3)/2",
+      "(\u221a3 \u2013 \u221a2)/2\u221a3",
+      "1 \u2013 \u221a2/3"
+    ],
+    "answer": "(\u221a3 \u2013 \u221a2)/2\u221a3"
+  },
+  {
+    "question": "A and B alternately throw dice. A wins if he throws 5 before B throws 8, B wins otherwise. A starts. What is the probability A wins?",
+    "options": [
+      "9/17",
+      "9/19",
+      "8/17",
+      "8/19"
+    ],
+    "answer": "9/19"
+  },
+  {
+    "question": "What is the area of the largest rectangle (sides parallel to axes) inscribed in R = {(x, y): 0 \u2264 x \u2264 11, y \u2264 9 - x^2/3}?",
+    "options": [
+      "625/111",
+      "730/119",
+      "567/121",
+      "821/123"
+    ],
+    "answer": "567/121"
+  },
+  {
+    "question": "Find the area of region {(x, y): x^2 + 4x + 2 \u2264 y \u2264 |x + 2|}",
+    "options": [
+      "7",
+      "24/5",
+      "20/3",
+      "5"
+    ],
+    "answer": "20/3"
+  },
+  {
+    "question": "A student found wrong entries 4 and 5 instead of 6 and 8. Mean = 5.5, \u03a3x\u00b2 = 371. Find the variance of corrected data.",
+    "options": [
+      "7",
+      "4",
+      "9",
+      "5"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "Let C be the image of the circle x\u00b2 + y\u00b2 \u2013 2x + 4y \u2013 4 = 0 in the line 2x \u2013 3y + 5 = 0. If arc AB is 1/6 of the perimeter, 3\u03b2 \u2013 \u03b1 equals",
+    "options": [
+      "3",
+      "3 + \u221a3",
+      "4 \u2013 \u221a3",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "In binomial expansion of (1 + x)\u207f\u207a\u2074, if 5th, 6th, 7th terms are in A.P., max coefficient is",
+    "options": [
+      "70",
+      "35",
+      "20",
+      "10"
+    ],
+    "answer": "35"
+  },
+  {
+    "question": "Solve: ((x\u00b2 \u2013 9x + 11)\u00b2 \u2013 (x \u2013 4)(x \u2013 5)) = 3. Product of all rational roots is",
+    "options": [
+      "14",
+      "7",
+      "28",
+      "21"
+    ],
+    "answer": "14"
+  },
+  {
+    "question": "A line through (\u20131, 2, 1) parallel to (x\u20131)/2 = (y+1)/3 = z/4 intersects line (x+2)/3 = (y\u20133)/2 = (z+4)/1 at P. Distance from Q(4,\u20135,1)?",
+    "options": [
+      "5",
+      "10",
+      "5\u221a6",
+      "5\u221a5"
+    ],
+    "answer": "5\u221a5"
+  },
+  {
+    "question": "Lines 3x \u2013 4y \u2013 \u03b1 = 0, 8x \u2013 11y \u2013 33 = 0 and 2x \u2013 3y + \u03bb = 0 are concurrent. Image of (1, 2) in 2x \u2013 3y + \u03bb = 0 is (\u201357/13, 40/13). Find |\u03b1\u03bb|",
+    "options": [
+      "84",
+      "91",
+      "113",
+      "101"
+    ],
+    "answer": "91"
+  },
+  {
+    "question": "System: 2x \u2013 y + z = 4; 5x + \u03bby + 3z = 12; 100x \u2013 47y + \u03bcz = 212 has infinite solutions. Find \u03bc \u2013 2\u03bb.",
+    "options": [
+      "56",
+      "59",
+      "55",
+      "57"
+    ],
+    "answer": "57"
+  },
+  {
+    "question": "Let f(x) be such that 2(x+2)\u00b2f(x) \u2013 3(x+2)\u00b2 = 10 \u222b\u2080\u02e3 (t+2)\u00b2f(t) dt. If f is differentiable and f(0) = 2, then f(2) =",
+    "options": [
+      "15",
+      "17",
+      "18",
+      "19"
+    ],
+    "answer": "19"
+  },
+  {
+    "question": "If \u03b1 + \u03b2 = 8, and sec\u00b2(tan\u207b\u00b9 \u03b1) + cosec\u00b2(cot\u207b\u00b9 \u03b2) = 36, find \u03b1\u00b2 + \u03b2.",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "answer": "14"
+  },
+  {
+    "question": "How many 3-digit numbers are divisible by 2 and 3 but not divisible by 4 and 9?",
+    "options": [
+      "115",
+      "120",
+      "125",
+      "130"
+    ],
+    "answer": "125"
+  },
+  {
+    "question": "If X\u1d57AX = 0 for all X \u2260 0, and A is skew-symmetric 3\u00d73 matrix, then det(adj(2(A+I))) = 2^\u03b1 \u00d7 3^\u03b2 \u00d7 5^\u03b3. Find \u03b1\u00b2 + \u03b2\u00b2 + \u03b3\u00b2.",
+    "options": [
+      "44",
+      "45",
+      "40",
+      "50"
+    ],
+    "answer": "44"
+  },
+  {
+    "question": "Let S = {p\u2081, ..., p\u2081\u2080} be first 10 primes. Let A = S \u222a P where P is product of distinct elements of S. How many (x, y) pairs exist with x \u2208 S, x divides y \u2208 A?",
+    "options": [
+      "5120",
+      "5130",
+      "5100",
+      "5200"
+    ],
+    "answer": "5120"
+  }
+]

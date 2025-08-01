@@ -1,0 +1,5 @@
+,file,total_questions,evaluated,correct,incorrect,not_evaluated,% evaluated,llm_judged,correct_pct,incorrect_pct,input_avg_tokens,input_min_tokens,input_max_tokens,output_avg_tokens,output_min_tokens,output_max_tokens,prompt_avg_tokens,prompt_min_tokens,prompt_max_tokens
+0,pred_only_question_20250731_094406_jan_22_shift_1_questions.json,25,19,5,14,6,76.0,15,26.32,73.68,57.88,19,123,1170.84,61,4234,98.88,60,164
+1,pred_only_question_20250731_094406_jan_23_shift_1_questions.json,25,17,0,17,8,68.0,11,0.0,100.0,50.64,14,84,1644.16,63,4167,91.84,55,126
+2,pred_only_question_20250731_094406_jan_22_shift_2_questions.json,25,17,1,16,8,68.0,8,5.88,94.12,62.6,32,94,1194.32,89,4363,103.6,73,135
+3,pred_only_question_20250731_094406_jan_23_shift_2_questions.json,25,13,3,10,12,52.0,10,23.08,76.92,46.52,15,87,1266.52,46,4082,87.76,56,128

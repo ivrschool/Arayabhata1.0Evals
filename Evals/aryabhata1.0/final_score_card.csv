@@ -1,0 +1,11 @@
+,file,total_questions,evaluated,correct,incorrect,not_evaluated,% evaluated,llm_judged,correct_pct,incorrect_pct,input_avg_tokens,input_min_tokens,input_max_tokens,output_avg_tokens,output_min_tokens,output_max_tokens,prompt_avg_tokens,prompt_min_tokens,prompt_max_tokens
+0,pred_only_question_20250728_112556_jan_28_shift_2_questions.json,25,24,9,15,1,96.0,6,37.5,62.5,43.68,18,71,2325.84,636,4190,85.0,59,112
+1,pred_only_question_20250730_102733_jan_29_shift_2_questions.json,25,21,7,14,4,84.0,11,33.33,66.67,45.6,26,75,2060.16,329,4190,87.6,68,117
+2,pred_only_question_20250730_102733_jan_29_shift_1_questions.json,25,23,11,12,2,92.0,5,47.83,52.17,49.44,25,84,1913.44,473,4193,90.64,66,126
+3,pred_only_question_20250728_081536_jan_23_shift_1_questions.json,25,22,12,10,3,88.0,7,54.55,45.45,50.64,14,84,2825.12,629,4205,91.84,55,126
+4,pred_only_question_20250728_081536_jan_22_shift_2_questions.json,25,22,10,12,3,88.0,10,45.45,54.55,62.6,32,94,2413.24,736,4179,103.6,73,135
+5,pred_only_question_20250728_081536_jan_28_shift_1_questions.json,25,19,3,16,6,76.0,13,15.79,84.21,51.08,15,119,2779.04,372,4216,92.48,56,160
+6,pred_only_question_20250728_081536_jan_23_shift_2_questions.json,25,20,7,13,5,80.0,8,35.0,65.0,46.52,15,87,2383.12,506,4195,87.76,56,128
+7,pred_only_question_20250728_081536_jan_24_shift_1_questions.json,25,20,2,18,5,80.0,9,10.0,90.0,50.8,24,81,2795.44,688,4195,92.44,65,123
+8,pred_only_question_20250728_081536_jan_24_shift_2_questions.json,25,23,10,13,2,92.0,7,43.48,56.52,48.44,25,82,2335.16,431,4217,89.72,66,124
+9,pred_only_question_20250728_081536_jan_22_shift_1_questions.json,25,21,15,6,4,84.0,5,71.43,28.57,57.88,19,123,2399.36,407,4227,98.88,60,164

@@ -1,0 +1,2 @@
+,total_evaluated,correct,incorrect,not_evaluated,llm_judged,correct_pct,incorrect_pct,input_avg_tokens,input_min_tokens,input_max_tokens,output_avg_tokens,output_min_tokens,output_max_tokens,prompt_avg_tokens,prompt_min_tokens,prompt_max_tokens
+0,215,86,129,35,81,40.0,60.0,50.67,14,123,2422.99,329,4227,92.0,55,164

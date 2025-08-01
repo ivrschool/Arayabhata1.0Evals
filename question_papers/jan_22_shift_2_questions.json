@@ -1,0 +1,227 @@
+[
+  {
+    "question": "Let \u03b1, \u03b2, \u03b3 and \u03b4 be the coefficients of x\u2077, x\u2075, x\u00b3 and x respectively in the expansion of (3x\u2075 + x\u00b3 \u2013 1)(3x\u00b3 + x \u2013 1), x > 1. If u and v satisfy the equations \u03b1u + \u03b2v = 18 and \u03b3u + \u03b4v = 20, then u + v equals:",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "8"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "In a group of 3 girls and 4 boys, there are two boys B\u2081 and B\u2082. The number of ways, in which these girls and boys can stand in a queue such that all the girls stand together, all the boys stand together, but B\u2081 and B\u2082 are not adjacent to each other, is:",
+    "options": [
+      "144",
+      "72",
+      "96",
+      "120"
+    ],
+    "answer": "144"
+  },
+  {
+    "question": "Let P (4, 4\u221a3) be a point on the parabola y\u00b2 = 4ax and PQ be a focal chord of the parabola. If M and N are the foot of perpendiculars drawn from P and Q respectively on the directrix of the parabola, then the area of the quadrilateral PQMN is equal to:",
+    "options": [
+      "(263\u221a3)/8",
+      "17\u221a3",
+      "(343\u221a3)/8",
+      "(34\u221a3)/3"
+    ],
+    "answer": "(343\u221a3)/8"
+  },
+  {
+    "question": "For a 3 \u00d7 3 matrix M, let trace (M) denote the sum of all the diagonal elements of M. Let A be a 3 \u00d7 3 matrix such that |A| = 1/2 and trace (A) = 3. If B = adj(adj(2A)), then the value of |B| + trace(B) equals:",
+    "options": [
+      "56",
+      "132",
+      "174",
+      "280"
+    ],
+    "answer": "280"
+  },
+  {
+    "question": "Suppose that the number of terms in an A.P. is 2k, k\u2208N. If the sum of all odd terms of the A.P. is 40, the sum of all even terms is 55 and the last term of the A.P. exceeds the first term by 27, then k is equal to:",
+    "options": [
+      "5",
+      "8",
+      "6",
+      "4"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Let a line pass through two distinct points P(\u20132, \u20131, 3) and Q, and be parallel to the vector 3i + 2j + 2k. If the distance of the point Q from the point R(1, 3, 3) is 5, then the square of the area of \u0394PQR is equal to:",
+    "options": [
+      "136",
+      "140",
+      "144",
+      "148"
+    ],
+    "answer": "136"
+  },
+  {
+    "question": "If lim (x\u2192\u221e) [(e^(1/x) \u2013 1)/(x(e^(1/x) + 1))] = \u03b1, then the value of (log(1 + \u03b1)/log \u03b1) equals:",
+    "options": [
+      "e",
+      "e\u207b\u00b2",
+      "e\u00b2",
+      "e\u207b\u00b9"
+    ],
+    "answer": "e"
+  },
+  {
+    "question": "Let f(x) = \u222b from 0 to 2x of (t\u2078 \u2013 8t + 15)e^(\u2013t\u00b2) dt, x \u2208 R. Then the numbers of local maximum and local minimum points of f, respectively, are:",
+    "options": [
+      "2 and 3",
+      "3 and 2",
+      "1 and 3",
+      "2 and 2"
+    ],
+    "answer": "2 and 3"
+  },
+  {
+    "question": "The perpendicular distance of the line (x\u20131)/2 = (y+2)/\u20131 = (z+3)/2 from the point P(2, \u201310,1), is:",
+    "options": [
+      "6",
+      "5\u221a2",
+      "3\u221a5",
+      "4\u221a3"
+    ],
+    "answer": "3\u221a5"
+  },
+  {
+    "question": "If x = f(y) is the solution of the differential equation (1 + y\u00b2)dx \u2013 (x \u2013 2e^(tan\u207b\u00b9y))dy = 0 with f(0) = 1, then f(1/3) is equal to:",
+    "options": [
+      "e^(\u03c0/4)",
+      "e^(\u03c0/12)",
+      "e^(\u03c0/3)",
+      "e^(\u03c0/6)"
+    ],
+    "answer": "e^(\u03c0/6)"
+  },
+  {
+    "question": "If \u222b (x\u207b\u00b9(2x^2/3 + 2sin\u207b\u00b9x + sin x + x)/(1\u2013x)\u221a(1\u2013x\u00b2)) dx = g(x)+C, where C is the constant of integration, then g(1/2) equals:",
+    "options": [
+      "(e\u03c0)/(6\u221a2)",
+      "(e\u03c0)/(4\u221a2)",
+      "(e\u03c0)/(6\u221a3)",
+      "(e\u03c0)/(4\u221a3)"
+    ],
+    "answer": "(e\u03c0)/(6\u221a3)"
+  },
+  {
+    "question": "Let \u03b1\u03b8 and \u03b2\u03b8 be the distinct roots of 2x\u00b2 + (cos\u03b8)x \u2013 1 = 0, \u03b8 \u2208 (0, 2\u03c0). If m and M are the minimum and the maximum values of \u03b1\u2074 + \u03b2\u2074, then 16(M + m) equals:",
+    "options": [
+      "24",
+      "25",
+      "27",
+      "17"
+    ],
+    "answer": "25"
+  },
+  {
+    "question": "Let A = {1, 2, 3, 4} and B = {1, 4, 9, 16}. Then the number of many-one functions f : A \u2192 B such that 1 \u2208 f(A) is equal to:",
+    "options": [
+      "127",
+      "151",
+      "163",
+      "139"
+    ],
+    "answer": "151"
+  },
+  {
+    "question": "If the system of linear equations x + y + 2z = 6, 2x + 3y + az = a + 1, \u2013x \u2013 3y + bz = 2b has infinitely many solutions, then 7a + 3b is equal to:",
+    "options": [
+      "9",
+      "12",
+      "16",
+      "22"
+    ],
+    "answer": "16"
+  },
+  {
+    "question": "Let a and b be two unit vectors such that the angle between them is \u03c0/3. If a + 2\u03bbb and 3a \u2013 \u03bbb are perpendicular to each other, then the number of values of \u03bb in [\u20131, 3] is:",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "question": "Let E: x\u00b2/a\u00b2 + y\u00b2/b\u00b2 = 1, a > b and H: x\u00b2/A\u00b2 \u2013 y\u00b2/B\u00b2 = 1. Let the distance between the foci of E and H be 2\u221a3. If a \u2013 A = 2, and the ratio of the eccentricities of E and H is 1/3, then the sum of the lengths of their latus rectums is equal to:",
+    "options": [
+      "10",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "If P(A\u222aB) = 0.6 and P(A\u2229B) = 0.1 and P(A|B) and P(B|A) are roots of 12x\u00b2 \u2013 7x + 1 = 0, then P(A\u2229B)/P(A\u222aB) is:",
+    "options": [
+      "5/3",
+      "4/3",
+      "9/4",
+      "7/4"
+    ],
+    "answer": "9/4"
+  },
+  {
+    "question": "The sum of all values of \u03b8 \u2208 [0, 2\u03c0] satisfying 2sin\u00b2\u03b8 = cos2\u03b8 and 2cos\u00b2\u03b8 = 3sin\u03b8 is:",
+    "options": [
+      "\u03c0/2",
+      "4\u03c0",
+      "5\u03c0/6",
+      "\u03c0"
+    ],
+    "answer": "\u03c0"
+  },
+  {
+    "question": "Let the curve z(1 + i) + z(1 \u2013 i) = 4, z \u2208 C, divide the region |z \u2013 3| \u2264 1 into two parts of areas \u03b1 and \u03b2. Then |\u03b1 \u2013 \u03b2| equals:",
+    "options": [
+      "\u03c0/2 + 1",
+      "\u03c0/3 + 1",
+      "\u03c0/4 + 1",
+      "\u03c0/6 + 1"
+    ],
+    "answer": "\u03c0/2 + 1"
+  },
+  {
+    "question": "The area of the region enclosed by the curves y = x\u00b2 \u2013 4x + 4 and y\u00b2 = 16 \u2013 8x is:",
+    "options": [
+      "8/3",
+      "4/3",
+      "5",
+      "8"
+    ],
+    "answer": "8/3"
+  },
+  {
+    "question": "Let y = f(x) be the solution of the differential equation (6x\u00b2 + 4x)/(x\u00b2 \u2013 1) + dy/dx = 0, \u20131 < x < 1 such that f(0) = 0. If 6\u222b from \u20131/2 to 1/2 of f(x) dx = 2\u03c0 \u2013 \u03b1, then \u03b1\u00b2 is:",
+    "options": [],
+    "answer": "27"
+  },
+  {
+    "question": "Let A(6, 8), B(10cos\u03b1, \u201310sin\u03b1), and C(\u201310sin\u03b1, 10cos\u03b1) be vertices of a triangle. If L(a, 9) is the orthocenter and G(h, k) is the centroid, then (5a \u2013 3h + 6k + 100sin\u00b2\u03b1) is equal to:",
+    "options": [],
+    "answer": "145"
+  },
+  {
+    "question": "Let the distance between two parallel lines be 5 units and a point P lie between the lines at a unit distance from one of them. An equilateral triangle PQR is formed such that Q lies on one line and R on the other. Then (QR)\u00b2 is equal to:",
+    "options": [],
+    "answer": "28"
+  },
+  {
+    "question": "If \u2211 from r=1 to 30 of (C(30, r)\u00b2 \u2013 C(30, r\u20131)C(30, r+1)) = \u03b1 \u00d7 2^29, then \u03b1 is equal to:",
+    "options": [],
+    "answer": "465"
+  },
+  {
+    "question": "Let A = {1, 2, 3}. The number of relations on A containing (1, 2) and (2, 3), which are reflexive and transitive but not symmetric, is:",
+    "options": [],
+    "answer": "3"
+  }
+]

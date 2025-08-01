@@ -1,0 +1,232 @@
+[
+  {
+    "question": "If the set of all a \u2208 R, for which the equation 2x\u00b2 + (a \u2013 5)x + 15 = 3a has no real root, is the interval (\u03b1, \u03b2), and X = {x \u2208 Z : \u03b1 < x < \u03b2}, then \u03a3_{x \u2208 X} x\u00b2 is equal to",
+    "options": [
+      "2109",
+      "2129",
+      "2139",
+      "2119"
+    ],
+    "answer": "2139"
+  },
+  {
+    "question": "If sinx + sin\u00b2x = 1, x \u2208 (0, \u03c0/2), then (cos\u00b9\u00b2x + tan\u00b9\u00b2x) + 3(cos\u00b9\u2070x + tan\u00b9\u2070x + cos\u2078x + tan\u2078x) + (cos\u2076x + tan\u2076x) is equal to",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Let the area enclosed between the curves |y| = 1 \u2013 x\u00b2 and x\u00b2 + y\u00b2 = 1 be \u03b1. If 9\u03b1 = \u03b2\u03c0 + \u03b3, \u03b2, \u03b3 \u2208 Z, then |\u03b2 \u2013 \u03b3| equals",
+    "options": [
+      "27",
+      "18",
+      "15",
+      "33"
+    ],
+    "answer": "33"
+  },
+  {
+    "question": "If the domain of the function log\u2085(18x \u2013 x\u00b2 \u2013 77) is (\u03b1, \u03b2) and the domain of log(((x \u2013 1)\u00b2(2x + 3x \u2013 2))/(x \u2013 3x \u2013 4)) is (\u03b3, \u03b4), then \u03b1\u00b2 + \u03b2\u00b2 + \u03b3\u00b2 is equal to",
+    "options": [
+      "195",
+      "174",
+      "186",
+      "179"
+    ],
+    "answer": "186"
+  },
+  {
+    "question": "Let the function f(x) = (x\u00b2 \u2013 1)|x\u00b2 \u2013 ax + 2| + cos|x| be not differentiable at x = \u03b1 = 2 and x = \u03b2. Then the distance of the point (\u03b1, \u03b2) from the line 12x + 5y + 10 = 0 is",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Let the solution set of the inequality log_{1/2}(x\u00b2 \u2013 5x + 6) \u2265 log_{1/2}(2x \u2013 5) be (\u03b1, \u03b2]. If \u03b1 + \u03b2 = a and \u03b2 \u2013 \u03b1 = b, then the value of ab is",
+    "options": [
+      "34",
+      "32",
+      "36",
+      "30"
+    ],
+    "answer": "36"
+  },
+  {
+    "question": "Let A be a 3\u00d73 matrix such that A\u00b3 = I. If A \u2260 I and A\u00b2 \u2260 I, then det(A \u2013 I) + trace(adj(A)) is equal to",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "A triangle has vertices (1, 0), (\u20132, 3) and (a, b), with centroid at origin. Then a + b is equal to",
+    "options": [
+      "2",
+      "\u20132",
+      "\u20131",
+      "1"
+    ],
+    "answer": "\u20131"
+  },
+  {
+    "question": "If the system of linear equations x + 2y + 3z = 6, 2x + 3y + 8z = 14, x + y + \u03bbz = \u03bc has infinitely many solutions, then 2\u03bc + 3\u03bb is equal to",
+    "options": [
+      "24",
+      "21",
+      "18",
+      "27"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "Let f(x) = x\u00b3 \u2013 2x\u00b2 + 2, x \u2208 R. If f\u207b\u00b9 exists, then f\u207b\u00b9(x) is strictly increasing in",
+    "options": [
+      "(\u2013\u221e, 1)",
+      "(2, \u221e)",
+      "(1, 2)",
+      "R"
+    ],
+    "answer": "R"
+  },
+  {
+    "question": "The solution of the differential equation dy/dx + (1 + x + x\u00b2)y = 0, y(0) = 1 is",
+    "options": [
+      "e^{\u2013x(1 + x/2 + x\u00b2/3)}",
+      "e^{\u2013(x + x\u00b2 + x\u00b3)}",
+      "e^{\u2013(x + x\u00b2/2 + x\u00b3/3)}",
+      "e^{x(1 + x/2 + x\u00b2/3)}"
+    ],
+    "answer": "e^{\u2013(x + x\u00b2/2 + x\u00b3/3)}"
+  },
+  {
+    "question": "If A = (4, \u20133, 1), B = (2, \u20131, 3) and C = (\u20132, 2, \u20135) are vertices of a triangle, then the length of the median from A is",
+    "options": [
+      "\u221a45",
+      "\u221a60",
+      "\u221a30",
+      "\u221a65"
+    ],
+    "answer": "\u221a65"
+  },
+  {
+    "question": "If the straight line y = mx + 4 intersects the parabola y\u00b2 = 16x at two distinct points, then",
+    "options": [
+      "m < \u20131 or m > 1",
+      "m < 2 or m > \u20132",
+      "\u20132 < m < 2",
+      "\u20131 < m < 1"
+    ],
+    "answer": "\u20132 < m < 2"
+  },
+  {
+    "question": "The equation of the common tangent to the circles x\u00b2 + y\u00b2 = 9 and x\u00b2 + y\u00b2 \u2013 8x + 6 = 0 is",
+    "options": [
+      "3x \u2013 4y + 15 = 0",
+      "3x \u2013 4y \u2013 15 = 0",
+      "4x \u2013 3y \u2013 15 = 0",
+      "4x \u2013 3y + 15 = 0"
+    ],
+    "answer": "3x \u2013 4y \u2013 15 = 0"
+  },
+  {
+    "question": "The number of integral solutions (x, y) of equation |x + y| + |x \u2013 y| = 4 is",
+    "options": [
+      "8",
+      "10",
+      "7",
+      "9"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "If tan\u207b\u00b9x + tan\u207b\u00b9y + tan\u207b\u00b9z = \u03c0, where xyz + x + y + z = 0, then the value of (x + y)\u00b2 + (y + z)\u00b2 + (z + x)\u00b2 is",
+    "options": [
+      "0",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "The value of tan\u207b\u00b9[(\u221a(1 + sinx) \u2013 \u221a(1 \u2013 sinx))/(\u221a(1 + sinx) + \u221a(1 \u2013 sinx))] is",
+    "options": [
+      "x",
+      "\u03c0 \u2013 x",
+      "\u03c0/2 \u2013 x",
+      "\u03c0/2 + x"
+    ],
+    "answer": "x"
+  },
+  {
+    "question": "The equation of the ellipse whose foci are (\u00b12, 0) and eccentricity is 1/2, is",
+    "options": [
+      "x\u00b2/16 + y\u00b2/12 = 1",
+      "x\u00b2/16 + y\u00b2/9 = 1",
+      "x\u00b2/12 + y\u00b2/16 = 1",
+      "x\u00b2/9 + y\u00b2/16 = 1"
+    ],
+    "answer": "x\u00b2/16 + y\u00b2/12 = 1"
+  },
+  {
+    "question": "Let A = {1, 2, 3, 4, 5}, then the number of functions f: A \u2192 A such that f is one-one and f(x) \u2260 x for all x \u2208 A, is",
+    "options": [
+      "44",
+      "46",
+      "52",
+      "50"
+    ],
+    "answer": "44"
+  },
+  {
+    "question": "If p(x) = x\u00b2 \u2013 3x + 2, then the value of \u03a3_{r=1}^{100} p(r + 1)/p(r) is",
+    "options": [],
+    "answer": "198"
+  },
+  {
+    "question": "If the probability that an examinee will solve a question is 3/4, then the probability that he will solve at least one of two questions is",
+    "options": [],
+    "answer": "15/16"
+  },
+  {
+    "question": "Let z be a non-zero complex number such that arg(z) = 2\u03c0/3 and |z| = 2. Then (z \u2013 2)/(z + 2) is",
+    "options": [],
+    "answer": "purely imaginary"
+  },
+  {
+    "question": "If f(x) = (2x + 3)/(x \u2013 1), x \u2260 1, then f\u207b\u00b9(x) is",
+    "options": [],
+    "answer": "(x + 3)/(x \u2013 2)"
+  },
+  {
+    "question": "If f(x) = \u222b\u2080^x (1 + sin t)/\u221a(1 + cos\u00b2t) dt, then the value of \u222b\u2080^{\u03c0/2} f(x) dx is",
+    "options": [
+      "\u03c0",
+      "2\u03c0",
+      "\u03c0/2",
+      "3\u03c0/2"
+    ],
+    "answer": "\u03c0"
+  },
+  {
+    "question": "Let f(x) = 3x + 4. Let g(x) be such that g(f(x)) = f(g(x)) = 5x + 6, then g(2) =",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": "2"
+  }
+]

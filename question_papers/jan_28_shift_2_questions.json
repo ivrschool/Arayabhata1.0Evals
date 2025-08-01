@@ -1,0 +1,227 @@
+[
+  {
+    "question": "One of three bags B1, B2, B3 is chosen at random, then a ball is drawn. Given white ball is drawn, what's the probability it came from B2?",
+    "options": [
+      "1/3",
+      "4/15",
+      "2/3",
+      "2/5"
+    ],
+    "answer": "4/15"
+  },
+  {
+    "question": "Let points A, B, C have position vectors 3i + j, i + 3j, and ai + (1\u2013a)j. If C is \u221a9/2 away from the bisector of OA and OB, sum of all possible values of a is:",
+    "options": [
+      "1",
+      "9/2",
+      "0",
+      "2"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "If vector a = \u03b1i + \u03b2j + \u03b3k has components along and perpendicular to b = 3i + j \u2013 k as [16/11](3i + j \u2013 k) and [1/11](\u20134i \u2013 5j \u201317k), then \u03b1\u00b2 + \u03b2\u00b2 + \u03b3\u00b2 = ?",
+    "options": [
+      "23",
+      "18",
+      "16",
+      "26"
+    ],
+    "answer": "26"
+  },
+  {
+    "question": "If roots of x\u00b2 \u2013 (3 \u2013 2i)x \u2013 (2i \u2013 2) = 0 are \u03b1 + i\u03b2 and \u03b3 + i\u03b4, then \u03b1\u00b7\u03b3 + \u03b2\u00b7\u03b4 = ?",
+    "options": [
+      "6",
+      "2",
+      "\u20132",
+      "\u20136"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Chord of ellipse x\u00b2/9 + y\u00b2/4 = 1 has midpoint (2, 4/\u221a3). If chord length is \u221a3\u00b7\u03b1, then \u03b1 = ?",
+    "options": [
+      "18",
+      "22",
+      "26",
+      "20"
+    ],
+    "answer": "22"
+  },
+  {
+    "question": "Probability that a random arrangement of GARDEN does not have vowels in alphabetical order is:",
+    "options": [
+      "1/4",
+      "2/3",
+      "1/3",
+      "1/2"
+    ],
+    "answer": "1/2"
+  },
+  {
+    "question": "Let f continuous on positive reals with g(x) = \u222b\u2080\u02e3 t\u00b7f(t)dt and g(x\u00b3) = x\u2076 + x\u2077. Then \u03a3_{r=1}^{15} f(r\u00b3) = ?",
+    "options": [
+      "320",
+      "340",
+      "270",
+      "310"
+    ],
+    "answer": "310"
+  },
+  {
+    "question": "Square of distance from point (15/7, 32/7, 7) to line (x+1)/3 = (y+3)/5 = (z+5)/7 along direction i+4j+7k is:",
+    "options": [
+      "54",
+      "41",
+      "66",
+      "44"
+    ],
+    "answer": "66"
+  },
+  {
+    "question": "Area enclosed by x(1 + y\u00b2) = 1 and y\u00b2 = 2x is:",
+    "options": [
+      "(\u03c0 \u2013 1)/(2\u221a3)",
+      "\u03c0 \u2013 1/(4\u221a3)",
+      "\u03c0 \u2013 1/(2\u221a3)",
+      "(\u03c0 \u2013 1)/(2\u00b72\u221a3)"
+    ],
+    "answer": "\u03c0 \u2013 1/(2\u221a3)"
+  },
+  {
+    "question": "Given matrices A and orthogonal matrix P, if C = P\u1d40\u00b7B\u00b9\u2070\u00b7P, and A, B, C are related, find m + n where trace(C) = m/n and gcd(m,n)=1.",
+    "options": [
+      "65",
+      "127",
+      "258",
+      "2049"
+    ],
+    "answer": "65"
+  },
+  {
+    "question": "Given \u222b 1/f(x) dx = 1 / (x\u221a(1+x)), and f(0) = \u20136, then f(1) = ?",
+    "options": [
+      "log_e2 + 2",
+      "4(log_e2 \u2013 2)",
+      "2 \u2013 log_e2",
+      "4(log_e2 + 2)"
+    ],
+    "answer": "4(log_e2 \u2013 2)"
+  },
+  {
+    "question": "Let f(x) be twice differentiable, f(2)=1, F(x) = x\u00b7f(x). Given \u222b\u2080\u00b2 xF'(x)dx = 6 and \u222b\u2080\u00b2 x\u00b2F''(x)dx = 40, find F\u2019(2) + \u222b\u2080\u00b2 F(x) dx:",
+    "options": [
+      "11",
+      "15",
+      "9",
+      "13"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Given a\u2099 = (n\u00b2 + 5n + 6)/4, and S\u2099 = \u03a3_{k=1}\u207f 1/a_k, find 507\u00b7S\u2082\u2080\u2082\u2085:",
+    "options": [
+      "540",
+      "1350",
+      "675",
+      "135"
+    ],
+    "answer": "675"
+  },
+  {
+    "question": "Let f(x) = 2x\u00b3 \u2013 15x\u00b2 + 36x + 7. g(x) = 2025x / (x + 1). If both are onto, and S = {x \u2208 Z : x \u2208 range(f) or g}, then |S| = ?",
+    "options": [
+      "30",
+      "36",
+      "29",
+      "31"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "Domain of f(x) = sec\u207b\u00b9(2[x] + 1) is:",
+    "options": [
+      "(\u2013\u221e, \u20131] \u222a [0, \u221e)",
+      "(\u2013\u221e, \u2013\u221e)",
+      "(\u2013\u221e, \u20131] \u222a [1, \u221e)",
+      "(\u2013\u221e, \u221e) \\ {0}"
+    ],
+    "answer": "(\u2013\u221e, \u20131] \u222a [0, \u221e)"
+  },
+  {
+    "question": "Evaluate: \u03a3_{r=1}^{13} 1/(sin((r\u20131)\u03c0/4)\u00b7sin((r+1)\u03c0/6)) = a/3 + b, find a\u00b2 + b\u00b2 = ?",
+    "options": [
+      "10",
+      "2",
+      "8",
+      "4"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Two equal sides of an isosceles triangle lie on lines \u2013x + 2y = 4 and x + y = 4. Sum of all possible distinct slopes of third side is:",
+    "options": [
+      "\u20136",
+      "12",
+      "6",
+      "\u20132\u221a10"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "In binomial expansion of (a + b)^12, if 3 consecutive terms are in G.P., and p values of r exist, and q is sum of all rational terms in (3+4)^12, find p + q:",
+    "options": [
+      "283",
+      "295",
+      "287",
+      "299"
+    ],
+    "answer": "283"
+  },
+  {
+    "question": "Centroid of triangle PAB lies on line if A, B lie on circle and hyperbola and P on line. The line equation is:",
+    "options": [
+      "4x \u2013 9y = 12",
+      "x + 9y = 36",
+      "9x \u2013 9y = 32",
+      "6x \u2013 9y = 20"
+    ],
+    "answer": "6x \u2013 9y = 20"
+  },
+  {
+    "question": "If f(x) satisfies f(1/f(x)) = f(f(1/x)), and f(K) = \u20132K, then sum of squares of all possible K values is:",
+    "options": [
+      "1",
+      "6",
+      "7",
+      "9"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "Number of natural numbers between 212 and 999 whose digits sum to 15 is:",
+    "options": [],
+    "answer": "64"
+  },
+  {
+    "question": "lim_{x\u21920} (e^x \u2013 e^{\u2013x}) / (x\u00b7f(x)) = 1, where f(x) is as given in a defined series expansion, then the limit evaluates to:",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "question": "A polygon has interior angles in A.P. with d = 6\u00b0, largest angle is 219\u00b0. Find number of sides n:",
+    "options": [],
+    "answer": "20"
+  },
+  {
+    "question": "Let A, B be intersections of y = \u20135 with reflection of y\u00b2 = 4x across line x + y + 4 = 0. Let S be focus. If d is AB length and a is area of triangle SAB, find a + d:",
+    "options": [],
+    "answer": "14"
+  },
+  {
+    "question": "Solution y(x) satisfies dy/dx = [2 \u2013 x\u00b2]/[4x\u00b7sin(y) \u2013 sin(2y)], y(2) = \u03c0/4. Then y\u00b2(0) = ?",
+    "options": [],
+    "answer": "4"
+  }
+]

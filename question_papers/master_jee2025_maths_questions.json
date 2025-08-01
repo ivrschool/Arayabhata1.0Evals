@@ -1,0 +1,2347 @@
+{
+  "22nd Jan Shift 1": [
+    {
+      "question": "The number of non-empty equivalence relations on the set {1,2,3} is:",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "4"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "Let \u0192 : R\u2192R be a twice differentiable function such that \u0192(x + y) = \u0192(x) \u0192(y) for all x, y \u2208 R. If \u0192'(0) = 4a and \u0192 satisfies \u0192''(x) \u2013 3a \u0192'(x) \u2013 \u0192(x) = 0, a > 0, then the area of the region R = {(x,y) | 0 \u2264 y \u2264 \u0192(ax), 0 \u2264 x \u2264 2} is:",
+      "options": [
+        "e\u00b2 \u2013 1",
+        "e\u2074 + 1",
+        "e\u2074 \u2013 1",
+        "e\u00b2 + 1"
+      ],
+      "answer": "e\u00b2 \u2013 1"
+    },
+    {
+      "question": "Let the triangle PQR be the image of the triangle with vertices (1,3), (3,1) and (2,4) in the line x + 2y = 2. If the centroid of \u0394PQR is the point (\u03b1, \u03b2), then 15(\u03b1 \u2013 \u03b2) is equal to:",
+      "options": [
+        "24",
+        "19",
+        "21",
+        "22"
+      ],
+      "answer": "22"
+    },
+    {
+      "question": "Let z\u2081, z\u2082 and z\u2083 be three complex numbers on the circle |z| = 1 with arg(z\u2081) = \u2013\u03c0/4, arg(z\u2082) = 0 and arg(z\u2083) = \u03c0/4. If z\u2081z\u2082 + z\u2082z\u2083 + z\u2083z\u2081 = 2 + \u03b1 + \u03b2, \u03b1, \u03b2 \u2208 Z, then the value of \u03b1\u00b2 + \u03b2\u00b2 is:",
+      "options": [
+        "24",
+        "41",
+        "31",
+        "29"
+      ],
+      "answer": "29"
+    },
+    {
+      "question": "Using the principal values of the inverse trigonometric functions the sum of the maximum and the minimum values of 16((sec\u207b\u00b9x)\u00b2 + (cosec\u207b\u00b9x)\u00b2) is:",
+      "options": [
+        "24\u03c0\u00b2",
+        "18\u03c0\u00b2",
+        "31\u03c0\u00b2",
+        "22\u03c0\u00b2"
+      ],
+      "answer": "22\u03c0\u00b2"
+    },
+    {
+      "question": "A coin is tossed three times. Let X denote the number of times a tail follows a head. If \u03bc and \u03c3\u00b2 denote the mean and variance of X, then the value of 64(\u03bc + \u03c3\u00b2) is:",
+      "options": [
+        "51",
+        "48",
+        "32",
+        "64"
+      ],
+      "answer": "48"
+    },
+    {
+      "question": "Let a\u2081, a\u2082, a\u2083,... be a G.P. of increasing positive terms. If a\u2081a\u2085 = 28 and a\u2082 + a\u2084 = 29, the a\u2086 is equal to:",
+      "options": [
+        "628",
+        "526",
+        "784",
+        "812"
+      ],
+      "answer": "784"
+    },
+    {
+      "question": "Let L\u2081 and L\u2082 be two lines. Then which of the following points lies on the line of the shortest distance between L\u2081 and L\u2082?",
+      "options": [
+        "(\u20135/3, 7, 1)",
+        "(2, 3, 1/3)",
+        "(\u20138/3, 1, 1/3)",
+        "(\u201314/3, 22/3, 3)"
+      ],
+      "answer": "(\u201314/3, 22/3, 3)"
+    },
+    {
+      "question": "The product of all solutions of the equation e^(5 log x) + 3 = 8e^x, x > 0, is:",
+      "options": [
+        "e^(8/5)",
+        "e^(6/5)",
+        "e\u00b2",
+        "e"
+      ],
+      "answer": "e^(8/5)"
+    },
+    {
+      "question": "If T\u2099 = (2n \u2013 1)(2n + 1)(2n + 3)/64, then lim(n\u2192\u221e) (1/T\u2099) is equal to:",
+      "options": [
+        "1",
+        "0",
+        "2/3",
+        "1/3"
+      ],
+      "answer": "2/3"
+    },
+    {
+      "question": "From all the English alphabets, five letters are chosen and are arranged in alphabetical order. The total number of ways, in which the middle letter is \u2018M\u2019, is:",
+      "options": [
+        "14950",
+        "6084",
+        "4356",
+        "5148"
+      ],
+      "answer": "5148"
+    },
+    {
+      "question": "Let x = x(y) be the solution of the differential equation (y\u00b2 + 1) dx \u2013 x dy = 0. If x(1) = 1, then x(1/2) is:",
+      "options": [
+        "(1 + e)/2",
+        "(3 + e)/2",
+        "3 \u2013 e",
+        "3 + e"
+      ],
+      "answer": "3 \u2013 e"
+    },
+    {
+      "question": "Let the parabola y = x\u00b2 + px \u2013 3, meet the coordinate axes at the points P, Q and R. If the circle C with centre at (\u20131, \u20131) passes through the points P, Q and R, then the area of \u0394PQR is:",
+      "options": [
+        "4",
+        "6",
+        "7",
+        "5"
+      ],
+      "answer": "6"
+    },
+    {
+      "question": "A circle C of radius 2 lies in the second quadrant and touches both the coordinate axes. Let r be the radius of a circle that has centre at the point (2, 5) and intersects the circle C at exactly two points. If the set of all possible values of r is the interval (\u03b1, \u03b2), then 3\u03b2 \u2013 2\u03b1 is equal to:",
+      "options": [
+        "15",
+        "14",
+        "12",
+        "10"
+      ],
+      "answer": "15"
+    },
+    {
+      "question": "Let for \u0192(x) = 7tan\u2078x + 7tan\u2076x \u2013 3tan\u2074x \u2013 3tan\u00b2x, I\u2081 = \u222b\u2080^{\u03c0/4} \u0192(x)dx and I\u2082 = \u222b\u2080^{\u03c0/4} x\u0192(x)dx. Then 7I\u2081 + 12I\u2082 is equal to:",
+      "options": [
+        "2\u03c0",
+        "\u03c0",
+        "1",
+        "2"
+      ],
+      "answer": "1"
+    },
+    {
+      "question": "Let \u0192(x) be a real differentiable function such that \u0192(0) = 1 and \u0192(x + y) = \u0192(x)\u0192'(y) + \u0192'(x)\u0192(y) for all x, y \u2208 R. Then \u2211_{n=1}^{100} log \u0192(n) is equal to:",
+      "options": [
+        "2384",
+        "2525",
+        "5220",
+        "2406"
+      ],
+      "answer": "2525"
+    },
+    {
+      "question": "Let A = {1,2,3,.......,10} and B = {m/n : m, n \u2208 A, m < n and gcd(m, n) =1}. Then n(B) is equal to:",
+      "options": [
+        "31",
+        "36",
+        "37",
+        "29"
+      ],
+      "answer": "31"
+    },
+    {
+      "question": "The area of the region, inside the circle (2x \u2013 2)\u00b2 + (2y \u2013 3)\u00b2 = 12 and outside the parabola y\u00b2 = 2\u221a3x is:",
+      "options": [
+        "6\u03c0 \u2013 8",
+        "3\u03c0 \u2013 8",
+        "6\u03c0 \u2013 16",
+        "3\u03c0 + 8"
+      ],
+      "answer": "6\u03c0 \u2013 16"
+    },
+    {
+      "question": "Two balls are selected at random one by one without replacement from a bag containing 4 white and 6 black balls. If the probability that the first selected ball is black, given that the second selected ball is also black, is m/n, where gcd(m, n) = 1, then m + n is equal to:",
+      "options": [
+        "14",
+        "4",
+        "11",
+        "13"
+      ],
+      "answer": "14"
+    },
+    {
+      "question": "Let the foci of a hyperbola be (1, 14) and (1, \u201312). If it passes through the point (1, 6), then the length of its latus-rectum is:",
+      "options": [
+        "25/6",
+        "24/5",
+        "288/5",
+        "144/5"
+      ],
+      "answer": "288/5"
+    },
+    {
+      "question": "Let f(x) be a piecewise function defined as f(x) = \u20133ax\u00b2 \u2013 2 for x < 1 and f(x) = ax\u00b2 + bx for x \u2265 1. If f is differentiable for all x \u2208 R, and the area enclosed by f(x) and y = \u201320 is \u03b1 + \u03b2\u221a3, then \u03b1 + \u03b2 is equal to:",
+      "options": [],
+      "answer": "34"
+    },
+    {
+      "question": "If \u2211_{r=0}^{15} C_{2r}^{30} = m/2^n, gcd(m, n) = 1, then m \u2013 n is:",
+      "options": [],
+      "answer": "2035"
+    },
+    {
+      "question": "Let A be a square matrix of order 3 such that det(A) = \u20132 and det(3adj(\u20136adj(3A))) = 2^{m+n}.3^{mn}, m > n. Then 4m + 2n is equal to:",
+      "options": [],
+      "answer": "34"
+    },
+    {
+      "question": "Let L\u2081 and L\u2082 be two intersecting lines, and point A = (1, 1, \u20131). If P is the foot of perpendicular from A on L\u2082, and B is the point of intersection, then the value of 26\u03b1(PB)\u00b2 is:",
+      "options": [],
+      "answer": "216"
+    },
+    {
+      "question": "Let c be the projection vector of b = \u03bbi + 4k, \u03bb > 0, on the vector a = i + 2j + 2k. If |a + c| = 7, then the area of the parallelogram formed by the vectors b and c is:",
+      "options": [],
+      "answer": "16"
+    }
+  ],
+  "22nd Jan Shift 2": [
+    {
+      "question": "Let \u03b1, \u03b2, \u03b3 and \u03b4 be the coefficients of x\u2077, x\u2075, x\u00b3 and x respectively in the expansion of (3x\u2075 + x\u00b3 \u2013 1)(3x\u00b3 + x \u2013 1), x > 1. If u and v satisfy the equations \u03b1u + \u03b2v = 18 and \u03b3u + \u03b4v = 20, then u + v equals:",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "8"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "In a group of 3 girls and 4 boys, there are two boys B\u2081 and B\u2082. The number of ways, in which these girls and boys can stand in a queue such that all the girls stand together, all the boys stand together, but B\u2081 and B\u2082 are not adjacent to each other, is:",
+      "options": [
+        "144",
+        "72",
+        "96",
+        "120"
+      ],
+      "answer": "144"
+    },
+    {
+      "question": "Let P (4, 4\u221a3) be a point on the parabola y\u00b2 = 4ax and PQ be a focal chord of the parabola. If M and N are the foot of perpendiculars drawn from P and Q respectively on the directrix of the parabola, then the area of the quadrilateral PQMN is equal to:",
+      "options": [
+        "(263\u221a3)/8",
+        "17\u221a3",
+        "(343\u221a3)/8",
+        "(34\u221a3)/3"
+      ],
+      "answer": "(343\u221a3)/8"
+    },
+    {
+      "question": "For a 3 \u00d7 3 matrix M, let trace (M) denote the sum of all the diagonal elements of M. Let A be a 3 \u00d7 3 matrix such that |A| = 1/2 and trace (A) = 3. If B = adj(adj(2A)), then the value of |B| + trace(B) equals:",
+      "options": [
+        "56",
+        "132",
+        "174",
+        "280"
+      ],
+      "answer": "280"
+    },
+    {
+      "question": "Suppose that the number of terms in an A.P. is 2k, k\u2208N. If the sum of all odd terms of the A.P. is 40, the sum of all even terms is 55 and the last term of the A.P. exceeds the first term by 27, then k is equal to:",
+      "options": [
+        "5",
+        "8",
+        "6",
+        "4"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "Let a line pass through two distinct points P(\u20132, \u20131, 3) and Q, and be parallel to the vector 3i + 2j + 2k. If the distance of the point Q from the point R(1, 3, 3) is 5, then the square of the area of \u0394PQR is equal to:",
+      "options": [
+        "136",
+        "140",
+        "144",
+        "148"
+      ],
+      "answer": "136"
+    },
+    {
+      "question": "If lim (x\u2192\u221e) [(e^(1/x) \u2013 1)/(x(e^(1/x) + 1))] = \u03b1, then the value of (log(1 + \u03b1)/log \u03b1) equals:",
+      "options": [
+        "e",
+        "e\u207b\u00b2",
+        "e\u00b2",
+        "e\u207b\u00b9"
+      ],
+      "answer": "e"
+    },
+    {
+      "question": "Let f(x) = \u222b from 0 to 2x of (t\u2078 \u2013 8t + 15)e^(\u2013t\u00b2) dt, x \u2208 R. Then the numbers of local maximum and local minimum points of f, respectively, are:",
+      "options": [
+        "2 and 3",
+        "3 and 2",
+        "1 and 3",
+        "2 and 2"
+      ],
+      "answer": "2 and 3"
+    },
+    {
+      "question": "The perpendicular distance of the line (x\u20131)/2 = (y+2)/\u20131 = (z+3)/2 from the point P(2, \u201310,1), is:",
+      "options": [
+        "6",
+        "5\u221a2",
+        "3\u221a5",
+        "4\u221a3"
+      ],
+      "answer": "3\u221a5"
+    },
+    {
+      "question": "If x = f(y) is the solution of the differential equation (1 + y\u00b2)dx \u2013 (x \u2013 2e^(tan\u207b\u00b9y))dy = 0 with f(0) = 1, then f(1/3) is equal to:",
+      "options": [
+        "e^(\u03c0/4)",
+        "e^(\u03c0/12)",
+        "e^(\u03c0/3)",
+        "e^(\u03c0/6)"
+      ],
+      "answer": "e^(\u03c0/6)"
+    },
+    {
+      "question": "If \u222b (x\u207b\u00b9(2x^2/3 + 2sin\u207b\u00b9x + sin x + x)/(1\u2013x)\u221a(1\u2013x\u00b2)) dx = g(x)+C, where C is the constant of integration, then g(1/2) equals:",
+      "options": [
+        "(e\u03c0)/(6\u221a2)",
+        "(e\u03c0)/(4\u221a2)",
+        "(e\u03c0)/(6\u221a3)",
+        "(e\u03c0)/(4\u221a3)"
+      ],
+      "answer": "(e\u03c0)/(6\u221a3)"
+    },
+    {
+      "question": "Let \u03b1\u03b8 and \u03b2\u03b8 be the distinct roots of 2x\u00b2 + (cos\u03b8)x \u2013 1 = 0, \u03b8 \u2208 (0, 2\u03c0). If m and M are the minimum and the maximum values of \u03b1\u2074 + \u03b2\u2074, then 16(M + m) equals:",
+      "options": [
+        "24",
+        "25",
+        "27",
+        "17"
+      ],
+      "answer": "25"
+    },
+    {
+      "question": "Let A = {1, 2, 3, 4} and B = {1, 4, 9, 16}. Then the number of many-one functions f : A \u2192 B such that 1 \u2208 f(A) is equal to:",
+      "options": [
+        "127",
+        "151",
+        "163",
+        "139"
+      ],
+      "answer": "151"
+    },
+    {
+      "question": "If the system of linear equations x + y + 2z = 6, 2x + 3y + az = a + 1, \u2013x \u2013 3y + bz = 2b has infinitely many solutions, then 7a + 3b is equal to:",
+      "options": [
+        "9",
+        "12",
+        "16",
+        "22"
+      ],
+      "answer": "16"
+    },
+    {
+      "question": "Let a and b be two unit vectors such that the angle between them is \u03c0/3. If a + 2\u03bbb and 3a \u2013 \u03bbb are perpendicular to each other, then the number of values of \u03bb in [\u20131, 3] is:",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "0"
+      ],
+      "answer": "0"
+    },
+    {
+      "question": "Let E: x\u00b2/a\u00b2 + y\u00b2/b\u00b2 = 1, a > b and H: x\u00b2/A\u00b2 \u2013 y\u00b2/B\u00b2 = 1. Let the distance between the foci of E and H be 2\u221a3. If a \u2013 A = 2, and the ratio of the eccentricities of E and H is 1/3, then the sum of the lengths of their latus rectums is equal to:",
+      "options": [
+        "10",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "If P(A\u222aB) = 0.6 and P(A\u2229B) = 0.1 and P(A|B) and P(B|A) are roots of 12x\u00b2 \u2013 7x + 1 = 0, then P(A\u2229B)/P(A\u222aB) is:",
+      "options": [
+        "5/3",
+        "4/3",
+        "9/4",
+        "7/4"
+      ],
+      "answer": "9/4"
+    },
+    {
+      "question": "The sum of all values of \u03b8 \u2208 [0, 2\u03c0] satisfying 2sin\u00b2\u03b8 = cos2\u03b8 and 2cos\u00b2\u03b8 = 3sin\u03b8 is:",
+      "options": [
+        "\u03c0/2",
+        "4\u03c0",
+        "5\u03c0/6",
+        "\u03c0"
+      ],
+      "answer": "\u03c0"
+    },
+    {
+      "question": "Let the curve z(1 + i) + z(1 \u2013 i) = 4, z \u2208 C, divide the region |z \u2013 3| \u2264 1 into two parts of areas \u03b1 and \u03b2. Then |\u03b1 \u2013 \u03b2| equals:",
+      "options": [
+        "\u03c0/2 + 1",
+        "\u03c0/3 + 1",
+        "\u03c0/4 + 1",
+        "\u03c0/6 + 1"
+      ],
+      "answer": "\u03c0/2 + 1"
+    },
+    {
+      "question": "The area of the region enclosed by the curves y = x\u00b2 \u2013 4x + 4 and y\u00b2 = 16 \u2013 8x is:",
+      "options": [
+        "8/3",
+        "4/3",
+        "5",
+        "8"
+      ],
+      "answer": "8/3"
+    },
+    {
+      "question": "Let y = f(x) be the solution of the differential equation (6x\u00b2 + 4x)/(x\u00b2 \u2013 1) + dy/dx = 0, \u20131 < x < 1 such that f(0) = 0. If 6\u222b from \u20131/2 to 1/2 of f(x) dx = 2\u03c0 \u2013 \u03b1, then \u03b1\u00b2 is:",
+      "options": [],
+      "answer": "27"
+    },
+    {
+      "question": "Let A(6, 8), B(10cos\u03b1, \u201310sin\u03b1), and C(\u201310sin\u03b1, 10cos\u03b1) be vertices of a triangle. If L(a, 9) is the orthocenter and G(h, k) is the centroid, then (5a \u2013 3h + 6k + 100sin\u00b2\u03b1) is equal to:",
+      "options": [],
+      "answer": "145"
+    },
+    {
+      "question": "Let the distance between two parallel lines be 5 units and a point P lie between the lines at a unit distance from one of them. An equilateral triangle PQR is formed such that Q lies on one line and R on the other. Then (QR)\u00b2 is equal to:",
+      "options": [],
+      "answer": "28"
+    },
+    {
+      "question": "If \u2211 from r=1 to 30 of (C(30, r)\u00b2 \u2013 C(30, r\u20131)C(30, r+1)) = \u03b1 \u00d7 2^29, then \u03b1 is equal to:",
+      "options": [],
+      "answer": "465"
+    },
+    {
+      "question": "Let A = {1, 2, 3}. The number of relations on A containing (1, 2) and (2, 3), which are reflexive and transitive but not symmetric, is:",
+      "options": [],
+      "answer": "3"
+    }
+  ],
+  "23rd Jan Shift 1": [
+    {
+      "question": "The value of \u222b(log\u2091x + 1 - 6 log\u2091x)/(x(e^x + e^(-x))) dx is:",
+      "options": [
+        "log\u20912",
+        "2",
+        "1",
+        "e/2"
+      ],
+      "answer": "1"
+    },
+    {
+      "question": "Let I(x) = \u222b from 11 to 15 of (dx)/(x - 11)^13 + (x - 15)^13. If I(37) - I(24) = (1/4)(1/13^b - 1/13^c), then 3(b + c) is equal to:",
+      "options": [
+        "40",
+        "39",
+        "22",
+        "26"
+      ],
+      "answer": "39"
+    },
+    {
+      "question": "If the function f(x) = [(sin(k\u2081x) + sin(k\u2082x))/(x)] for x < 0, f(0) = 4, f(x) = [log\u2091(1 + 2k\u2081x\u00b2)/(x(2 + k\u2082x))] for x > 0 is continuous at x = 0, then k\u2081\u00b2 + k\u2082\u00b2 is:",
+      "options": [
+        "8",
+        "20",
+        "5",
+        "10"
+      ],
+      "answer": "10"
+    },
+    {
+      "question": "If the line 3x - 2y + 12 = 0 intersects the parabola 4y = 3x\u00b2 at A and B, then the angle subtended by AB at the vertex of the parabola is:",
+      "options": [
+        "tan\u207b\u00b9(11/9)",
+        "\u03c0 - tan\u207b\u00b9(3/2)",
+        "tan\u207b\u00b9(4/5)",
+        "tan\u207b\u00b9(9/7)"
+      ],
+      "answer": "tan\u207b\u00b9(9/7)"
+    },
+    {
+      "question": "A curve y = f(x) passes through (0, 5) and (ln2, k). If the curve satisfies 2(3 + y)e^(2x) dx \u2013 (7 + e^(2x)) dy = 0, then k is:",
+      "options": [
+        "16",
+        "8",
+        "32",
+        "4"
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "Let f(x) = ln x and g(x) = (x\u2074 - 2x\u00b3 + 3x\u00b2 - 2x + 2)/(2x\u00b2 - 2x + 1). Then the domain of fog is:",
+      "options": [
+        "R",
+        "(0, \u221e)",
+        "[0, \u221e)",
+        "[1, \u221e)"
+      ],
+      "answer": "R"
+    },
+    {
+      "question": "An arc AC subtends right angle at the center O of a circle. A point B on arc AC divides it in 1:5 ratio (length AB:BC). If OC = \u03b1 + \u03b2 and (2\u221a3 \u2013 1)\u03b1 = \u03b2, then (2\u221a3 \u2013 1)\u03b1 \u2013 \u03b2 equals:",
+      "options": [
+        "2\u221a3 \u2013 1",
+        "2\u221a3",
+        "5\u221a3",
+        "2\u221a3 + 1"
+      ],
+      "answer": "2\u221a3 \u2013 1"
+    },
+    {
+      "question": "The sum of first four terms of an A.P. is one-fifth the sum of the next four terms. If first term is 3, then the sum of the first 20 terms is:",
+      "options": [
+        "\u20131200",
+        "\u20131080",
+        "\u20131020",
+        "\u2013120"
+      ],
+      "answer": "\u20131080"
+    },
+    {
+      "question": "The area of triangle PQR where P is foot of perpendicular from Q(10, \u20133, \u20131) on line (x\u20133)/7 = (y+2)/(\u20131) = (z+1)/2 and R = (3, \u20132, 1) is:",
+      "options": [
+        "9\u221a15",
+        "30",
+        "8\u221a15",
+        "3\u221a30"
+      ],
+      "answer": "3\u221a30"
+    },
+    {
+      "question": "Let (z \u2013 i)/(2z + i) = 1/3. If this is the equation of a circle, and its center is C, and triangle has vertices (0,0), C, (\u03b1,0) with area 11, then \u03b1\u00b2 = ?",
+      "options": [
+        "100",
+        "50",
+        "121/25",
+        "81/25"
+      ],
+      "answer": "100"
+    },
+    {
+      "question": "Let R = {(1,2), (2,3), (3,3)} on A = {1,2,3,4}. Minimum number of elements to be added to make R equivalence is:",
+      "options": [
+        "10",
+        "8",
+        "9",
+        "7"
+      ],
+      "answer": "7"
+    },
+    {
+      "question": "Number of words from 'DAUGHTER' with vowels not together:",
+      "options": [
+        "34000",
+        "37000",
+        "36000",
+        "35000"
+      ],
+      "answer": "36000"
+    },
+    {
+      "question": "Area of triangle PQR with P(5,4), Q(\u20132,4), R(a,b) is 35. If orthocenter is (2, 5/2), centroid is (c,d), find c + 2d:",
+      "options": [
+        "7/3",
+        "3",
+        "2",
+        "8/3"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "If x \u2208 [2\u03c0/3, \u03c0], then cosx(12/13) + sinx(5/13) =:",
+      "options": [
+        "x \u2013 tan\u207b\u00b9(4/3)",
+        "x \u2013 tan\u207b\u00b9(5/12)",
+        "x + tan\u207b\u00b9(4/5)",
+        "x + tan\u207b\u00b9(5/12)"
+      ],
+      "answer": "x \u2013 tan\u207b\u00b9(5/12)"
+    },
+    {
+      "question": "The value of (sin70\u00b0)(cot10\u00b0cot70\u00b0 \u2013 1) is:",
+      "options": [
+        "1",
+        "0",
+        "3/2",
+        "2/3"
+      ],
+      "answer": "1"
+    },
+    {
+      "question": "Median of class 12 marks is 14 with median class 12\u201318, frequency 12. If <12 marks count is 18, total number of students is:",
+      "options": [
+        "48",
+        "44",
+        "40",
+        "52"
+      ],
+      "answer": "44"
+    },
+    {
+      "question": "If A = (i + 2j + k), B = (i + 3j \u2013 2k), C = (2i + j \u2013 k), then E on median from A where D lies on altitude from D to face ABC. AD = \u221a110/3, volume = 805/(6\u221a2), then position vector of E is:",
+      "options": [],
+      "answer": "(7i + 12j + k)/6"
+    },
+    {
+      "question": "If A, B and (adj(A\u207b\u00b9) + adj(B\u207b\u00b9)) are non-singular, then inverse of A(adj(A\u207b\u00b9)+adj(B\u207b\u00b9))\u207b\u00b9B is:",
+      "options": [
+        "AB\u207b\u00b9 + A\u207b\u00b9B",
+        "adj(B\u207b\u00b9) + adj(A\u207b\u00b9)",
+        "(adj(B)+adj(A))/AB",
+        "(A\u207b\u00b9B + B\u207b\u00b9A)/AB"
+      ],
+      "answer": "(adj(B)+adj(A))/AB"
+    },
+    {
+      "question": "System (\u03bb\u20131)x + (\u03bb\u20134)y + \u03bbz = 5; \u03bbx + (\u03bb\u20131)y + (\u03bb\u20134)z = 7; (\u03bb+1)x + (\u03bb+2)y \u2013 (\u03bb+2)z = 9 has infinite solutions if \u03bb\u00b2 + \u03bb = ?",
+      "options": [
+        "10",
+        "12",
+        "6",
+        "20"
+      ],
+      "answer": "12"
+    },
+    {
+      "question": "Two dice with face counts {1\u00d72, 2\u00d72, 3\u00d71, 4\u00d71} and {1\u00d71, 2\u00d72, 3\u00d72, 4\u00d71}. Probability that sum = 4 or 5?",
+      "options": [
+        "1/2",
+        "3/5",
+        "2/3",
+        "4/9"
+      ],
+      "answer": "1/2"
+    },
+    {
+      "question": "The area between circle x\u00b2 + y\u00b2 = 25 and y = |x \u2013 1|, bounded in larger portion, is (1/4)(b\u03c0 + c), find b + c:",
+      "options": [],
+      "answer": "77"
+    },
+    {
+      "question": "Sum of all rational terms in expansion of (1 + 2^(1/3) + 3^(1/2))\u2076 is:",
+      "options": [],
+      "answer": "612"
+    },
+    {
+      "question": "A circle C touches x\u2013y+1=0, center on x-axis, cuts chord length 4/\u221a13 on \u20133x + 2y = 1. Hyperbola H: x\u00b2/\u03b1\u00b2 \u2013 y\u00b2/\u03b2\u00b2 = 1 has one focus at center of C and transverse axis equal to diameter. Then 2\u03b1\u00b2 + 3\u03b2\u00b2 = ?",
+      "options": [],
+      "answer": "19"
+    },
+    {
+      "question": "If equation 5x\u00b3 \u2013 15x \u2013 a = 0 has 3 real roots, and a \u2208 (\u03b1, \u03b2), then \u03b2 \u2013 2\u03b1 = ?",
+      "options": [],
+      "answer": "30"
+    },
+    {
+      "question": "If equation a(b\u2013c)x\u00b2 + b(c\u2013a)x + c(a\u2013b) = 0 has equal roots, and a + c = 15, b = 36/5, then a\u00b2 + c\u00b2 = ?",
+      "options": [],
+      "answer": "117"
+    }
+  ],
+  "23rd Jan Shift 2": [
+    {
+      "question": "If in the expansion of (1 + x)^p (1 \u2013 x)^q, the coefficients of x and x^2 are 1 and \u20132 respectively, then p^2 + q^2 is equal to:",
+      "options": [
+        "8",
+        "18",
+        "13",
+        "20"
+      ],
+      "answer": "13"
+    },
+    {
+      "question": "Let A = {(x, y) \u2208 R \u00d7 R : |x + y| \u2265 3} and B = {(x, y) \u2208 R \u00d7 R : |x| + |y| \u2264 3}. If C = {(x, y) \u2208 A \u2229 B : x = 0 or y = 0}, then \u2211 |x + y| for (x,y) \u2208 C is:",
+      "options": [
+        "15",
+        "18",
+        "24",
+        "12"
+      ],
+      "answer": "12"
+    },
+    {
+      "question": "The system of equations x + y + z = 6, x + 2y + 5z = 9, x + 5y + \u03bbz = \u00b5 has no solution if:",
+      "options": [
+        "\u03bb = 17, \u00b5 \u2260 18",
+        "\u03bb \u2260 17, \u00b5 \u2260 18",
+        "\u03bb = 15, \u00b5 \u2260 17",
+        "\u03bb = 17, \u00b5 = 18"
+      ],
+      "answer": "\u03bb = 17, \u00b5 \u2260 18"
+    },
+    {
+      "question": "Let \u222b(3x sin x) dx = g(x) + C. If (3\u03c0/2 + 8) = \u03b1\u03c0 + \u03b2\u03c0 + \u03b3 where \u03b1, \u03b2, \u03b3 \u2208 Z, then \u03b1 + \u03b2 \u2013 \u03b3 equals:",
+      "options": [
+        "55",
+        "47",
+        "48",
+        "62"
+      ],
+      "answer": "55"
+    },
+    {
+      "question": "A rod of length 8 units moves such that its ends A and B lie on lines x \u2013 y + 2 = 0 and y + 2 = 0 respectively. If the locus of point P dividing AB in ratio 2:1 is 9(x\u00b2 + \u03b1y\u00b2 + \u03b2xy + \u03b3x + 28y) \u2013 76 = 0, then \u03b1 \u2013 \u03b2 \u2013 \u03b3 =",
+      "options": [
+        "24",
+        "23",
+        "21",
+        "22"
+      ],
+      "answer": "23"
+    },
+    {
+      "question": "The distance of the line (x \u2013 2)/2 = (y \u2013 6)/3 = (z \u2013 3)/4 from point (1, 4, 0) along the line (x \u2013 1)/1 = (y + 2)/2 = (z + 3)/3 is:",
+      "options": [
+        "17",
+        "14",
+        "15",
+        "13"
+      ],
+      "answer": "14"
+    },
+    {
+      "question": "Let point A divide the segment joining P(\u20131, \u20131, 2) and Q(5, 5, 10) in ratio r:1 (r > 0). If O is origin and (21/5) OQ\u00b7OA \u2013 OP\u00b7OA = 10, then r = ?",
+      "options": [
+        "14",
+        "3",
+        "7",
+        "4"
+      ],
+      "answer": "7"
+    },
+    {
+      "question": "If the area of the region {(x, y): \u20131 \u2264 x \u2264 1, 0 \u2264 y \u2264 a + e^|x| \u2013 e^\u2013x, a > 0} is (2e + 8 + 1/e), then a equals:",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "5"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "A spherical chocolate ball has an ice-cream layer of 1 cm thickness. The ice-cream melts at 81 cm\u00b3/min and layer shrinks at 1/(4\u03c0) cm/min. Surface area of chocolate is:",
+      "options": [
+        "225\u03c0",
+        "128\u03c0",
+        "196\u03c0",
+        "256\u03c0"
+      ],
+      "answer": "256\u03c0"
+    },
+    {
+      "question": "A board has 16 squares. Two are selected at random. Probability that they have no side in common is:",
+      "options": [
+        "4/5",
+        "7/10",
+        "3/5",
+        "23/30"
+      ],
+      "answer": "4/5"
+    },
+    {
+      "question": "Let x = f(y) solve dx/dy = [(x/y) \u2013 sin(x/y)], y > 0, with f(1) = \u03c0/2. Then cos(f(2)) =",
+      "options": [
+        "1 \u2013 2(log 2)^2",
+        "2(log 2)^2 \u2013 1",
+        "2 log 2 \u2013 1",
+        "1 \u2013 2 log 2"
+      ],
+      "answer": "2(log 2)^2 \u2013 1"
+    },
+    {
+      "question": "Let f(x) = 6 + 16 cos x \u00b7 cos(x \u2013 \u03c0/3) \u00b7 cos(x + \u03c0/3) \u00b7 sin(3x) \u00b7 cos(6x). If its range is [\u03b1, \u03b2], then distance of (\u03b1, \u03b2) from line 3x + 4y + 12 = 0 is:",
+      "options": [
+        "11",
+        "8",
+        "10",
+        "9"
+      ],
+      "answer": "11"
+    },
+    {
+      "question": "Shortest distance from (a, 0), a > 0, to parabola y\u00b2 = 4x is 4. Circle passes through (a, 0) and focus, with center on axis. Its equation is:",
+      "options": [
+        "x\u00b2 + y\u00b2 \u2013 6x + 5 = 0",
+        "x\u00b2 + y\u00b2 \u2013 4x + 3 = 0",
+        "x\u00b2 + y\u00b2 \u2013 10x + 9 = 0",
+        "x\u00b2 + y\u00b2 \u2013 8x + 7 = 0"
+      ],
+      "answer": "x\u00b2 + y\u00b2 \u2013 6x + 5 = 0"
+    },
+    {
+      "question": "Let X = R \u00d7 R and relation R on X defined by: (a\u2081, b\u2081) R (a\u2082, b\u2082) \u21d4 b\u2081 = b\u2082. Then which is true?",
+      "options": [
+        "Both false",
+        "I true, II false",
+        "Both true",
+        "I false, II true"
+      ],
+      "answer": "I true, II false"
+    },
+    {
+      "question": "Chord of ellipse x\u00b2/4 + y\u00b2/2 = 1 has midpoint (1, 1/2). Then chord length is:",
+      "options": [
+        "2\u221a15/3",
+        "5\u221a15/3",
+        "\u221a15/3",
+        "15"
+      ],
+      "answer": "2\u221a15/3"
+    },
+    {
+      "question": "Let A be a 3\u00d73 matrix satisfying three given equations. Then a\u2082\u2083 equals:",
+      "options": [
+        "\u20131",
+        "0",
+        "2",
+        "1"
+      ],
+      "answer": "\u20131"
+    },
+    {
+      "question": "Number of complex numbers z with |z| = 1 satisfying (z + 1/z) = 2z is:",
+      "options": [
+        "6",
+        "4",
+        "10",
+        "8"
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "If square of shortest distance between two lines is m/n where m, n coprime, then m + n is:",
+      "options": [
+        "6",
+        "9",
+        "21",
+        "14"
+      ],
+      "answer": "9"
+    },
+    {
+      "question": "Evaluate \u222b from 0 to \u03c0/2 of (2 sin x)/(3 sin x + 4 cos x) dx:",
+      "options": [
+        "\u03c0/16",
+        "\u03c0/4",
+        "\u03c0/8",
+        "\u03c0/12"
+      ],
+      "answer": "\u03c0/16"
+    },
+    {
+      "question": "Evaluate lim x\u2192\u221e [(2x^2 \u2013 3x + 5)(3x^2 \u2013 x + 1)] / [(3x^2 + 5x + 4)(3x^2 + 2x + 1)]",
+      "options": [
+        "2/(3e)",
+        "2e/3",
+        "2e/3",
+        "2/(3e)"
+      ],
+      "answer": "2/(3e)"
+    },
+    {
+      "question": "In how many ways can 5 boys and 4 girls sit in a row such that either all boys are together or no two boys sit together?",
+      "options": [],
+      "answer": "17280"
+    },
+    {
+      "question": "Let \u03b1, \u03b2 be roots of x\u00b2 \u2013 ax \u2013 b = 0 with Im(\u03b1) < Im(\u03b2). Given expressions for P\u2083 to P\u2086, find (\u03b1\u2074 + \u03b2\u2074)/4:",
+      "options": [],
+      "answer": "31"
+    },
+    {
+      "question": "Focus of parabola y\u00b2 = 4x + 16 is center of circle C of radius 5. If point of intersection of lines lies on C for \u03bb\u2081, \u03bb\u2082, then 12\u03bb\u2081 + 29\u03bb\u2082 =",
+      "options": [],
+      "answer": "15"
+    },
+    {
+      "question": "Variance of sequence 8, 21, ..., 320 is:",
+      "options": [],
+      "answer": "8788"
+    },
+    {
+      "question": "Roots of 3x\u00b2 \u2013 px + q = 0 are 10th and 11th terms of A.P. with d = 3/2. If sum of first 11 terms is 88, then q \u2013 2p =",
+      "options": [],
+      "answer": "474"
+    }
+  ],
+  "24th Jan Shift 1": [
+    {
+      "question": "Let a = i + 2j + 3k, b = 3i + j \u2013 k and c be coplanar with a and b. If c is perpendicular to b and a\u00b7c = 5, then c is equal to",
+      "options": [
+        "(1/6)(i + 4j + 7k)",
+        "18",
+        "16",
+        "11/6"
+      ],
+      "answer": "(1/6)(i + 4j + 7k)"
+    },
+    {
+      "question": "In I(m, n) = \u222b\u2080\u00b9 x^(m-1)(1-x)^(n-1) dx, m, n > 0, then I(9, 14) + I(10, 13) is",
+      "options": [
+        "I(9, 1)",
+        "I(19, 27)",
+        "I(1, 13)",
+        "I(9, 13)"
+      ],
+      "answer": "I(9, 13)"
+    },
+    {
+      "question": "If f: \u211d\\{0} \u2192 \u211d such that f(x) - 6f(1/x) = (35 - 5)/(3x^2), and lim\u2093\u21920 (f(x) + 1/x) = \u03b2/\u03b1, then \u03b1 + 2\u03b2 is equal to",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "6"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "Let S\u2099 = 1/2 + 1/6 + 1/12 + 1/20 + ... up to n terms. If the sum of first six terms of an A.P. with first term \u2013p and common difference p is (2025/2026)S, then the absolute difference between 20th and 15th terms of the A.P. is",
+      "options": [
+        "25",
+        "90",
+        "20",
+        "45"
+      ],
+      "answer": "25"
+    },
+    {
+      "question": "Let f(x) = (x^2 + 2x + 1 + x + 4)/(2x^2 + 16x + 32). Then the value of f(1/15) + f(2/15) + ... + f(59/15) is",
+      "options": [
+        "118",
+        "92",
+        "102",
+        "108"
+      ],
+      "answer": "118"
+    },
+    {
+      "question": "If \u03b1 and \u03b2 are roots of 2z^2 \u2013 3z \u2013 2i = 0, then the value of Re[(\u03b1^19 + \u03b2^19)/(\u03b1^11 + \u03b2^11)] is",
+      "options": [
+        "398",
+        "312",
+        "409",
+        "441"
+      ],
+      "answer": "441"
+    },
+    {
+      "question": "Evaluate: lim\u2093\u21920 (cosec x + 2cos\u00b2x \u2013 3cosx cos\u00b2x + sinx + 4)",
+      "options": [
+        "0",
+        "1/(2\u221a5)",
+        "1/15",
+        "1/(2\u221a5) \u2013 1"
+      ],
+      "answer": "1/(2\u221a5) \u2013 1"
+    },
+    {
+      "question": "If AC = 6, B(1, 2, 3) and A, C lie on the line (x-6)/3 = (y-7)/2 = (z-7)/-2, then the area of triangle ABC is",
+      "options": [
+        "42",
+        "21",
+        "56",
+        "17"
+      ],
+      "answer": "21"
+    },
+    {
+      "question": "Solve the differential equation: (2xy + 5x + 1 - x\u00b2)dx + (1 + x\u00b2)dy = 0, y(0) = 0. Then y(3) = ?",
+      "options": [
+        "(5\u221a3)/2",
+        "14/3",
+        "2\u221a2",
+        "15/2"
+      ],
+      "answer": "(5\u221a3)/2"
+    },
+    {
+      "question": "Let the product of the focal distances of point (1/3, 1/2) on the ellipse x\u00b2/a\u00b2 + y\u00b2/b\u00b2 = 1 be 7/4. Then the absolute difference of the eccentricities is",
+      "options": [
+        "(\u221a3 \u2013 \u221a2)/3\u221a2",
+        "(1 \u2013 \u221a3)/2",
+        "(\u221a3 \u2013 \u221a2)/2\u221a3",
+        "1 \u2013 \u221a2/3"
+      ],
+      "answer": "(\u221a3 \u2013 \u221a2)/2\u221a3"
+    },
+    {
+      "question": "A and B alternately throw dice. A wins if he throws 5 before B throws 8, B wins otherwise. A starts. What is the probability A wins?",
+      "options": [
+        "9/17",
+        "9/19",
+        "8/17",
+        "8/19"
+      ],
+      "answer": "9/19"
+    },
+    {
+      "question": "What is the area of the largest rectangle (sides parallel to axes) inscribed in R = {(x, y): 0 \u2264 x \u2264 11, y \u2264 9 - x^2/3}?",
+      "options": [
+        "625/111",
+        "730/119",
+        "567/121",
+        "821/123"
+      ],
+      "answer": "567/121"
+    },
+    {
+      "question": "Find the area of region {(x, y): x^2 + 4x + 2 \u2264 y \u2264 |x + 2|}",
+      "options": [
+        "7",
+        "24/5",
+        "20/3",
+        "5"
+      ],
+      "answer": "20/3"
+    },
+    {
+      "question": "A student found wrong entries 4 and 5 instead of 6 and 8. Mean = 5.5, \u03a3x\u00b2 = 371. Find the variance of corrected data.",
+      "options": [
+        "7",
+        "4",
+        "9",
+        "5"
+      ],
+      "answer": "7"
+    },
+    {
+      "question": "Let C be the image of the circle x\u00b2 + y\u00b2 \u2013 2x + 4y \u2013 4 = 0 in the line 2x \u2013 3y + 5 = 0. If arc AB is 1/6 of the perimeter, 3\u03b2 \u2013 \u03b1 equals",
+      "options": [
+        "3",
+        "3 + \u221a3",
+        "4 \u2013 \u221a3",
+        "4"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "In binomial expansion of (1 + x)\u207f\u207a\u2074, if 5th, 6th, 7th terms are in A.P., max coefficient is",
+      "options": [
+        "70",
+        "35",
+        "20",
+        "10"
+      ],
+      "answer": "35"
+    },
+    {
+      "question": "Solve: ((x\u00b2 \u2013 9x + 11)\u00b2 \u2013 (x \u2013 4)(x \u2013 5)) = 3. Product of all rational roots is",
+      "options": [
+        "14",
+        "7",
+        "28",
+        "21"
+      ],
+      "answer": "14"
+    },
+    {
+      "question": "A line through (\u20131, 2, 1) parallel to (x\u20131)/2 = (y+1)/3 = z/4 intersects line (x+2)/3 = (y\u20133)/2 = (z+4)/1 at P. Distance from Q(4,\u20135,1)?",
+      "options": [
+        "5",
+        "10",
+        "5\u221a6",
+        "5\u221a5"
+      ],
+      "answer": "5\u221a5"
+    },
+    {
+      "question": "Lines 3x \u2013 4y \u2013 \u03b1 = 0, 8x \u2013 11y \u2013 33 = 0 and 2x \u2013 3y + \u03bb = 0 are concurrent. Image of (1, 2) in 2x \u2013 3y + \u03bb = 0 is (\u201357/13, 40/13). Find |\u03b1\u03bb|",
+      "options": [
+        "84",
+        "91",
+        "113",
+        "101"
+      ],
+      "answer": "91"
+    },
+    {
+      "question": "System: 2x \u2013 y + z = 4; 5x + \u03bby + 3z = 12; 100x \u2013 47y + \u03bcz = 212 has infinite solutions. Find \u03bc \u2013 2\u03bb.",
+      "options": [
+        "56",
+        "59",
+        "55",
+        "57"
+      ],
+      "answer": "57"
+    },
+    {
+      "question": "Let f(x) be such that 2(x+2)\u00b2f(x) \u2013 3(x+2)\u00b2 = 10 \u222b\u2080\u02e3 (t+2)\u00b2f(t) dt. If f is differentiable and f(0) = 2, then f(2) =",
+      "options": [
+        "15",
+        "17",
+        "18",
+        "19"
+      ],
+      "answer": "19"
+    },
+    {
+      "question": "If \u03b1 + \u03b2 = 8, and sec\u00b2(tan\u207b\u00b9 \u03b1) + cosec\u00b2(cot\u207b\u00b9 \u03b2) = 36, find \u03b1\u00b2 + \u03b2.",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "answer": "14"
+    },
+    {
+      "question": "How many 3-digit numbers are divisible by 2 and 3 but not divisible by 4 and 9?",
+      "options": [
+        "115",
+        "120",
+        "125",
+        "130"
+      ],
+      "answer": "125"
+    },
+    {
+      "question": "If X\u1d57AX = 0 for all X \u2260 0, and A is skew-symmetric 3\u00d73 matrix, then det(adj(2(A+I))) = 2^\u03b1 \u00d7 3^\u03b2 \u00d7 5^\u03b3. Find \u03b1\u00b2 + \u03b2\u00b2 + \u03b3\u00b2.",
+      "options": [
+        "44",
+        "45",
+        "40",
+        "50"
+      ],
+      "answer": "44"
+    },
+    {
+      "question": "Let S = {p\u2081, ..., p\u2081\u2080} be first 10 primes. Let A = S \u222a P where P is product of distinct elements of S. How many (x, y) pairs exist with x \u2208 S, x divides y \u2208 A?",
+      "options": [
+        "5120",
+        "5130",
+        "5100",
+        "5200"
+      ],
+      "answer": "5120"
+    }
+  ],
+  "24th Jan Shift 2": [
+    {
+      "question": "The equation of the chord of the ellipse x\u00b2/25 + y\u00b2/16 = 1, whose mid-point is (3,1) is:",
+      "options": [
+        "48x + 25y = 169",
+        "4x + 122y = 134",
+        "25x + 101y = 176",
+        "5x + 16y = 31"
+      ],
+      "answer": "48x + 25y = 169"
+    },
+    {
+      "question": "The function f(x) = (2^x \u2013 2^\u2013x)/(2^x + 2^\u2013x) is:",
+      "options": [
+        "One-one but not onto",
+        "Onto but not one-one",
+        "Both one-one and onto",
+        "Neither one-one nor onto"
+      ],
+      "answer": "One-one but not onto"
+    },
+    {
+      "question": "If \u03b1 > \u03b2 > \u03b3 > 0, then the expression cot\u207b\u00b9[(1+\u03b2)/(\u03b1\u2013\u03b2)] + cot\u207b\u00b9[(1+\u03b3)/(\u03b2\u2013\u03b3)] + cot\u207b\u00b9[(1+\u03b1)/(\u03b3\u2013\u03b1)] equals:",
+      "options": [
+        "(\u03c0/2)(\u2013\u03b1+\u03b2+\u03b3)",
+        "3\u03c0",
+        "0",
+        "\u03c0"
+      ],
+      "answer": "\u03c0"
+    },
+    {
+      "question": "Let f : (0, \u221e) \u2192 R be a differentiable function such that x\u00b2f'(x) = 2xf(x) + 3 and f(1) = 4. Then 2f(2) equals:",
+      "options": [
+        "29",
+        "19",
+        "39",
+        "23"
+      ],
+      "answer": "39"
+    },
+    {
+      "question": "Let A = {x \u2208 (0, \u03c0/2) : log_\u03c0|sinx| + log_\u03c0|cosx| = 2} and B = {x \u2265 0 : x(x \u2013 4) + 3\u221ax \u2013 6 = 0}. Then n(A \u222a B) equals:",
+      "options": [
+        "4",
+        "2",
+        "8",
+        "6"
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "Let position vectors of three triangle vertices be 4p + q \u2013 3r, 5p \u2013 q + 2r and \u20132p + q + 2r. If orthocenter and circumcenter have vectors (p+q+r)/4 and \u03b1p + \u03b2q + \u03b3r respectively, then 2\u03b1 + 5\u03b2 + \u03b3 = ?",
+      "options": [
+        "3",
+        "1",
+        "6",
+        "4"
+      ],
+      "answer": "1"
+    },
+    {
+      "question": "Let f(x) = [x] + |x \u2013 2| for \u20132 < x < 3. Let m and n be number of points where f is not continuous and not differentiable, respectively. Then m + n equals:",
+      "options": [
+        "6",
+        "9",
+        "8",
+        "7"
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "The point (\u03b1, 11/2) lies inside triangle with sides x + y = 11, x + 2y = 16 and 2x + 3y = 29. Then product of smallest and largest values of \u03b1 is:",
+      "options": [
+        "22",
+        "44",
+        "33",
+        "55"
+      ],
+      "answer": "33"
+    },
+    {
+      "question": "In an AP, if S\u2084\u2080 = 1030 and S\u2081\u2082 = 57, then S\u2083\u2080 \u2013 S\u2081\u2080 is:",
+      "options": [
+        "510",
+        "515",
+        "525",
+        "505"
+      ],
+      "answer": "515"
+    },
+    {
+      "question": "If 7 = 5 + 1/7(5 + \u03b1) + 1/7(5 + 2\u03b1) + 1/7(5 + 3\u03b1) + ..., then \u03b1 = ?",
+      "options": [
+        "1",
+        "6/7",
+        "6",
+        "1/7"
+      ],
+      "answer": "6"
+    },
+    {
+      "question": "The system x + 2y \u2013 3z = 2, 2x + \u03bby + 5z = 5, 14x + 3y + \u03bcz = 33 has infinitely many solutions. Find \u03bb + \u03bc.",
+      "options": [
+        "13",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": "12"
+    },
+    {
+      "question": "Let f(x) = 2log\u2091(x \u2013 2) \u2013 x\u00b2 + ax + 1 is strictly increasing in (2, 3), and g(x) = (x\u20131)\u00b3(x+2\u2013a)\u00b2 is strictly decreasing in (b, c). Then 100(a + b \u2013 c) = ?",
+      "options": [
+        "280",
+        "360",
+        "420",
+        "160"
+      ],
+      "answer": "360"
+    },
+    {
+      "question": "In (1 + x)^(2n\u20131), the 30th term is A and 12th term is B. If 2A = 5B, then n equals:",
+      "options": [
+        "22",
+        "21",
+        "20",
+        "19"
+      ],
+      "answer": "21"
+    },
+    {
+      "question": "Let a = 3i \u2013 j + 2k, b = a \u00d7 (i \u2013 2k), c = b \u00d7 k. Then projection of (c \u2013 2j) on a is:",
+      "options": [
+        "3\u221a7",
+        "14",
+        "2\u221a14",
+        "2\u221a7"
+      ],
+      "answer": "2\u221a14"
+    },
+    {
+      "question": "Let f(x) = (a + sinx)/(1 + bsinx) and lim x\u21920 f(x) = \u03bb + \u03bca + \u03bdb. Then (\u03bb + \u03bc + \u03bd)\u00b2 equals:",
+      "options": [
+        "25",
+        "9",
+        "36",
+        "16"
+      ],
+      "answer": "16"
+    },
+    {
+      "question": "Group A has 7 boys and 3 girls, Group B has 6 boys and 5 girls. In how many ways can 4 boys and 4 girls be invited, with 5 from A and 3 from B?",
+      "options": [
+        "8575",
+        "9100",
+        "8925",
+        "8750"
+      ],
+      "answer": "8925"
+    },
+    {
+      "question": "Area enclosed by curves y = e^x, y = |e^x \u2013 1| and y-axis is:",
+      "options": [
+        "1 + log\u20912",
+        "log\u20912",
+        "2log\u20912 \u2013 1",
+        "1 \u2013 log\u20912"
+      ],
+      "answer": "1 \u2013 log\u20912"
+    },
+    {
+      "question": "Number of real solutions of x\u00b2 + 3x + 2 = min{|x \u2013 3|, |x + 2|} is:",
+      "options": [
+        "2",
+        "0",
+        "3",
+        "1"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "If A = [a_ij] is a 2\u00d72 matrix with entries 0 or 1, probability that A is invertible is:",
+      "options": [
+        "5/8",
+        "3/16",
+        "1/8",
+        "3/8"
+      ],
+      "answer": "3/8"
+    },
+    {
+      "question": "Parabola has vertex (3/2, 3/2) and directrix x + 2y = 0. If equation is \u03b1x\u00b2 + \u03b2y\u00b2 \u2013 \u03b3xy \u2013 30x \u2013 60y + 225 = 0, then \u03b1 + \u03b2 + \u03b3 = ?",
+      "options": [
+        "6",
+        "8",
+        "7",
+        "9"
+      ],
+      "answer": "9"
+    },
+    {
+      "question": "Number of functions f : {1,...,100} \u2192 {0,1} with exactly one '1' among numbers \u226498:",
+      "options": [],
+      "answer": "392"
+    },
+    {
+      "question": "Let Q = (7, \u20132, 5), find image P in line L: (x\u20131)/2 = (y+1)/3 = z/4, and point R = (5, p, q) on L. If \u0394PQR, then area\u00b2 = ?",
+      "options": [],
+      "answer": "957"
+    },
+    {
+      "question": "Solve 2cosx dy/dx = sin2x \u2013 4y sinx, with y(\u03c0/3) = 3. Find y'(\u03c0/4) + y(\u03c0/4).",
+      "options": [],
+      "answer": "1"
+    },
+    {
+      "question": "Hyperbolas H1: x\u00b2/a\u00b2 \u2013 y\u00b2/b\u00b2 = 1 with latus rectum 15\u221a2 and H2 with latus rectum 12\u221a5. If 2\u221a(a\u00b2)\u00b72\u221a(B\u00b2) = 100\u221a10, and e\u2081=5/2, then 225e\u2082\u00b2 = ?",
+      "options": [],
+      "answer": "55"
+    },
+    {
+      "question": "Evaluate \u222b [(2x\u00b2 + 5x + 9)/(x\u00b2 + x + 1)] dx = ... + \u03b1 + \u03b2 log(x\u00b2 + x + 1) + C. Find \u03b1 + 2\u03b2.",
+      "options": [],
+      "answer": "16"
+    }
+  ],
+  "28th Jan Shift 1": [
+    {
+      "question": "The number of different 5-digit numbers greater than 50000 using digits 0-7, with first and last digit sum \u2264 8, is:",
+      "options": [
+        "4608",
+        "5720",
+        "5719",
+        "4607"
+      ],
+      "answer": "4607"
+    },
+    {
+      "question": "In trapezium ABCD inscribed in parabola y\u00b2 = 4x, diagonal AC of length 5\u221a2 passes through (1,0). What is the area?",
+      "options": [
+        "75/4",
+        "25/2",
+        "125/8",
+        "75/8"
+      ],
+      "answer": "75/4"
+    },
+    {
+      "question": "Two natural numbers k\u2081 and k\u2082 are selected. The probability that k\u2081i + k\u2082i \u2260 0 (where i = \u221a-1) is",
+      "options": [
+        "1/2",
+        "1/4",
+        "3/4",
+        "2/3"
+      ],
+      "answer": "3/4"
+    },
+    {
+      "question": "If f(x) = x\u00b2 / (x\u00b2 + 2), then \u03a3\u2096\u208c\u2081\u2078\u00b9 f(k/82) is:",
+      "options": [
+        "41",
+        "81/2",
+        "82",
+        "81\u00d72"
+      ],
+      "answer": "81/2"
+    },
+    {
+      "question": "If f(x) = (2 + 3a)x\u00b2 + (a + 2)/(a \u2013 1)x + b, and f(x + y) = f(x) + f(y) + 1 \u2013 (2/7)xy, then \u03a3 |f(i)| from i = 1 to 5 is",
+      "options": [
+        "715",
+        "735",
+        "545",
+        "675"
+      ],
+      "answer": "675"
+    },
+    {
+      "question": "Point A is equidistant from (0,3,2), (2,0,3), (0,0,1) and lies in xy-plane. B = (1,4,\u20131), C = (2,0,\u20132). Then:",
+      "options": [
+        "Both ABC is right-angled isosceles triangle and Area = 9\u221a2/2",
+        "Only triangle is right-angled isosceles",
+        "Only Area = 9\u221a2/2",
+        "Both are false"
+      ],
+      "answer": "Only triangle is right-angled isosceles"
+    },
+    {
+      "question": "Relation R = {(x, y): x+y is even} is:",
+      "options": [
+        "Reflexive and transitive but not symmetric",
+        "Reflexive and symmetric but not transitive",
+        "An equivalence relation",
+        "Symmetric and transitive but not reflexive"
+      ],
+      "answer": "An equivalence relation"
+    },
+    {
+      "question": "For a circle touching x-axis at (a,0) and cutting y-intercept b, lying below x-axis, find (2a, b\u00b2) in terms of coefficients \u03b1, \u03b2, \u03b3 of general form.",
+      "options": [
+        "(\u03b1, \u03b2\u00b2 + 4\u03b3)",
+        "(\u03b3, \u03b2\u00b2 \u2013 4\u03b1)",
+        "(\u03b3, \u03b2\u00b2 + 4\u03b1)",
+        "(\u03b1, \u03b2\u00b2 \u2013 4\u03b3)"
+      ],
+      "answer": "(\u03b1, \u03b2\u00b2 \u2013 4\u03b3)"
+    },
+    {
+      "question": "Given a\u2080 = 0, a\u2081 = 1/2, and recurrence 2a\u2099\u208a\u2082 = 5a\u2099\u208a\u2081 \u2013 3a\u2099, find \u03a3 a\u2096 from k = 1 to 100.",
+      "options": [
+        "3a\u2089\u2089 \u2013 100",
+        "3a\u2081\u2080\u2080 \u2013 100",
+        "3a\u2081\u2080\u2080 + 100",
+        "3a\u2089\u2089 + 100"
+      ],
+      "answer": "3a\u2081\u2080\u2080 \u2013 100"
+    },
+    {
+      "question": "Evaluate: cos\u207b\u00b9(1/5) + sin\u207b\u00b9(1/13) + sin\u207b\u00b9(5/65)",
+      "options": [
+        "1",
+        "0",
+        "33/65",
+        "32/65"
+      ],
+      "answer": "0"
+    },
+    {
+      "question": "If T\u2098 = 1/25, T\u2082\u2085 = 1/20 and \u03a3\u1d63\u208c\u2081\u00b2\u2075 T\u1d63 = 13, then \u03a3\u1d63\u208c\u2098\u00b2\u2098 5m T\u1d63 is:",
+      "options": [
+        "112",
+        "126",
+        "98",
+        "142"
+      ],
+      "answer": "126"
+    },
+    {
+      "question": "The image of point (4,4,3) in the line (x\u20131)/2 = (y\u20132)/1 = (z\u20131)/3 is (\u03b1, \u03b2, \u03b3). What is \u03b1 + \u03b2 + \u03b3?",
+      "options": [
+        "9",
+        "12",
+        "8",
+        "7"
+      ],
+      "answer": "9"
+    },
+    {
+      "question": "If \u222b\u2080^\u03c0 96x\u00b2 cos x / (1 + e\u00b2) dx = \u03c0(\u03b1\u03c0\u00b2 + \u03b2), find (\u03b1 + \u03b2)\u00b2",
+      "options": [
+        "144",
+        "196",
+        "100",
+        "64"
+      ],
+      "answer": "100"
+    },
+    {
+      "question": "Sum of all local minimum values of the piecewise function f(x) with segments defined around \u20131, 0, 2 is",
+      "options": [
+        "171/72",
+        "131/72",
+        "157/72",
+        "167/72"
+      ],
+      "answer": "157/72"
+    },
+    {
+      "question": "Sum of squares of all real roots of x\u00b2 + |2x \u2013 3| \u2013 4 = 0 is",
+      "options": [
+        "3(\u221a3 \u2013 2)",
+        "6(\u221a3 \u2013 2)",
+        "6(\u221a2 \u2013 2)",
+        "3(\u221a2 \u2013 2)"
+      ],
+      "answer": "6(\u221a2 \u2013 2)"
+    },
+    {
+      "question": "If \u222b\u2080\u02e3 t f(t) dt = x\u00b2 f(x), x > 0 and f(2) = 3, then f(6) =",
+      "options": [
+        "1",
+        "2",
+        "6",
+        "3"
+      ],
+      "answer": "1"
+    },
+    {
+      "question": "If C(r\u20131, n) = 28, C(r, n) = 56, C(r+1, n) = 70, and centroid of triangle ABC with given coordinates lies on (3x\u20131)\u00b2 + (3y)\u00b2 = \u03b1, find \u03b1:",
+      "options": [
+        "20",
+        "8",
+        "6",
+        "18"
+      ],
+      "answer": "20"
+    },
+    {
+      "question": "If z\u2081 = 3 + 2\u221a2i, and z\u2082 = 3z\u2081 with arg(z\u2082) = arg(z\u2081) + \u03c0/6, then triangle ABO with vertices O, A(z\u2081), B(z\u2082) is",
+      "options": [
+        "Area of triangle = 11/3",
+        "Scalene triangle",
+        "Area = 11/4",
+        "Obtuse-angled isosceles triangle"
+      ],
+      "answer": "Obtuse-angled isosceles triangle"
+    },
+    {
+      "question": "From 7 good and 3 defective oranges, 2 are drawn. Let x be defective count. What is Var(x)?",
+      "options": [
+        "28/75",
+        "14/25",
+        "26/75",
+        "18/25"
+      ],
+      "answer": "28/75"
+    },
+    {
+      "question": "Find area of region {(x,y): 0 \u2264 y \u2264 2|x| + 1, 0 \u2264 y \u2264 x\u00b2 + 1, |x| \u2264 3}",
+      "options": [
+        "80/3",
+        "64/3",
+        "17/3",
+        "32/3"
+      ],
+      "answer": "64/3"
+    },
+    {
+      "question": "Let E\u2081: x\u00b2/9 + y\u00b2/4 = 1 be an ellipse. Ellipses E\u1d62 are constructed such that their centers and eccentricities are the same as E\u2081 and the minor axis of E\u1d62 is the major axis of E\u1d62\u208a\u2081. If A\u1d62 is the area of E\u1d62, then \u03a3 A\u1d62/\u03c0 from i=1 to \u221e is:",
+      "options": [
+        "54",
+        "60",
+        "72",
+        "45"
+      ],
+      "answer": "54"
+    },
+    {
+      "question": "Let f(x) be defined piecewise as: f(x) = 3x if x < 0; f(x) = min{1+x+[x], x+2[x]} for 0 \u2264 x \u2264 2; f(x) = 5 if x > 2. Let \u03b1 = #discontinuities, \u03b2 = #non-differentiable points. Find \u03b1 + \u03b2.",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "Let a = \u00ee + \u0135 + k\u0302, b = 2\u00ee + 2\u0135 + k\u0302, and d = a \u00d7 b. If c satisfies a\u00b7c = c\u00b2, |2a \u2013 c|\u00b2 = 8, and angle between d and c is \u03c0/4, then 10 \u2013 3b\u00b7c + |d \u00d7 c|\u00b2 = ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": "6"
+    },
+    {
+      "question": "Let S = {\u20133, \u20132, \u20131, 1, 2} and M be all 3\u00d73 real matrices. Let S\u2081 = {A \u2208 M | A = A\u1d57 and entries from S}, S\u2082 = {A \u2208 M | A = \u2013A\u1d57 and entries from S}, S\u2083 = {A \u2208 M | a\u2081\u2081 + a\u2082\u2082 + a\u2083\u2083 = 0}. If |S\u2081 \u222a S\u2082 \u222a S\u2083| = 125^\u03b1, find \u03b1.",
+      "options": [
+        "1600",
+        "1613",
+        "1620",
+        "1500"
+      ],
+      "answer": "1613"
+    },
+    {
+      "question": "Let \u03b1 = 1 + \u03a3_{r=1 to 6} (\u20131)^{r\u20131}\u00b7C(12, 2r\u20131)\u00b73^r. Then, the distance from point (12, 3) to line \u03b1x \u2013 3y + 1 = 0 is",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "answer": "5"
+    }
+  ],
+  "28th Jan Shift 2": [
+    {
+      "question": "One of three bags B1, B2, B3 is chosen at random, then a ball is drawn. Given white ball is drawn, what's the probability it came from B2?",
+      "options": [
+        "1/3",
+        "4/15",
+        "2/3",
+        "2/5"
+      ],
+      "answer": "4/15"
+    },
+    {
+      "question": "Let points A, B, C have position vectors 3i + j, i + 3j, and ai + (1\u2013a)j. If C is \u221a9/2 away from the bisector of OA and OB, sum of all possible values of a is:",
+      "options": [
+        "1",
+        "9/2",
+        "0",
+        "2"
+      ],
+      "answer": "1"
+    },
+    {
+      "question": "If vector a = \u03b1i + \u03b2j + \u03b3k has components along and perpendicular to b = 3i + j \u2013 k as [16/11](3i + j \u2013 k) and [1/11](\u20134i \u2013 5j \u201317k), then \u03b1\u00b2 + \u03b2\u00b2 + \u03b3\u00b2 = ?",
+      "options": [
+        "23",
+        "18",
+        "16",
+        "26"
+      ],
+      "answer": "26"
+    },
+    {
+      "question": "If roots of x\u00b2 \u2013 (3 \u2013 2i)x \u2013 (2i \u2013 2) = 0 are \u03b1 + i\u03b2 and \u03b3 + i\u03b4, then \u03b1\u00b7\u03b3 + \u03b2\u00b7\u03b4 = ?",
+      "options": [
+        "6",
+        "2",
+        "\u20132",
+        "\u20136"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "Chord of ellipse x\u00b2/9 + y\u00b2/4 = 1 has midpoint (2, 4/\u221a3). If chord length is \u221a3\u00b7\u03b1, then \u03b1 = ?",
+      "options": [
+        "18",
+        "22",
+        "26",
+        "20"
+      ],
+      "answer": "22"
+    },
+    {
+      "question": "Probability that a random arrangement of GARDEN does not have vowels in alphabetical order is:",
+      "options": [
+        "1/4",
+        "2/3",
+        "1/3",
+        "1/2"
+      ],
+      "answer": "1/2"
+    },
+    {
+      "question": "Let f continuous on positive reals with g(x) = \u222b\u2080\u02e3 t\u00b7f(t)dt and g(x\u00b3) = x\u2076 + x\u2077. Then \u03a3_{r=1}^{15} f(r\u00b3) = ?",
+      "options": [
+        "320",
+        "340",
+        "270",
+        "310"
+      ],
+      "answer": "310"
+    },
+    {
+      "question": "Square of distance from point (15/7, 32/7, 7) to line (x+1)/3 = (y+3)/5 = (z+5)/7 along direction i+4j+7k is:",
+      "options": [
+        "54",
+        "41",
+        "66",
+        "44"
+      ],
+      "answer": "66"
+    },
+    {
+      "question": "Area enclosed by x(1 + y\u00b2) = 1 and y\u00b2 = 2x is:",
+      "options": [
+        "(\u03c0 \u2013 1)/(2\u221a3)",
+        "\u03c0 \u2013 1/(4\u221a3)",
+        "\u03c0 \u2013 1/(2\u221a3)",
+        "(\u03c0 \u2013 1)/(2\u00b72\u221a3)"
+      ],
+      "answer": "\u03c0 \u2013 1/(2\u221a3)"
+    },
+    {
+      "question": "Given matrices A and orthogonal matrix P, if C = P\u1d40\u00b7B\u00b9\u2070\u00b7P, and A, B, C are related, find m + n where trace(C) = m/n and gcd(m,n)=1.",
+      "options": [
+        "65",
+        "127",
+        "258",
+        "2049"
+      ],
+      "answer": "65"
+    },
+    {
+      "question": "Given \u222b 1/f(x) dx = 1 / (x\u221a(1+x)), and f(0) = \u20136, then f(1) = ?",
+      "options": [
+        "log_e2 + 2",
+        "4(log_e2 \u2013 2)",
+        "2 \u2013 log_e2",
+        "4(log_e2 + 2)"
+      ],
+      "answer": "4(log_e2 \u2013 2)"
+    },
+    {
+      "question": "Let f(x) be twice differentiable, f(2)=1, F(x) = x\u00b7f(x). Given \u222b\u2080\u00b2 xF'(x)dx = 6 and \u222b\u2080\u00b2 x\u00b2F''(x)dx = 40, find F\u2019(2) + \u222b\u2080\u00b2 F(x) dx:",
+      "options": [
+        "11",
+        "15",
+        "9",
+        "13"
+      ],
+      "answer": "11"
+    },
+    {
+      "question": "Given a\u2099 = (n\u00b2 + 5n + 6)/4, and S\u2099 = \u03a3_{k=1}\u207f 1/a_k, find 507\u00b7S\u2082\u2080\u2082\u2085:",
+      "options": [
+        "540",
+        "1350",
+        "675",
+        "135"
+      ],
+      "answer": "675"
+    },
+    {
+      "question": "Let f(x) = 2x\u00b3 \u2013 15x\u00b2 + 36x + 7. g(x) = 2025x / (x + 1). If both are onto, and S = {x \u2208 Z : x \u2208 range(f) or g}, then |S| = ?",
+      "options": [
+        "30",
+        "36",
+        "29",
+        "31"
+      ],
+      "answer": "30"
+    },
+    {
+      "question": "Domain of f(x) = sec\u207b\u00b9(2[x] + 1) is:",
+      "options": [
+        "(\u2013\u221e, \u20131] \u222a [0, \u221e)",
+        "(\u2013\u221e, \u2013\u221e)",
+        "(\u2013\u221e, \u20131] \u222a [1, \u221e)",
+        "(\u2013\u221e, \u221e) \\ {0}"
+      ],
+      "answer": "(\u2013\u221e, \u20131] \u222a [0, \u221e)"
+    },
+    {
+      "question": "Evaluate: \u03a3_{r=1}^{13} 1/(sin((r\u20131)\u03c0/4)\u00b7sin((r+1)\u03c0/6)) = a/3 + b, find a\u00b2 + b\u00b2 = ?",
+      "options": [
+        "10",
+        "2",
+        "8",
+        "4"
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "Two equal sides of an isosceles triangle lie on lines \u2013x + 2y = 4 and x + y = 4. Sum of all possible distinct slopes of third side is:",
+      "options": [
+        "\u20136",
+        "12",
+        "6",
+        "\u20132\u221a10"
+      ],
+      "answer": "6"
+    },
+    {
+      "question": "In binomial expansion of (a + b)^12, if 3 consecutive terms are in G.P., and p values of r exist, and q is sum of all rational terms in (3+4)^12, find p + q:",
+      "options": [
+        "283",
+        "295",
+        "287",
+        "299"
+      ],
+      "answer": "283"
+    },
+    {
+      "question": "Centroid of triangle PAB lies on line if A, B lie on circle and hyperbola and P on line. The line equation is:",
+      "options": [
+        "4x \u2013 9y = 12",
+        "x + 9y = 36",
+        "9x \u2013 9y = 32",
+        "6x \u2013 9y = 20"
+      ],
+      "answer": "6x \u2013 9y = 20"
+    },
+    {
+      "question": "If f(x) satisfies f(1/f(x)) = f(f(1/x)), and f(K) = \u20132K, then sum of squares of all possible K values is:",
+      "options": [
+        "1",
+        "6",
+        "7",
+        "9"
+      ],
+      "answer": "6"
+    },
+    {
+      "question": "Number of natural numbers between 212 and 999 whose digits sum to 15 is:",
+      "options": [],
+      "answer": "64"
+    },
+    {
+      "question": "lim_{x\u21920} (e^x \u2013 e^{\u2013x}) / (x\u00b7f(x)) = 1, where f(x) is as given in a defined series expansion, then the limit evaluates to:",
+      "options": [],
+      "answer": "1"
+    },
+    {
+      "question": "A polygon has interior angles in A.P. with d = 6\u00b0, largest angle is 219\u00b0. Find number of sides n:",
+      "options": [],
+      "answer": "20"
+    },
+    {
+      "question": "Let A, B be intersections of y = \u20135 with reflection of y\u00b2 = 4x across line x + y + 4 = 0. Let S be focus. If d is AB length and a is area of triangle SAB, find a + d:",
+      "options": [],
+      "answer": "14"
+    },
+    {
+      "question": "Solution y(x) satisfies dy/dx = [2 \u2013 x\u00b2]/[4x\u00b7sin(y) \u2013 sin(2y)], y(2) = \u03c0/4. Then y\u00b2(0) = ?",
+      "options": [],
+      "answer": "4"
+    }
+  ],
+  "29th Jan Shift 1": [
+    {
+      "question": "Let the line x + y = 1 meet the circle x\u00b2 + y\u00b2 = 4 at points A and B. A line perpendicular to AB and passing through the midpoint of AB intersects the circle again at C and D. What is the area of quadrilateral ADBC?",
+      "options": [
+        "3\u221a7",
+        "2\u221a14",
+        "5\u221a7",
+        "14"
+      ],
+      "answer": "2\u221a14"
+    },
+    {
+      "question": "If f(x) = (1 + sin\u00b2x + cos\u00b2x + 4sin4x) / (sin\u00b2x + cos\u00b2x + 1 + 4sin4x), what is M\u2074 \u2013 m\u2074 where M and m are the maximum and minimum values of f(x)?",
+      "options": [
+        "1280",
+        "1295",
+        "1040",
+        "1215"
+      ],
+      "answer": "1280"
+    },
+    {
+      "question": "Two parabolas share the same focus (4,3) and have directrices as x-axis and y-axis respectively. If they intersect at A and B, what is AB\u00b2?",
+      "options": [
+        "192",
+        "384",
+        "96",
+        "392"
+      ],
+      "answer": "192"
+    },
+    {
+      "question": "Triangle ABC is formed by lines 7x\u20136y+3=0, x+2y\u201331=0 and 9x\u20132y\u201319=0. If (h,k) is the image of the centroid of triangle ABC in the line 3x + 6y \u2013 53 = 0, what is h\u00b2 + k\u00b2 + hk?",
+      "options": [
+        "37",
+        "47",
+        "40",
+        "36"
+      ],
+      "answer": "37"
+    },
+    {
+      "question": "Let a = 2i\u0302 \u2013 j\u0302 + 3k\u0302 and b = 3i\u0302 \u2013 5j\u0302 + k\u0302. If a \u00d7 c = c \u00d7 b and (a + c)\u00b7(b + c) = 168, what is the maximum value of |c|\u00b2?",
+      "options": [
+        "77",
+        "462",
+        "308",
+        "154"
+      ],
+      "answer": "308"
+    },
+    {
+      "question": "How many 7-digit numbers can be formed using digits 1, 2, 3 such that the sum of the digits is 11?",
+      "options": [
+        "158",
+        "173",
+        "164",
+        "161"
+      ],
+      "answer": "161"
+    },
+    {
+      "question": "Let A be the area of the region {(x,y): 2y \u2264 x+3, y \u2264 x+3, y \u2265 x\u20131}. What is 6A?",
+      "options": [
+        "16",
+        "12",
+        "18",
+        "14"
+      ],
+      "answer": "14"
+    },
+    {
+      "question": "Find the least value of n such that the number of integral terms in (127)^(1/3) + (11)^(1/12)^n is 183.",
+      "options": [
+        "2184",
+        "2148",
+        "2172",
+        "2196"
+      ],
+      "answer": "2184"
+    },
+    {
+      "question": "How many solutions does the equation [(9x\u00b2 \u2013 9x + 2)(2x\u00b2 \u2013 7x + 3)] = 0 have?",
+      "options": [
+        "2",
+        "4",
+        "1",
+        "3"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "If y(x) solves cos(x)\u00b7log(cos x)\u00b2 dy + (sin x \u2013 3y sin x log(cos x)) dx = 0, and y(\u03c0/4) = 1 / log(4), then y(\u03c0/6) is:",
+      "options": [
+        "(log 3 \u2013 log 4)/e\u00b2",
+        "(\u2013log 4 + log 3)/e",
+        "\u2013log 4 / e",
+        "(log 3 \u2013 log 4)/e"
+      ],
+      "answer": "(log 3 \u2013 log 4)/e"
+    },
+    {
+      "question": "Define relation R on [0, \u03c0/2] such that x R y iff sec\u00b2x \u2013 tan\u00b2y = 1. What type of relation is R?",
+      "options": [
+        "An equivalence relation",
+        "Reflexive and transitive but not symmetric",
+        "Reflexive and symmetric but not transitive",
+        "Reflexive but neither symmetric nor transitive"
+      ],
+      "answer": "An equivalence relation"
+    },
+    {
+      "question": "Two ellipses E\u2081 and E\u2082 have same eccentricity 1/\u221a3. The product of their latus rectum lengths is 32/3 and distance between foci of E\u2081 is 4. If E\u2081 and E\u2082 intersect in a rectangle, what is its area?",
+      "options": [
+        "6\u221a6",
+        "18\u221a6 / 5",
+        "12\u221a6 / 5",
+        "24\u221a6 / 5"
+      ],
+      "answer": "24\u221a6 / 5"
+    },
+    {
+      "question": "An A.P. has first three terms summing to 54, and sum of first 20 terms between 1600 and 1800. What is the 11th term?",
+      "options": [
+        "84",
+        "122",
+        "90",
+        "108"
+      ],
+      "answer": "90"
+    },
+    {
+      "question": "Lines L\u2081 and L\u2082 intersect and L\u2083 passes through their point of intersection and is parallel to a + b. What point does L\u2083 pass through?",
+      "options": [
+        "(8, 26, 12)",
+        "(2, 8, 5)",
+        "(\u20131, \u20131, 1)",
+        "(5, 17, 4)"
+      ],
+      "answer": "(8, 26, 12)"
+    },
+    {
+      "question": "Evaluate: lim\u2099\u2192\u221e \u03a3\u2096\u208c\u2081\u207f (k\u00b3 + 6k\u00b2 + 11k + 5)/((k+3)!)",
+      "options": [
+        "4/3",
+        "2",
+        "7/3",
+        "5/3"
+      ],
+      "answer": "5/3"
+    },
+    {
+      "question": "Evaluate: \u222b\u2080^\u03c0 sin\u03b8 + cos\u03b8 / (9 + 16 sin 2\u03b8) d\u03b8",
+      "options": [
+        "3 log\u20914",
+        "6 log\u20914",
+        "4 log\u20913",
+        "2 log\u20913"
+      ],
+      "answer": "4 log\u20913"
+    },
+    {
+      "question": "L\u2081: (x\u20131)/1 = (y\u20132)/1 = (z\u20131)/2 and L\u2082: (x+1)/1 = (y\u20132)/2 = (z\u20130)/1. If L\u2083 passes through their point of intersection and is perpendicular to both, and intersects L\u2081, then |5\u03b1 \u2013 11\u03b2 \u2013 8\u03b3| = ?",
+      "options": [
+        "18",
+        "16",
+        "25",
+        "20"
+      ],
+      "answer": "25"
+    },
+    {
+      "question": "Given \u03a3 (x\u1d62 \u2013 2) = 30, \u03a3 (x\u1d62 \u2013 \u03b2)\u00b2 = 98 for i = 1 to 10, and variance = 4/5. If new data is 2(x\u1d62\u20131)+4\u03b2, what is \u03b2\u03bc/\u03c3\u00b2?",
+      "options": [
+        "100",
+        "110",
+        "120",
+        "90"
+      ],
+      "answer": "100"
+    },
+    {
+      "question": "If z\u2081 lies in |z \u2013 (8 + 2i)| \u2264 1 and z\u2082 in |z \u2013 (2 \u2013 6i)| \u2264 2, what is the minimum value of |z\u2081 \u2013 z\u2082|?",
+      "options": [
+        "3",
+        "7",
+        "13",
+        "10"
+      ],
+      "answer": "7"
+    },
+    {
+      "question": "Matrix A = [[log128/log8, log5/log25], [log128/log8, log5/log25]]. If C is the cofactor matrix and 8|C| = x, find x.",
+      "options": [
+        "262",
+        "288",
+        "242",
+        "222"
+      ],
+      "answer": "242"
+    },
+    {
+      "question": "If \u222b\u2080\u00b9 f(\u03bbx) d\u03bb = af(x), f(1) = 1 and f(16) = 1/8, then 16 \u2013 f'(1/16) equals:",
+      "options": [
+        "96",
+        "112",
+        "128",
+        "104"
+      ],
+      "answer": "112"
+    },
+    {
+      "question": "Let A = [[2, 1], [1, 0]]. Define S = {m \u2208 \u2124 : A\u00b2\u1d50 + A\u1d50 = 3I \u2013 A}. What is the cardinality of S?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "Find the least natural number p such that lim\u2093\u21920\u207a (\u230a1/x\u230b + \u230a2/x\u230b + ... + \u230ap/x\u230b \u2013 \u230ax\u230b \u2013 \u230ax\u00b2\u230b \u2013 ... \u2013 \u230ax\u2079\u230b) \u2265 1.",
+      "options": [
+        "21",
+        "22",
+        "24",
+        "26"
+      ],
+      "answer": "24"
+    },
+    {
+      "question": "How many 6-letter words can be made using 'MATHS' such that any used letter appears at least twice?",
+      "options": [
+        "1405",
+        "1420",
+        "1320",
+        "1505"
+      ],
+      "answer": "1405"
+    },
+    {
+      "question": "Let S = {x: cos\u207b\u00b9x + sin\u207b\u00b9x + sin\u207b\u00b9(2x + 1) = \u03c0}. Then \u03a3_{x\u2208S} (2x \u2013 1)\u00b2 = ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": "5"
+    }
+  ],
+  "29th Jan Shift 2": [
+    {
+      "question": "If the set of all a \u2208 R, for which the equation 2x\u00b2 + (a \u2013 5)x + 15 = 3a has no real root, is the interval (\u03b1, \u03b2), and X = {x \u2208 Z : \u03b1 < x < \u03b2}, then \u03a3_{x \u2208 X} x\u00b2 is equal to",
+      "options": [
+        "2109",
+        "2129",
+        "2139",
+        "2119"
+      ],
+      "answer": "2139"
+    },
+    {
+      "question": "If sinx + sin\u00b2x = 1, x \u2208 (0, \u03c0/2), then (cos\u00b9\u00b2x + tan\u00b9\u00b2x) + 3(cos\u00b9\u2070x + tan\u00b9\u2070x + cos\u2078x + tan\u2078x) + (cos\u2076x + tan\u2076x) is equal to",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "Let the area enclosed between the curves |y| = 1 \u2013 x\u00b2 and x\u00b2 + y\u00b2 = 1 be \u03b1. If 9\u03b1 = \u03b2\u03c0 + \u03b3, \u03b2, \u03b3 \u2208 Z, then |\u03b2 \u2013 \u03b3| equals",
+      "options": [
+        "27",
+        "18",
+        "15",
+        "33"
+      ],
+      "answer": "33"
+    },
+    {
+      "question": "If the domain of the function log\u2085(18x \u2013 x\u00b2 \u2013 77) is (\u03b1, \u03b2) and the domain of log(((x \u2013 1)\u00b2(2x + 3x \u2013 2))/(x \u2013 3x \u2013 4)) is (\u03b3, \u03b4), then \u03b1\u00b2 + \u03b2\u00b2 + \u03b3\u00b2 is equal to",
+      "options": [
+        "195",
+        "174",
+        "186",
+        "179"
+      ],
+      "answer": "186"
+    },
+    {
+      "question": "Let the function f(x) = (x\u00b2 \u2013 1)|x\u00b2 \u2013 ax + 2| + cos|x| be not differentiable at x = \u03b1 = 2 and x = \u03b2. Then the distance of the point (\u03b1, \u03b2) from the line 12x + 5y + 10 = 0 is",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "Let the solution set of the inequality log_{1/2}(x\u00b2 \u2013 5x + 6) \u2265 log_{1/2}(2x \u2013 5) be (\u03b1, \u03b2]. If \u03b1 + \u03b2 = a and \u03b2 \u2013 \u03b1 = b, then the value of ab is",
+      "options": [
+        "34",
+        "32",
+        "36",
+        "30"
+      ],
+      "answer": "36"
+    },
+    {
+      "question": "Let A be a 3\u00d73 matrix such that A\u00b3 = I. If A \u2260 I and A\u00b2 \u2260 I, then det(A \u2013 I) + trace(adj(A)) is equal to",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "A triangle has vertices (1, 0), (\u20132, 3) and (a, b), with centroid at origin. Then a + b is equal to",
+      "options": [
+        "2",
+        "\u20132",
+        "\u20131",
+        "1"
+      ],
+      "answer": "\u20131"
+    },
+    {
+      "question": "If the system of linear equations x + 2y + 3z = 6, 2x + 3y + 8z = 14, x + y + \u03bbz = \u03bc has infinitely many solutions, then 2\u03bc + 3\u03bb is equal to",
+      "options": [
+        "24",
+        "21",
+        "18",
+        "27"
+      ],
+      "answer": "24"
+    },
+    {
+      "question": "Let f(x) = x\u00b3 \u2013 2x\u00b2 + 2, x \u2208 R. If f\u207b\u00b9 exists, then f\u207b\u00b9(x) is strictly increasing in",
+      "options": [
+        "(\u2013\u221e, 1)",
+        "(2, \u221e)",
+        "(1, 2)",
+        "R"
+      ],
+      "answer": "R"
+    },
+    {
+      "question": "The solution of the differential equation dy/dx + (1 + x + x\u00b2)y = 0, y(0) = 1 is",
+      "options": [
+        "e^{\u2013x(1 + x/2 + x\u00b2/3)}",
+        "e^{\u2013(x + x\u00b2 + x\u00b3)}",
+        "e^{\u2013(x + x\u00b2/2 + x\u00b3/3)}",
+        "e^{x(1 + x/2 + x\u00b2/3)}"
+      ],
+      "answer": "e^{\u2013(x + x\u00b2/2 + x\u00b3/3)}"
+    },
+    {
+      "question": "If A = (4, \u20133, 1), B = (2, \u20131, 3) and C = (\u20132, 2, \u20135) are vertices of a triangle, then the length of the median from A is",
+      "options": [
+        "\u221a45",
+        "\u221a60",
+        "\u221a30",
+        "\u221a65"
+      ],
+      "answer": "\u221a65"
+    },
+    {
+      "question": "If the straight line y = mx + 4 intersects the parabola y\u00b2 = 16x at two distinct points, then",
+      "options": [
+        "m < \u20131 or m > 1",
+        "m < 2 or m > \u20132",
+        "\u20132 < m < 2",
+        "\u20131 < m < 1"
+      ],
+      "answer": "\u20132 < m < 2"
+    },
+    {
+      "question": "The equation of the common tangent to the circles x\u00b2 + y\u00b2 = 9 and x\u00b2 + y\u00b2 \u2013 8x + 6 = 0 is",
+      "options": [
+        "3x \u2013 4y + 15 = 0",
+        "3x \u2013 4y \u2013 15 = 0",
+        "4x \u2013 3y \u2013 15 = 0",
+        "4x \u2013 3y + 15 = 0"
+      ],
+      "answer": "3x \u2013 4y \u2013 15 = 0"
+    },
+    {
+      "question": "The number of integral solutions (x, y) of equation |x + y| + |x \u2013 y| = 4 is",
+      "options": [
+        "8",
+        "10",
+        "7",
+        "9"
+      ],
+      "answer": "9"
+    },
+    {
+      "question": "If tan\u207b\u00b9x + tan\u207b\u00b9y + tan\u207b\u00b9z = \u03c0, where xyz + x + y + z = 0, then the value of (x + y)\u00b2 + (y + z)\u00b2 + (z + x)\u00b2 is",
+      "options": [
+        "0",
+        "2",
+        "4",
+        "1"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "The value of tan\u207b\u00b9[(\u221a(1 + sinx) \u2013 \u221a(1 \u2013 sinx))/(\u221a(1 + sinx) + \u221a(1 \u2013 sinx))] is",
+      "options": [
+        "x",
+        "\u03c0 \u2013 x",
+        "\u03c0/2 \u2013 x",
+        "\u03c0/2 + x"
+      ],
+      "answer": "x"
+    },
+    {
+      "question": "The equation of the ellipse whose foci are (\u00b12, 0) and eccentricity is 1/2, is",
+      "options": [
+        "x\u00b2/16 + y\u00b2/12 = 1",
+        "x\u00b2/16 + y\u00b2/9 = 1",
+        "x\u00b2/12 + y\u00b2/16 = 1",
+        "x\u00b2/9 + y\u00b2/16 = 1"
+      ],
+      "answer": "x\u00b2/16 + y\u00b2/12 = 1"
+    },
+    {
+      "question": "Let A = {1, 2, 3, 4, 5}, then the number of functions f: A \u2192 A such that f is one-one and f(x) \u2260 x for all x \u2208 A, is",
+      "options": [
+        "44",
+        "46",
+        "52",
+        "50"
+      ],
+      "answer": "44"
+    },
+    {
+      "question": "If p(x) = x\u00b2 \u2013 3x + 2, then the value of \u03a3_{r=1}^{100} p(r + 1)/p(r) is",
+      "options": [],
+      "answer": "198"
+    },
+    {
+      "question": "If the probability that an examinee will solve a question is 3/4, then the probability that he will solve at least one of two questions is",
+      "options": [],
+      "answer": "15/16"
+    },
+    {
+      "question": "Let z be a non-zero complex number such that arg(z) = 2\u03c0/3 and |z| = 2. Then (z \u2013 2)/(z + 2) is",
+      "options": [],
+      "answer": "purely imaginary"
+    },
+    {
+      "question": "If f(x) = (2x + 3)/(x \u2013 1), x \u2260 1, then f\u207b\u00b9(x) is",
+      "options": [],
+      "answer": "(x + 3)/(x \u2013 2)"
+    },
+    {
+      "question": "If f(x) = \u222b\u2080^x (1 + sin t)/\u221a(1 + cos\u00b2t) dt, then the value of \u222b\u2080^{\u03c0/2} f(x) dx is",
+      "options": [
+        "\u03c0",
+        "2\u03c0",
+        "\u03c0/2",
+        "3\u03c0/2"
+      ],
+      "answer": "\u03c0"
+    },
+    {
+      "question": "Let f(x) = 3x + 4. Let g(x) be such that g(f(x)) = f(g(x)) = 5x + 6, then g(2) =",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "answer": "2"
+    }
+  ]
+}

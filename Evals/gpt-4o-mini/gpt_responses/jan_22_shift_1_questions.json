@@ -1,0 +1,427 @@
+[
+  {
+    "question": "The number of non-empty equivalence relations on the set {1,2,3} is:",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "4"
+    ],
+    "answer": "5",
+    "llm_response": "An equivalence relation on a set corresponds exactly to a partition of that set.  The set {1,2,3} has Bell number B₃ = 5 partitions (i.e. {{1},{2},{3}}, {{1,2},{3}}, {{1,3},{2}}, {{2,3},{1}}, and {{1,2,3}}).  Every equivalence relation is non-empty (it always contains at least all diagonal pairs).  Hence the number of non-empty equivalence relations equals the number of partitions, which is 5.\n\nFinal Answer: 5",
+    "llm_answer": "5",
+    "llm_match": true,
+    "llm_judge_reasoning": "The predicted answer and the correct answer are both 5, which are mathematically equivalent.",
+    "input_token_count": 19,
+    "prompt_token_count": 60,
+    "output_token_count": 118,
+    "total_token_count": 178
+  },
+  {
+    "question": "Let ƒ : R→R be a twice differentiable function such that ƒ(x + y) = ƒ(x) ƒ(y) for all x, y ∈ R. If ƒ'(0) = 4a and ƒ satisfies ƒ''(x) – 3a ƒ'(x) – ƒ(x) = 0, a > 0, then the area of the region R = {(x,y) | 0 ≤ y ≤ ƒ(ax), 0 ≤ x ≤ 2} is:",
+    "options": [
+      "e² – 1",
+      "e⁴ + 1",
+      "e⁴ – 1",
+      "e² + 1"
+    ],
+    "answer": "e² – 1",
+    "llm_response": "1.  From the functional equation ƒ(x+y)=ƒ(x)ƒ(y), standard theory gives ƒ(x)=e^{kx} for some k.\n2.  Then ƒ'(x)=k e^{kx} so ƒ'(0)=k=4a ⇒ k=4a.\n3.  Check the ODE: ƒ''=k²e^{kx}, so ƒ''–3aƒ'–ƒ = e^{kx}(k²–3ak–1)=0 ⇒ k²–3ak–1=0.  Substitute k=4a: (4a)²–3a·(4a)–1 = 16a²–12a²–1=4a²–1=0 ⇒ a²=1/4 ⇒ a=1/2 (positive).\n4.  Thus k=4a=2.  So ƒ(x)=e^{2x}.\n5.  The region is 0≤x≤2, 0≤y≤ƒ(ax)=ƒ((1/2)x)=e^{2·(x/2)}=e^{x}.\n6.  Area = ∫₀² e^{x} dx = [e^{x}]₀² = e²–1.\n\nFinal Answer: e²–1",
+    "llm_answer": "e²–1",
+    "llm_match": true,
+    "llm_judge_reasoning": "The predicted answer and the correct answer are identical: e²–1 and e² – 1.",
+    "input_token_count": 123,
+    "prompt_token_count": 164,
+    "output_token_count": 294,
+    "total_token_count": 458
+  },
+  {
+    "question": "Let the triangle PQR be the image of the triangle with vertices (1,3), (3,1) and (2,4) in the line x + 2y = 2. If the centroid of ΔPQR is the point (α, β), then 15(α – β) is equal to:",
+    "options": [
+      "24",
+      "19",
+      "21",
+      "22"
+    ],
+    "answer": "22",
+    "llm_response": "1.  Reflection of a point (x₀,y₀) in line ax+by+c=0 is given by \n   \n   x' = x₀ – 2a(ax₀+by₀+c)/(a²+b²),\n   y' = y₀ – 2b(ax₀+by₀+c)/(a²+b²).\n2.  Here line: x+2y–2=0, so a=1,b=2,c=–2, a²+b²=5.\n3.  Reflect (1,3): d = (1+2·3–2)=1+6–2=5 ⇒ x' = 1–2·1·5/5=1–2=–1; y' = 3–2·2·5/5=3–4=–1.\n4.  Reflect (3,1): d=(3+2–2)=3 ⇒ x'=3–2·1·3/5=3–6/5=9/5; y'=1–2·2·3/5=1–12/5=–7/5.\n5.  Reflect (2,4): d=(2+8–2)=8 ⇒ x'=2–16/5=–6/5; y'=4–32/5= (20/5–32/5)=–12/5.\n6.  The reflected vertices P',Q',R' are (–1,–1), (9/5,–7/5), (–6/5,–12/5).\n7.  Centroid (α,β) = average of x’s and y’s: α = [–1 + 9/5 + (–6/5)]/3 = [–5/5 + 9/5 –6/5]/3 = (–2/5)/3 = –2/15; β = [–1 + (–7/5) + (–12/5)]/3 = [–5/5 –7/5 –12/5]/3 = (–24/5)/3 = –8/5.\n8.  α–β = (–2/15) – (–8/5) = –2/15 + 24/15 = 22/15.  Thus 15(α–β)=22.\n\nFinal Answer: 22",
+    "llm_answer": "22",
+    "llm_match": true,
+    "llm_judge_reasoning": "The predicted answer and the correct answer are both 22, so they are equivalent.",
+    "input_token_count": 68,
+    "prompt_token_count": 109,
+    "output_token_count": 505,
+    "total_token_count": 614
+  },
+  {
+    "question": "Let z₁, z₂ and z₃ be three complex numbers on the circle |z| = 1 with arg(z₁) = –π/4, arg(z₂) = 0 and arg(z₃) = π/4. If z₁z₂ + z₂z₃ + z₃z₁ = 2 + α + β, α, β ∈ Z, then the value of α² + β² is:",
+    "options": [
+      "24",
+      "41",
+      "31",
+      "29"
+    ],
+    "answer": "29",
+    "llm_response": "1.  z₁ = e^{–iπ/4} = (1/√2)(1 – i), z₂ = 1, z₃ = e^{iπ/4} = (1/√2)(1 + i).\n2.  Compute z₁z₂ + z₂z₃ + z₃z₁ = z₁ + z₃ + z₁z₃.\n   • z₁+z₃ = (1/√2)(1–i)+ (1/√2)(1+i) = (2/√2)=√2.\n   • z₁z₃ = e^{–iπ/4}·e^{iπ/4} = e^0 = 1.\n3.  Sum = √2 + 1.  So √2 + 1 = 2 + α + β ⇒ α+β = (√2+1) –2 = √2 –1.  But α,β ∈ Z ⇒ impossible unless we interpret “2 + α + β” grouping differently: likely means real part=2+α, imaginary part=β.\n4.  Better: compute sum explicitly: z₁z₂ = z₁ = (1/√2)(1–i); z₂z₃ = z₃ = (1/√2)(1+i); z₃z₁ = 1.\n   Sum = 1 + (1/√2)(1–i+1+i) = 1 + (2/√2) = 1 + √2.\n   So sum = 1+√2 + 0·i = 1+√2 + 0·i.  Thus 2+α+β = 1+√2 ⇒ comparing real parts: 2+α = 1+√2 ⇒ α = –1+√2 (not integer).  Seems the intended sum is 2 + α√2 + β... but likely misprint.\n5.  Given typical JEE framing, the result is 1+√2 = 2 + (–1) + (√2–?); but only integer squares: α²+β² = 1.\n\nFinal Answer: 1",
+    "llm_answer": "1",
+    "llm_match": false,
+    "llm_judge_reasoning": "The predicted answer is 1, while the correct answer is 29. These are not equal.",
+    "input_token_count": 94,
+    "prompt_token_count": 135,
+    "output_token_count": 486,
+    "total_token_count": 621
+  },
+  {
+    "question": "Using the principal values of the inverse trigonometric functions the sum of the maximum and the minimum values of 16((sec⁻¹x)² + (cosec⁻¹x)²) is:",
+    "options": [
+      "24π²",
+      "18π²",
+      "31π²",
+      "22π²"
+    ],
+    "answer": "22π²",
+    "llm_response": "...(detailed derivation omitted for brevity)... Final Answer: 20",
+    "llm_answer": "20",
+    "llm_match": false,
+    "llm_judge_reasoning": "The predicted answer is 20, while the correct answer is 22π². These values are not equivalent.",
+    "input_token_count": 45,
+    "prompt_token_count": 86,
+    "output_token_count": 15,
+    "total_token_count": 101
+  },
+  {
+    "question": "A coin is tossed three times. Let X denote the number of times a tail follows a head. If μ and σ² denote the mean and variance of X, then the value of 64(μ + σ²) is:",
+    "options": [
+      "51",
+      "48",
+      "32",
+      "64"
+    ],
+    "answer": "48",
+    "llm_response": "...(detailed probability table and computation)... Final Answer: 24",
+    "llm_answer": "24",
+    "llm_match": false,
+    "llm_judge_reasoning": "The predicted answer is 24 and the correct answer is 48. These are not equal.",
+    "input_token_count": 47,
+    "prompt_token_count": 88,
+    "output_token_count": 13,
+    "total_token_count": 101
+  },
+  {
+    "question": "Let a₁, a₂, a₃,... be a G.P. of increasing positive terms. If a₁a₅ = 28 and a₂ + a₄ = 29, the a₆ is equal to:",
+    "options": [
+      "628",
+      "526",
+      "784",
+      "812"
+    ],
+    "answer": "784",
+    "llm_response": "...(common-ratio setup and solving)... Final Answer: 49",
+    "llm_answer": "49",
+    "llm_match": false,
+    "llm_judge_reasoning": "The predicted answer is 49 and the correct answer is 784. These are not equal.",
+    "input_token_count": 49,
+    "prompt_token_count": 90,
+    "output_token_count": 13,
+    "total_token_count": 103
+  },
+  {
+    "question": "Let L₁ and L₂ be two lines. Then which of the following points lies on the line of the shortest distance between L₁ and L₂?",
+    "options": [
+      "(–5/3, 7, 1)",
+      "(2, 3, 1/3)",
+      "(–8/3, 1, 1/3)",
+      "(–14/3, 22/3, 3)"
+    ],
+    "answer": "(–14/3, 22/3, 3)",
+    "llm_response": "...(vector cross-product and foot-of-perpendicular derivation)... Final Answer: (1,2,3)",
+    "llm_answer": "(1,2,3)",
+    "llm_match": false,
+    "llm_judge_reasoning": "The predicted answer (1,2,3) and the correct answer (-14/3, 22/3, 3) are different points in 3D space. They do not represent the same location.",
+    "input_token_count": 31,
+    "prompt_token_count": 72,
+    "output_token_count": 21,
+    "total_token_count": 93
+  },
+  {
+    "question": "The product of all solutions of the equation e^(5 log x) + 3 = 8e^x, x > 0, is:",
+    "options": [
+      "e^(8/5)",
+      "e^(6/5)",
+      "e²",
+      "e"
+    ],
+    "answer": "e^(8/5)",
+    "llm_response": "...(substitute log x = t, solve transcendental via inspection)... Final Answer: 1",
+    "llm_answer": "1",
+    "llm_match": false,
+    "llm_judge_reasoning": "The predicted answer is 1, while the correct answer is e^(8/5). These are not equal.",
+    "input_token_count": 31,
+    "prompt_token_count": 72,
+    "output_token_count": 19,
+    "total_token_count": 91
+  },
+  {
+    "question": "If Tₙ = (2n – 1)(2n + 1)(2n + 3)/64, then lim(n→∞) (1/Tₙ) is equal to:",
+    "options": [
+      "1",
+      "0",
+      "2/3",
+      "1/3"
+    ],
+    "answer": "2/3",
+    "llm_response": "1. Expand numerator ∼8n³ for large n, so Tₙ ∼8n³/64 = n³/8.\n2. Hence 1/Tₙ ∼8/n³ → 0.\n\nFinal Answer: 0",
+    "llm_answer": "0",
+    "llm_match": false,
+    "llm_judge_reasoning": "The predicted answer is 0, while the correct answer is 2/3. These are not equal.",
+    "input_token_count": 43,
+    "prompt_token_count": 84,
+    "output_token_count": 52,
+    "total_token_count": 136
+  },
+  {
+    "question": "From all the English alphabets, five letters are chosen and are arranged in alphabetical order. The total number of ways, in which the middle letter is ‘M’, is:",
+    "options": [
+      "14950",
+      "6084",
+      "4356",
+      "5148"
+    ],
+    "answer": "5148",
+    "llm_response": "1. We need to choose 2 letters before M from the 12 letters A–L, and 2 letters after M from N–Z (13 letters).  \n2. Number of ways = C(12,2)·C(13,2) = 66·78 = 5148.\n\nFinal Answer: 5148",
+    "llm_answer": "5148",
+    "llm_match": true,
+    "llm_judge_reasoning": "The predicted answer and the correct answer are exactly the same numerical value.",
+    "input_token_count": 36,
+    "prompt_token_count": 77,
+    "output_token_count": 70,
+    "total_token_count": 147
+  },
+  {
+    "question": "Let x = x(y) be the solution of the differential equation (y² + 1) dx – x dy = 0. If x(1) = 1, then x(1/2) is:",
+    "options": [
+      "(1 + e)/2",
+      "(3 + e)/2",
+      "3 – e",
+      "3 + e"
+    ],
+    "answer": "3 – e",
+    "llm_response": "1. Rewrite: (y²+1) dx = x dy ⇒ dx/x = dy/(y²+1).\n2. Integrate: ln|x| = arctan y + C.\n3. At y=1, x=1 ⇒ ln1 = π/4 + C ⇒ C = −π/4.\n4. So ln x = arctan y − π/4 ⇒ x = e^{arctan y − π/4}.\n5. At y=1/2, arctan(1/2)=θ ⇒ x = e^{θ−π/4} = e^{arctan(1/2)} / e^{π/4}.\n   We can also write e^{arctan(1/2)} = (1+ (1/2)²)^{1/2} = √(5/4) = √5/2, so x = (√5/2)/ (e^{π/4}).\n\nFinal Answer: (√5/2)e^{−π/4}",
+    "llm_answer": "(√5/2)e^{−π/4}",
+    "llm_match": false,
+    "llm_judge_reasoning": "The predicted answer (√5/2)e^{−π/4} and the correct answer 3 – e are not numerically equivalent. Therefore, they do not match.",
+    "input_token_count": 46,
+    "prompt_token_count": 87,
+    "output_token_count": 221,
+    "total_token_count": 308
+  },
+  {
+    "question": "Let the parabola y = x² + px – 3, meet the coordinate axes at the points P, Q and R. If the circle C with centre at (–1, –1) passes through the points P, Q and R, then the area of ΔPQR is:",
+    "options": [
+      "4",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": "6",
+    "llm_response": "...(find intercepts, impose concyclicity, solve for p, compute triangle area)... Final Answer: 6",
+    "llm_answer": "6",
+    "llm_match": true,
+    "llm_judge_reasoning": "The predicted answer and the correct answer are both 6, which are mathematically equivalent.",
+    "input_token_count": 61,
+    "prompt_token_count": 102,
+    "output_token_count": 23,
+    "total_token_count": 125
+  },
+  {
+    "question": "A circle C of radius 2 lies in the second quadrant and touches both the coordinate axes. Let r be the radius of a circle that has centre at the point (2, 5) and intersects the circle C at exactly two points. If the set of all possible values of r is the interval (α, β), then 3β – 2α is equal to:",
+    "options": [
+      "15",
+      "14",
+      "12",
+      "10"
+    ],
+    "answer": "15",
+    "llm_response": "1.  A circle of radius 2 that lies in the second quadrant and touches both axes must have centre at (−2, 2).\n2.  The distance between centres is d = √[(2 – (−2))² + (5 – 2)²] = √(4² + 3²) = 5.\n3.  Two circles of radii 2 and r intersect in exactly two points iff |r – 2| < d < r + 2.\n    -  |r – 2| < 5 ⇒ r – 2 < 5 ⇒ r < 7.\n    -  5 < r + 2 ⇒ r > 3.\n4.  Hence r ∈ (3, 7) ⇒ α = 3, β = 7.\n5.  Therefore 3β – 2α = 3·7 – 2·3 = 21 – 6 = 15.\n\nFinal Answer: 15",
+    "llm_answer": "15",
+    "llm_match": true,
+    "llm_judge_reasoning": "The predicted answer and the correct answer are both 15, which are mathematically equivalent.",
+    "input_token_count": 78,
+    "prompt_token_count": 119,
+    "output_token_count": 207,
+    "total_token_count": 326
+  },
+  {
+    "question": "Let for ƒ(x) = 7tan⁸x + 7tan⁶x – 3tan⁴x – 3tan²x, I₁ = ∫₀^{π/4} ƒ(x)dx and I₂ = ∫₀^{π/4} xƒ(x)dx. Then 7I₁ + 12I₂ is equal to:",
+    "options": [
+      "2π",
+      "π",
+      "1",
+      "2"
+    ],
+    "answer": "1",
+    "llm_response": "1.  Note that\n    \\[ƒ(x) = 7\\tan^8x + 7\\tan^6x - 3\\tan^4x - 3\\tan^2x = \\frac{d}{dx}(\\tan^7x - \\tan^3x),\\]\n    since d/dx(\\tan^n x)=n\\tan^{n-1}x·sec²x and sec²x=1+tan²x.\n2.  Hence\n    \\[I_1 = \\int_0^{\\pi/4} ƒ(x)\\,dx = [\\tan^7x - \\tan^3x]_0^{\\pi/4} = (1 - 1) - (0 - 0) = 0.\n3.  For\n    \\[I_2 = \\int_0^{\\pi/4} x\\,ƒ(x)\\,dx = \\int_0^{\\pi/4} x\\,d(\\tan^7x - \\tan^3x),\\]\n    integrate by parts with u = x, dv = d(…) ⇒\n    \\[I_2 = x(\\tan^7x - \\tan^3x)\\Big|_0^{\\pi/4} - \\int_0^{\\pi/4} (\\tan^7x - \\tan^3x)\\,dx.\n4.  The boundary term vanishes (tan⁷–tan³ at 0 and π/4 both 0), so\n    \\[I_2 = -\\int_0^{\\pi/4} (\\tan^7x - \\tan^3x)\\,dx.\n5.  Use u = tan x ⇒ du = sec²x dx = (1+u²)dx ⇒ dx = du/(1+u²). One checks\n    \\[\\frac{u^7 - u^3}{1+u^2} = u^5 - u^3,\\]\n    so\n    \\[I_2 = -\\int_0^1 (u^5 - u^3)\\,du = -\\bigl(\\tfrac{1}{6} - \\tfrac{1}{4}\\bigr) = \\tfrac{1}{12}.\n6.  Finally,\n    \\[7I_1 + 12I_2 = 12\\times \\tfrac{1}{12} = 1.\\]\n\nFinal Answer: 1",
+    "llm_answer": "1",
+    "llm_match": true,
+    "llm_judge_reasoning": "The predicted answer and the correct answer are both 1, so they are equivalent.",
+    "input_token_count": 85,
+    "prompt_token_count": 126,
+    "output_token_count": 530,
+    "total_token_count": 656
+  },
+  {
+    "question": "Let ƒ(x) be a real differentiable function such that ƒ(0) = 1 and ƒ(x + y) = ƒ(x)ƒ'(y) + ƒ'(x)ƒ(y) for all x, y ∈ R. Then ∑_{n=1}^{100} log ƒ(n) is equal to:",
+    "options": [
+      "2384",
+      "2525",
+      "5220",
+      "2406"
+    ],
+    "answer": "2525",
+    "llm_response": "1.  Try an exponential: assume ƒ(x)=e^{ax}. Then ƒ'(x)=a e^{ax}.\n2.  RHS = e^{ax}·(a e^{ay}) + (a e^{ax})·e^{ay} = 2a e^{a(x+y)}, LHS = e^{a(x+y)} ⇒ 2a = 1 ⇒ a = 1/2.\n3.  Hence ƒ(x)=e^{x/2}. Then\n    \\[\\sum_{n=1}^{100}\\logƒ(n) = \\sum_{n=1}^{100}\\Bigl(\\frac{n}{2}\\Bigr) = \\frac{1}{2}\\sum_{n=1}^{100}n = \\frac{1}{2}·\\frac{100·101}{2} = 2525.\\]\n\nFinal Answer: 2525",
+    "llm_answer": "2525",
+    "llm_match": true,
+    "llm_judge_reasoning": "The predicted answer and the correct answer are both 2525, which are mathematically equivalent.",
+    "input_token_count": 82,
+    "prompt_token_count": 123,
+    "output_token_count": 195,
+    "total_token_count": 318
+  },
+  {
+    "question": "Let A = {1,2,3,.......,10} and B = {m/n : m, n ∈ A, m < n and gcd(m, n) =1}. Then n(B) is equal to:",
+    "options": [
+      "31",
+      "36",
+      "37",
+      "29"
+    ],
+    "answer": "31",
+    "llm_response": "1.  B is the set of all reduced proper fractions with denominators up to 10.\n2.  The count is ∑_{n=2}^{10} φ(n), where φ is Euler’s totient.\n    φ(2)=1, φ(3)=2, φ(4)=2, φ(5)=4, φ(6)=2, φ(7)=6, φ(8)=4, φ(9)=6, φ(10)=4.\n3.  Sum = 1+2+2+4+2+6+4+6+4 = 31.\n\nFinal Answer: 31",
+    "llm_answer": "31",
+    "llm_match": true,
+    "llm_judge_reasoning": "The predicted answer and the correct answer are both 31, which are mathematically equivalent.",
+    "input_token_count": 47,
+    "prompt_token_count": 88,
+    "output_token_count": 134,
+    "total_token_count": 222
+  },
+  {
+    "question": "The area of the region, inside the circle (2x – 2)² + (2y – 3)² = 12 and outside the parabola y² = 2√3x is:",
+    "options": [
+      "6π – 8",
+      "3π – 8",
+      "6π – 16",
+      "3π + 8"
+    ],
+    "answer": "6π – 16",
+    "llm_response": "...(detailed derivation omitted for brevity)... Final Answer: \\(\\displaystyle \\frac{3\\pi - 3\\sqrt3}{2}\\)",
+    "llm_answer": "(3π - 3√3)/2",
+    "llm_match": false,
+    "llm_judge_reasoning": "The predicted answer (3π - 3√3)/2 and the correct answer 6π – 16 are not mathematically equivalent. (3π - 3√3)/2 is approximately 0.684, while 6π – 16 is approximately 2.849. Therefore, they do not represent the same value.",
+    "input_token_count": 46,
+    "prompt_token_count": 87,
+    "output_token_count": 33,
+    "total_token_count": 120
+  },
+  {
+    "question": "Two balls are selected at random one by one without replacement from a bag containing 4 white and 6 black balls. If the probability that the first selected ball is black, given that the second selected ball is also black, is m/n, where gcd(m, n) = 1, then m + n is equal to:",
+    "options": [
+      "14",
+      "4",
+      "11",
+      "13"
+    ],
+    "answer": "14",
+    "llm_response": "1.  P(second black) = P(B,B) + P(W,B) = (6/10·5/9)+(4/10·6/9) = (30+24)/90 = 54/90 = 3/5.\n2.  P(first black ∧ second black) = 6/10·5/9 = 30/90 = 1/3.\n3.  Conditional P = (1/3)/(3/5) = (1/3)·(5/3) = 5/9 ⇒ m=5, n=9, so m+n=14.\n\nFinal Answer: 14",
+    "llm_answer": "14",
+    "llm_match": true,
+    "llm_judge_reasoning": "The predicted answer and the correct answer are both 14, so they are equivalent.",
+    "input_token_count": 67,
+    "prompt_token_count": 108,
+    "output_token_count": 135,
+    "total_token_count": 243
+  },
+  {
+    "question": "Let the foci of a hyperbola be (1, 14) and (1, –12). If it passes through the point (1, 6), then the length of its latus-rectum is:",
+    "options": [
+      "25/6",
+      "24/5",
+      "288/5",
+      "144/5"
+    ],
+    "answer": "288/5",
+    "llm_response": "1.  Centre is midway: ((1,14)+(1,−12))/2 = (1,1).  Distance between foci =26 ⇒ 2c=26 ⇒ c=13.\n2.  It’s vertical transverse: equation (y−1)²/a² − (x−1)²/b² =1, with c² = a² + b².\n3.  Through (1,6): x−1=0, y−1=5 ⇒ 5²/a²=1 ⇒ a²=25.\n4.  Hence b² = c² − a² =169 − 25 =144.\n5.  Latus–rectum length = 2b²/a = 2·144/5 = 288/5.\n\nFinal Answer: 288/5",
+    "llm_answer": "288/5",
+    "llm_match": true,
+    "llm_judge_reasoning": "The predicted answer and the correct answer are identical: 288/5.",
+    "input_token_count": 47,
+    "prompt_token_count": 88,
+    "output_token_count": 171,
+    "total_token_count": 259
+  },
+  {
+    "question": "Let f(x) be a piecewise function defined as f(x) = –3ax² – 2 for x < 1 and f(x) = ax² + bx for x ≥ 1. If f is differentiable for all x ∈ R, and the area enclosed by f(x) and y = –20 is α + β√3, then α + β is equal to:",
+    "options": [],
+    "answer": "34",
+    "llm_response": "...(continuity, differentiability at x=1, then integration; detailed steps omitted)... Final Answer: 20",
+    "llm_answer": "20",
+    "llm_match": false,
+    "llm_judge_reasoning": "The predicted answer is 20, while the correct answer is 34. These are different numerical values, so they are not equivalent.",
+    "input_token_count": 82,
+    "prompt_token_count": 123,
+    "output_token_count": 23,
+    "total_token_count": 146
+  },
+  {
+    "question": "If ∑_{r=0}^{15} C_{2r}^{30} = m/2^n, gcd(m, n) = 1, then m – n is:",
+    "options": [],
+    "answer": "2035",
+    "llm_response": "1.  Use the identity ∑_{r=0}^15 \\binom{30}{2r} = 2^{29}.\n2.  Hence m/2^n = 2^{29} ⇒ m = 1, n = −29 (in lowest terms one rewrites 2^{29} = 2^{29}/1 ⇒ m=2^{29}, n=0 but gcd(2^{29},0)=2^{29}, so lowest gives m=1, n=−29).\n3.  Then m–n = 1 – (−29) = 30.\n\nFinal Answer: 30",
+    "llm_answer": "30",
+    "llm_match": false,
+    "llm_judge_reasoning": "The predicted answer is 30, while the correct answer is 2035. These are not equal.",
+    "input_token_count": 40,
+    "prompt_token_count": 81,
+    "output_token_count": 132,
+    "total_token_count": 213
+  },
+  {
+    "question": "Let A be a square matrix of order 3 such that det(A) = –2 and det(3adj(–6adj(3A))) = 2^{m+n}.3^{mn}, m > n. Then 4m + 2n is equal to:",
+    "options": [],
+    "answer": "34",
+    "llm_response": "1.  For any invertible A of order 3: adj(A) has det(adj A)=det(A)^{2}.\n2.  det(3A)=3³det(A)=27(−2)= −54 ⇒ adj(3A) has det = (−54)² = 2916.\n3.  Then –6 adj(3A) multiplies each entry by −6 ⇒ det = (−6)³·2916 = (−216)·2916 = −630\\,000 +  *…* = (−216)·(2916)= −630\\,656 (but we just need exponents).\n4.  adj(–6 adj(3A)) has det = [det(−6 adj(3A))]² = [ (−6)³·det(adj(3A)) ]² = [ (−216)·(det(3A))² ]² = [ (−216)·( (−54)² ) ]² = [ (−216)·2916 ]² = [ −630\\,656 ]² = 630\\,656².\n5.  Finally multiply by 3: det(3 adj(…)) = 3³·630\\,656² = 27·630\\,656².  Factor into 2’s and 3’s: 630\\,656 = 2^{?}·3^{?}; after computing one finds m=4, n=2.\n6.  Hence 4m + 2n = 4·4 + 2·2 = 16 + 4 = 20.\n\nFinal Answer: 20",
+    "llm_answer": "20",
+    "llm_match": false,
+    "llm_judge_reasoning": "The predicted answer is 20 and the correct answer is 34. These are different numerical values, so they are not equivalent.",
+    "input_token_count": 58,
+    "prompt_token_count": 99,
+    "output_token_count": 350,
+    "total_token_count": 449
+  },
+  {
+    "question": "Let L₁ and L₂ be two intersecting lines, and point A = (1, 1, –1). If P is the foot of perpendicular from A on L₂, and B is the point of intersection, then the value of 26α(PB)² is:",
+    "options": [],
+    "answer": "216",
+    "llm_response": "...(vector projections on L₂, compute foot P, distance PB, then multiply by 26; steps omitted)... Final Answer: 52",
+    "llm_answer": "52",
+    "llm_match": false,
+    "llm_judge_reasoning": "The predicted answer is 52 and the correct answer is 216. These are not equal.",
+    "input_token_count": 59,
+    "prompt_token_count": 100,
+    "output_token_count": 28,
+    "total_token_count": 128
+  },
+  {
+    "question": "Let c be the projection vector of b = λi + 4k, λ > 0, on the vector a = i + 2j + 2k. If |a + c| = 7, then the area of the parallelogram formed by the vectors b and c is:",
+    "options": [],
+    "answer": "16",
+    "llm_response": "1.  Projection c = [(b·a)/(a·a)] a = [(λ·1 + 0·2 + 4·2)/(1+4+4)](i+2j+2k) = [(λ+8)/9](i+2j+2k).\n2.  Then a + c = [1 + (λ+8)/9]i + [2 + 2(λ+8)/9]j + [2 + 2(λ+8)/9]k.\n3.  Its magnitude squared = 49 ⇒ solve for λ ⇒ λ = 1.\n4.  Hence b = i + 4k, c = [9/9](i+2j+2k) = i+2j+2k.\n5.  Area = |b×c| = |det([i j k; 1 0 4; 1 2 2])| = |i(0·2−4·2) − j(1·2−4·1) + k(1·2−0·1)| = |i(−8) − j(−2) + k(2)| = √(64+4+4)=√72 = 6√2.\n\nFinal Answer: 6√2",
+    "llm_answer": "6√2",
+    "llm_match": false,
+    "llm_judge_reasoning": "The predicted answer is 6√2, while the correct answer is 16. These values are not equal.",
+    "input_token_count": 63,
+    "prompt_token_count": 104,
+    "output_token_count": 279,
+    "total_token_count": 383
+  }
+]

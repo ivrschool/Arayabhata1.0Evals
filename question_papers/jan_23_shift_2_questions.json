@@ -1,0 +1,227 @@
+[
+  {
+    "question": "If in the expansion of (1 + x)^p (1 \u2013 x)^q, the coefficients of x and x^2 are 1 and \u20132 respectively, then p^2 + q^2 is equal to:",
+    "options": [
+      "8",
+      "18",
+      "13",
+      "20"
+    ],
+    "answer": "13"
+  },
+  {
+    "question": "Let A = {(x, y) \u2208 R \u00d7 R : |x + y| \u2265 3} and B = {(x, y) \u2208 R \u00d7 R : |x| + |y| \u2264 3}. If C = {(x, y) \u2208 A \u2229 B : x = 0 or y = 0}, then \u2211 |x + y| for (x,y) \u2208 C is:",
+    "options": [
+      "15",
+      "18",
+      "24",
+      "12"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "The system of equations x + y + z = 6, x + 2y + 5z = 9, x + 5y + \u03bbz = \u00b5 has no solution if:",
+    "options": [
+      "\u03bb = 17, \u00b5 \u2260 18",
+      "\u03bb \u2260 17, \u00b5 \u2260 18",
+      "\u03bb = 15, \u00b5 \u2260 17",
+      "\u03bb = 17, \u00b5 = 18"
+    ],
+    "answer": "\u03bb = 17, \u00b5 \u2260 18"
+  },
+  {
+    "question": "Let \u222b(3x sin x) dx = g(x) + C. If (3\u03c0/2 + 8) = \u03b1\u03c0 + \u03b2\u03c0 + \u03b3 where \u03b1, \u03b2, \u03b3 \u2208 Z, then \u03b1 + \u03b2 \u2013 \u03b3 equals:",
+    "options": [
+      "55",
+      "47",
+      "48",
+      "62"
+    ],
+    "answer": "55"
+  },
+  {
+    "question": "A rod of length 8 units moves such that its ends A and B lie on lines x \u2013 y + 2 = 0 and y + 2 = 0 respectively. If the locus of point P dividing AB in ratio 2:1 is 9(x\u00b2 + \u03b1y\u00b2 + \u03b2xy + \u03b3x + 28y) \u2013 76 = 0, then \u03b1 \u2013 \u03b2 \u2013 \u03b3 =",
+    "options": [
+      "24",
+      "23",
+      "21",
+      "22"
+    ],
+    "answer": "23"
+  },
+  {
+    "question": "The distance of the line (x \u2013 2)/2 = (y \u2013 6)/3 = (z \u2013 3)/4 from point (1, 4, 0) along the line (x \u2013 1)/1 = (y + 2)/2 = (z + 3)/3 is:",
+    "options": [
+      "17",
+      "14",
+      "15",
+      "13"
+    ],
+    "answer": "14"
+  },
+  {
+    "question": "Let point A divide the segment joining P(\u20131, \u20131, 2) and Q(5, 5, 10) in ratio r:1 (r > 0). If O is origin and (21/5) OQ\u00b7OA \u2013 OP\u00b7OA = 10, then r = ?",
+    "options": [
+      "14",
+      "3",
+      "7",
+      "4"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "If the area of the region {(x, y): \u20131 \u2264 x \u2264 1, 0 \u2264 y \u2264 a + e^|x| \u2013 e^\u2013x, a > 0} is (2e + 8 + 1/e), then a equals:",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "A spherical chocolate ball has an ice-cream layer of 1 cm thickness. The ice-cream melts at 81 cm\u00b3/min and layer shrinks at 1/(4\u03c0) cm/min. Surface area of chocolate is:",
+    "options": [
+      "225\u03c0",
+      "128\u03c0",
+      "196\u03c0",
+      "256\u03c0"
+    ],
+    "answer": "256\u03c0"
+  },
+  {
+    "question": "A board has 16 squares. Two are selected at random. Probability that they have no side in common is:",
+    "options": [
+      "4/5",
+      "7/10",
+      "3/5",
+      "23/30"
+    ],
+    "answer": "4/5"
+  },
+  {
+    "question": "Let x = f(y) solve dx/dy = [(x/y) \u2013 sin(x/y)], y > 0, with f(1) = \u03c0/2. Then cos(f(2)) =",
+    "options": [
+      "1 \u2013 2(log 2)^2",
+      "2(log 2)^2 \u2013 1",
+      "2 log 2 \u2013 1",
+      "1 \u2013 2 log 2"
+    ],
+    "answer": "2(log 2)^2 \u2013 1"
+  },
+  {
+    "question": "Let f(x) = 6 + 16 cos x \u00b7 cos(x \u2013 \u03c0/3) \u00b7 cos(x + \u03c0/3) \u00b7 sin(3x) \u00b7 cos(6x). If its range is [\u03b1, \u03b2], then distance of (\u03b1, \u03b2) from line 3x + 4y + 12 = 0 is:",
+    "options": [
+      "11",
+      "8",
+      "10",
+      "9"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Shortest distance from (a, 0), a > 0, to parabola y\u00b2 = 4x is 4. Circle passes through (a, 0) and focus, with center on axis. Its equation is:",
+    "options": [
+      "x\u00b2 + y\u00b2 \u2013 6x + 5 = 0",
+      "x\u00b2 + y\u00b2 \u2013 4x + 3 = 0",
+      "x\u00b2 + y\u00b2 \u2013 10x + 9 = 0",
+      "x\u00b2 + y\u00b2 \u2013 8x + 7 = 0"
+    ],
+    "answer": "x\u00b2 + y\u00b2 \u2013 6x + 5 = 0"
+  },
+  {
+    "question": "Let X = R \u00d7 R and relation R on X defined by: (a\u2081, b\u2081) R (a\u2082, b\u2082) \u21d4 b\u2081 = b\u2082. Then which is true?",
+    "options": [
+      "Both false",
+      "I true, II false",
+      "Both true",
+      "I false, II true"
+    ],
+    "answer": "I true, II false"
+  },
+  {
+    "question": "Chord of ellipse x\u00b2/4 + y\u00b2/2 = 1 has midpoint (1, 1/2). Then chord length is:",
+    "options": [
+      "2\u221a15/3",
+      "5\u221a15/3",
+      "\u221a15/3",
+      "15"
+    ],
+    "answer": "2\u221a15/3"
+  },
+  {
+    "question": "Let A be a 3\u00d73 matrix satisfying three given equations. Then a\u2082\u2083 equals:",
+    "options": [
+      "\u20131",
+      "0",
+      "2",
+      "1"
+    ],
+    "answer": "\u20131"
+  },
+  {
+    "question": "Number of complex numbers z with |z| = 1 satisfying (z + 1/z) = 2z is:",
+    "options": [
+      "6",
+      "4",
+      "10",
+      "8"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "If square of shortest distance between two lines is m/n where m, n coprime, then m + n is:",
+    "options": [
+      "6",
+      "9",
+      "21",
+      "14"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Evaluate \u222b from 0 to \u03c0/2 of (2 sin x)/(3 sin x + 4 cos x) dx:",
+    "options": [
+      "\u03c0/16",
+      "\u03c0/4",
+      "\u03c0/8",
+      "\u03c0/12"
+    ],
+    "answer": "\u03c0/16"
+  },
+  {
+    "question": "Evaluate lim x\u2192\u221e [(2x^2 \u2013 3x + 5)(3x^2 \u2013 x + 1)] / [(3x^2 + 5x + 4)(3x^2 + 2x + 1)]",
+    "options": [
+      "2/(3e)",
+      "2e/3",
+      "2e/3",
+      "2/(3e)"
+    ],
+    "answer": "2/(3e)"
+  },
+  {
+    "question": "In how many ways can 5 boys and 4 girls sit in a row such that either all boys are together or no two boys sit together?",
+    "options": [],
+    "answer": "17280"
+  },
+  {
+    "question": "Let \u03b1, \u03b2 be roots of x\u00b2 \u2013 ax \u2013 b = 0 with Im(\u03b1) < Im(\u03b2). Given expressions for P\u2083 to P\u2086, find (\u03b1\u2074 + \u03b2\u2074)/4:",
+    "options": [],
+    "answer": "31"
+  },
+  {
+    "question": "Focus of parabola y\u00b2 = 4x + 16 is center of circle C of radius 5. If point of intersection of lines lies on C for \u03bb\u2081, \u03bb\u2082, then 12\u03bb\u2081 + 29\u03bb\u2082 =",
+    "options": [],
+    "answer": "15"
+  },
+  {
+    "question": "Variance of sequence 8, 21, ..., 320 is:",
+    "options": [],
+    "answer": "8788"
+  },
+  {
+    "question": "Roots of 3x\u00b2 \u2013 px + q = 0 are 10th and 11th terms of A.P. with d = 3/2. If sum of first 11 terms is 88, then q \u2013 2p =",
+    "options": [],
+    "answer": "474"
+  }
+]
