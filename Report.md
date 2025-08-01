@@ -3,6 +3,8 @@
 
 The evaluation was conducted on **250 questions from January 2025 JEE Mains Mathematics sessions**, covering multiple shifts across different dates (January 22-29, 2025). The questions were selected to represent a comprehensive range of mathematical topics typically covered in JEE Mains examinations.
 
+**Original Aryabhata 1.0 Project**: [Aryabhata 1.0 on Hugging Face](https://huggingface.co/PhysicsWallahAI/Aryabhata-1.0)
+
 ### Evaluation Scope and Resource Constraints
 
 Due to computational resource constraints on Google Colab A100, the number of questions evaluated varied significantly across models:

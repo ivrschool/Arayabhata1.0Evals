@@ -4,6 +4,8 @@
 
 This document provides a critical analysis of the claims made by the Aryabhata 1.0 team against the actual performance observed in our comprehensive evaluation. Our findings reveal significant discrepancies between claimed performance metrics and real-world results, raising concerns about the model's readiness for practical applications.
 
+**Original Project Page**: [Aryabhata 1.0 on Hugging Face](https://huggingface.co/PhysicsWallahAI/Aryabhata-1.0)
+
 ---
 
 ## Key Claims vs Reality Comparison
@@ -13,6 +15,7 @@ This document provides a critical analysis of the claims made by the Aryabhata 1
 #### **Claim:**
 - **86% accuracy on JEE Mains January 2025 session**
 - **90.2% accuracy on JEE Mains April 2025 session**
+- **Source**: [Aryabhata 1.0 Key Features](https://huggingface.co/PhysicsWallahAI/Aryabhata-1.0)
 
 #### **Reality:**
 - **40% accuracy on JEE Mains January 2025 session (250 questions)**
@@ -27,6 +30,7 @@ This document provides a critical analysis of the claims made by the Aryabhata 1
 
 #### **Claim:**
 - **"Token Efficiency: Operates effectively around a ~2K token window, compared to ~8K required by other reasoning models"**
+- **Source**: [Aryabhata 1.0 Key Features](https://huggingface.co/PhysicsWallahAI/Aryabhata-1.0)
 
 #### **Reality:**
 - **Average response length: 2,423 tokens**
@@ -43,6 +47,7 @@ This document provides a critical analysis of the claims made by the Aryabhata 1
 #### **Claim:**
 - **"Specifically tuned for JEE-level Mathematics reasoning"**
 - **"Highly effective for solving real student queries in mathematics"**
+- **Source**: [Aryabhata 1.0 Key Features](https://huggingface.co/PhysicsWallahAI/Aryabhata-1.0)
 
 #### **Reality:**
 - **Inconsistent performance across JEE question types (10% to 71.43% accuracy)**
@@ -60,6 +65,7 @@ This document provides a critical analysis of the claims made by the Aryabhata 1
 - **"Multi-phase training strategy allows Aryabhata 1.0 to capture pedagogy-aligned reasoning patterns"**
 - **"Reinforcement Learning with Verifiable Rewards (RLVR)"**
 - **"~130K problem-solution pairs curated from proprietary Physics Wallah exam datasets"**
+- **Source**: [Aryabhata 1.0 Training Details](https://huggingface.co/PhysicsWallahAI/Aryabhata-1.0)
 
 #### **Reality:**
 - **Pedagogical Issues**: Responses show poor pedagogical alignment with repetitive and confusing explanations
@@ -76,6 +82,7 @@ This document provides a critical analysis of the claims made by the Aryabhata 1
 #### **Claim:**
 - **"7B parameter causal decoder-based model"**
 - **"Compute Efficient: Trained on a 1x2 NVIDIA H100 GPU using optimized pipeline"**
+- **Source**: [Aryabhata 1.0 Key Features](https://huggingface.co/PhysicsWallahAI/Aryabhata-1.0)
 
 #### **Reality:**
 - **Performance**: 7B parameters insufficient for claimed accuracy levels
@@ -223,6 +230,7 @@ The gap between claims and reality suggests that Aryabhata 1.0 is not ready for 
 - **Evaluation**: Composite metric (Float Match, String Match, LLM-as-Judge)
 - **Quality Assessment**: Not specified
 - **Transparency**: Limited methodology details provided
+- **Source**: [Aryabhata 1.0 Model Card](https://huggingface.co/PhysicsWallahAI/Aryabhata-1.0)
 
 ### **Key Differences:**
 1. **Evaluation Criteria**: Different matching strategies may explain accuracy differences

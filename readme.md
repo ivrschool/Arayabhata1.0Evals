@@ -2,6 +2,8 @@
 
 This repository contains comprehensive evaluations of Arayabhata 1.0 model on JEE 2025 Mathematics questions, and comparisons with models like GPT-4o-mini and Qwen-2.5-math.
 
+**Original Aryabhata 1.0 Project**: [Aryabhata 1.0 on Hugging Face](https://huggingface.co/PhysicsWallahAI/Aryabhata-1.0)
+
 ## Project Overview
 
 The project evaluates the mathematical reasoning capabilities of Aryabhata 1.0 by testing them on authentic JEE (Joint Entrance Examination) January 2025 Mathematics questions. The evaluation includes:
