@@ -18,11 +18,16 @@ The project evaluates the mathematical reasoning capabilities of Aryabhata 1.0 b
 ```
 Aryabhata1.0Evals/
 ├── Evals/                          # Evaluation results for different models
-│   ├── aryabhata1.0_llm 2/        # Aryabhata 1.0 model evaluations
+│   ├── aryabhata1.0/              # Aryabhata 1.0 model evaluations
 │   ├── gpt-4o-mini/               # GPT-4o-mini model evaluations
-│   └── qwen-2.5-math 2/           # Qwen-2.5-math model evaluations
+│   └── qwen-2.5-math/             # Qwen-2.5-math model evaluations
 ├── Notebooks/                      # Jupyter notebooks for analysis and processing
 ├── question_papers/                # Source JEE 2025 mathematics questions
+├── Documentation/                  # Analysis reports and documentation
+│   ├── Report.md                  # Comprehensive evaluation report
+│   ├── ClaimVsReality.md          # Claims vs reality analysis
+│   ├── recommendations.md         # Key recommendations and improvements
+│   └── quickref.md                # Quick reference summary
 └── readme.md                       # This file
 ```
 
@@ -100,6 +105,42 @@ Jupyter notebooks for data processing, analysis, and evaluation.
 - `GPT_4o_mini_Evals.ipynb` - Evaluation notebook for GPT-4o-mini
 - `Parallael_answer_gen_qwen_2_5_math.ipynb` - Parallel response generation for Qwen-2.5-math
 
+### 📁 `Documentation/`
+Comprehensive analysis reports and documentation files.
+
+**Files:**
+- `Report.md` - **Comprehensive evaluation report** with detailed findings, performance analysis, and three-way model comparison
+- `ClaimVsReality.md` - **Claims vs reality analysis** comparing Aryabhata 1.0 team's claims with actual performance
+- `recommendations.md` - **Key recommendations** for improvements and future development
+- `quickref.md` - **Quick reference summary** with visual comparisons and key findings
+
+#### Key Documentation Overview:
+
+**📊 Report.md**
+- Detailed performance analysis of all three models
+- Individual question set results with visual charts
+- Quality issues analysis with concrete examples
+- Three-way model comparison on same question sets
+- Critical analysis and improvement recommendations
+
+**⚖️ ClaimVsReality.md**
+- Critical analysis of claimed vs actual performance
+- 46% accuracy discrepancy identification
+- Transparency and methodology concerns
+- Recommendations for the Aryabhata team
+
+**🎯 recommendations.md**
+- Prioritized action items for immediate, short-term, and long-term improvements
+- Technical recommendations for model development
+- Standards recommendations for the research community
+- Priority matrix with clear timelines
+
+**📋 quickref.md**
+- Executive summary of all findings
+- Visual performance comparisons using ASCII charts
+- Quick reference tables and rankings
+- Links to all detailed documentation
+
 ## Evaluation Metrics
 
 The evaluation system tracks various performance metrics:
@@ -130,15 +171,29 @@ The evaluation system tracks various performance metrics:
 Based on the evaluation results:
 
 ### Aryabhata 1.0 Model
-- **Overall Performance**: Varies across different question sets
-- **Best Performance**: Up to 71.43% accuracy on certain question sets
-- **Average Performance**: Around 40-50% accuracy across most sets
-- **Strengths**: Good mathematical reasoning, step-by-step solutions
-- **Areas for Improvement**: Consistency across different question types
+- **Overall Performance**: 40% accuracy on 250 questions (significantly below claimed 86%)
+- **Best Performance**: 71.43% accuracy on Jan 22 Shift 1
+- **Worst Performance**: 10% accuracy on Jan 24 Shift 1
+- **Strengths**: Best mathematical accuracy among evaluated models
+- **Critical Issues**: Severe repetition, hallucination, and response quality problems
 
-### Comparison with Other Models
-- **GPT-4o-mini**: Alternative mathematical reasoning model
-- **Qwen-2.5-math**: Baseline comparison model
+### Three-Way Model Comparison
+- **Aryabhata 1.0**: Best accuracy (58.14%) but has quality issues
+- **GPT-4o-mini**: Best response quality and evaluation success (100%) but moderate accuracy (32%)
+- **Qwen-2.5-math**: Poorest performance across all metrics (16.67% accuracy)
+
+### Key Findings
+- **46% accuracy gap** between claimed (86%) and actual (40%) performance
+- **Severe quality issues** not reflected in original claims
+- **Inconsistent performance** across different question sets
+- **Token inefficiency** (2,423 avg tokens vs claimed ~2K)
+
+### Documentation
+For detailed analysis, see:
+- **[Quick Reference](quickref.md)** - Executive summary with visual comparisons
+- **[Comprehensive Report](Report.md)** - Detailed findings and analysis
+- **[Claims vs Reality](ClaimVsReality.md)** - Critical analysis of performance claims
+- **[Recommendations](recommendations.md)** - Actionable improvement suggestions
 
 ## Usage
 
